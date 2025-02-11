@@ -1,0 +1,583 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Nome",
+      "localizable": true,
+      "multiple": false,
+      "name": "nomeField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione28968676"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Nome alternativo",
+      "localizable": true,
+      "multiple": false,
+      "name": "nomeAlternativoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione28968676"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione breve",
+      "localizable": true,
+      "multiple": false,
+      "name": "descrizioneBreveField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione28968676"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "descrizioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione28968676"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Target",
+      "localizable": true,
+      "multiple": false,
+      "name": "targetField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione72714661"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Come aderire",
+      "localizable": true,
+      "multiple": false,
+      "name": "comeAderireField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Pre-requisiti",
+      "localizable": true,
+      "multiple": false,
+      "name": "preRequisitiField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione72714661"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Tempistiche di erogazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "tempisticheDiErogazioneField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Output",
+      "localizable": true,
+      "multiple": false,
+      "name": "outputField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Punti di contatto fisico",
+      "localizable": true,
+      "multiple": false,
+      "name": "puntiDiContattoFisicoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione31877518"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Punti di contatto online",
+      "localizable": true,
+      "multiple": false,
+      "name": "puntiDiContattoOnlineField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione31877518"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Copertura temporale",
+      "localizable": true,
+      "multiple": false,
+      "name": "coperturaTemporaleField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione31877518"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Orari di apertura",
+      "localizable": true,
+      "multiple": false,
+      "name": "orariDiAperturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione31877518"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Destinazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "destinazioneWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Latitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "latitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Longitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "longitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Area di interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "areaDiInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione55320233"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Normative",
+      "localizable": true,
+      "multiple": false,
+      "name": "normativeField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Telefono",
+      "localizable": true,
+      "multiple": false,
+      "name": "telefonoField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Cellulare",
+      "localizable": true,
+      "multiple": false,
+      "name": "cellulareField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Email",
+      "localizable": true,
+      "multiple": false,
+      "name": "emailField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione28968676"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sito web",
+      "localizable": true,
+      "multiple": false,
+      "name": "sitoWebField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione93684428"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "SOCIAL",
+      "localizable": false,
+      "multiple": false,
+      "name": "socialFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome social",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeSocialField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "Facebook",
+              "value": "opzione98506237"
+            },
+            {
+              "label": "Instagram",
+              "value": "opzione66966347"
+            },
+            {
+              "label": "X",
+              "value": "opzione01029534"
+            },
+            {
+              "label": "Whatsapp",
+              "value": "opzione71040297"
+            },
+            {
+              "label": "Youtube",
+              "value": "opzione83327340"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "select",
+          "predefinedValue": "[]"
+        },
+        {
+          "dataType": "string",
+          "label": "URL",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlSocialField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione69192373"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": ""
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Costo",
+      "localizable": true,
+      "multiple": false,
+      "name": "costoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione93684428"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Immagine principale",
+      "localizable": true,
+      "multiple": false,
+      "name": "immaginePrincipaleMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Altra immagine",
+      "localizable": true,
+      "multiple": false,
+      "name": "altraImmagineMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Codice dell\u0027ente erogatore",
+      "localizable": true,
+      "multiple": false,
+      "name": "codiceDellEnteErogatoreField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione93684428"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "META",
+      "localizable": false,
+      "multiple": false,
+      "name": "metaFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Chiave",
+          "localizable": true,
+          "multiple": false,
+          "name": "chiaveField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione88662272"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Valore",
+          "localizable": true,
+          "multiple": false,
+          "name": "valoreField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione88662272"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
+  },
+  "dateCreated": "2024-04-17T10:52:26Z",
+  "dateModified": "2024-09-17T12:53:24Z",
+  "description": "",
+  "id": 8273124,
+  "name": "Servizio Pubblico",
+  "siteId": 52189
+}

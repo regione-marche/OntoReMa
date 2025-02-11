@@ -1,0 +1,69 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "title",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "description",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "yamlFileUrl",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "pdfFileUrl",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 64380,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2023-05-18T12:31:09Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Swagger",
+  "friendlyUrlPath": "swagger",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170
+  ],
+  "title": "Swagger",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

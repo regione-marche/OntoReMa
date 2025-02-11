@@ -1,0 +1,372 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Nome",
+      "localizable": true,
+      "multiple": false,
+      "name": "nomeField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione58281820"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Cognome",
+      "localizable": true,
+      "multiple": false,
+      "name": "cognomeField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione58281820"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Codice Fiscale",
+      "localizable": true,
+      "multiple": false,
+      "name": "codiceFiscaleField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione41955404"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Partita Iva",
+      "localizable": true,
+      "multiple": false,
+      "name": "partitaIvaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione34210451"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Latitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "latitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Longitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "longitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Area di Interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "areaDiInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione73617366"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Telefono",
+      "localizable": true,
+      "multiple": false,
+      "name": "telefonoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione34210451"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Email",
+      "localizable": true,
+      "multiple": false,
+      "name": "emailField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione34210451"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sito Web",
+      "localizable": true,
+      "multiple": false,
+      "name": "sitoWebField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione34210451"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Immagine principale",
+      "localizable": true,
+      "multiple": false,
+      "name": "immaginePrincipaleMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Servizio Privato",
+      "localizable": true,
+      "multiple": false,
+      "name": "servizioPrivatoWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Servizio Pubblico",
+      "localizable": true,
+      "multiple": false,
+      "name": "servizioPubblicoWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Destinazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "destinazioneWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "SOCIAL",
+      "localizable": false,
+      "multiple": false,
+      "name": "socialFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome social",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeSocialField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "Facebook",
+              "value": "opzione32032491"
+            },
+            {
+              "label": "X",
+              "value": "opzione81692394"
+            },
+            {
+              "label": "Youtube",
+              "value": "opzione32493251"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "select",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "URL",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlSocialField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione63347815"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "META",
+      "localizable": false,
+      "multiple": false,
+      "name": "metaFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Chiave",
+          "localizable": true,
+          "multiple": false,
+          "name": "chiaveField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione63347815"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Valore",
+          "localizable": true,
+          "multiple": false,
+          "name": "valoreField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione63347815"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
+  },
+  "dateCreated": "2024-04-17T10:03:53Z",
+  "dateModified": "2025-02-05T14:29:44Z",
+  "description": "",
+  "id": 8272678,
+  "name": "Guida",
+  "siteId": 52189
+}

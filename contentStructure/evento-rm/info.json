@@ -1,0 +1,1321 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Titolo",
+      "localizable": true,
+      "multiple": false,
+      "name": "titoloField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione95276349"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "descrizioneField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Immagine Principale",
+      "localizable": true,
+      "multiple": false,
+      "name": "immaginePrincipaleMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Altra immagine",
+      "localizable": true,
+      "multiple": false,
+      "name": "altraImmagineMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "date",
+      "label": "Data di inizio dell\u0027evento",
+      "localizable": true,
+      "multiple": false,
+      "name": "dataDiInizioDellEventoField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "date",
+      "label": "Data di fine dell\u0027evento",
+      "localizable": true,
+      "multiple": false,
+      "name": "dataDiIFineDellEventoField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Template",
+      "localizable": true,
+      "multiple": false,
+      "name": "templateField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "Event",
+          "value": "opzione18969576"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sottotitolo",
+      "localizable": true,
+      "multiple": false,
+      "name": "sottotitoloField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione95276349"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Media",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Evento virtuale",
+      "localizable": true,
+      "multiple": false,
+      "name": "eventoVirtualeField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Evento ricorrente",
+      "localizable": true,
+      "multiple": false,
+      "name": "eventoRicorrenteField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Ricorrenza",
+      "localizable": true,
+      "multiple": false,
+      "name": "ricorrenzaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione92813797"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Organizzatore dell\u0027evento",
+      "localizable": true,
+      "multiple": false,
+      "name": "organizzazioneDellEventoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione65565405"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Orario di apertura",
+      "localizable": true,
+      "multiple": false,
+      "name": "orarioDiAperturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione96336794"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Stato dell\u0027evento",
+      "localizable": true,
+      "multiple": false,
+      "name": "statoDellEventoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione92813797"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Prezzo",
+      "localizable": true,
+      "multiple": false,
+      "name": "prezzoField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Info accessibilit\u00E0",
+      "localizable": true,
+      "multiple": false,
+      "name": "infoAccessibilitaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione92813797"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Capacit\u00E0 massima",
+      "localizable": true,
+      "multiple": false,
+      "name": "capacitaMassimaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione75016067"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Modalit\u00E0 di partecipazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "modalitaDiPartecipazioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione75016067"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Link di registrazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "linkDiRegistrazioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione75016067"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "document",
+      "label": "Risorse scaricabili",
+      "localizable": true,
+      "multiple": false,
+      "name": "risorseScaricabiliMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Eventi associati",
+      "localizable": true,
+      "multiple": false,
+      "name": "eventiAssociatiWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Macro evento",
+      "localizable": true,
+      "multiple": false,
+      "name": "macroEventoWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Area di interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "areaDiInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione82770428"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Latitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "latitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Longitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "longitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "META",
+      "localizable": false,
+      "multiple": false,
+      "name": "metaFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Chiave",
+          "localizable": true,
+          "multiple": false,
+          "name": "chiaveField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione23014687"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Valore",
+          "localizable": true,
+          "multiple": false,
+          "name": "valoreField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione23014687"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Servizi",
+      "localizable": false,
+      "multiple": false,
+      "name": "serviziEventoFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Altri servizi",
+          "localizable": true,
+          "multiple": false,
+          "name": "altriServiziField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione82704926"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Lista di servizi",
+          "localizable": true,
+          "multiple": false,
+          "name": "listaDiServiziField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "Disabilit\u00E0 fisiche",
+              "value": "opzione37046438"
+            },
+            {
+              "label": "Ascensore",
+              "value": "opzione58157855"
+            },
+            {
+              "label": "Audioguide",
+              "value": "opzione48776225"
+            },
+            {
+              "label": "Baby area",
+              "value": "opzione55758046"
+            },
+            {
+              "label": "Bus",
+              "value": "opzione65565544"
+            },
+            {
+              "label": "Deposito bagagli",
+              "value": "opzione48917920"
+            },
+            {
+              "label": "Disabilit\u00E0 cognitive",
+              "value": "opzione12953512"
+            },
+            {
+              "label": "Disabilit\u00E0 uditive",
+              "value": "opzione95861322"
+            },
+            {
+              "label": "Disabilit\u00E0 visive",
+              "value": "opzione31187046"
+            },
+            {
+              "label": "Guardaroba",
+              "value": "opzione41519624"
+            },
+            {
+              "label": "Info",
+              "value": "opzione35272954"
+            },
+            {
+              "label": "Noleggio bici",
+              "value": "opzione72146457"
+            },
+            {
+              "label": "Parcheggio",
+              "value": "opzione53812191"
+            },
+            {
+              "label": "Pet",
+              "value": "opzione85487753"
+            },
+            {
+              "label": "Ristoro",
+              "value": "opzione73000195"
+            },
+            {
+              "label": "Servizi igienici",
+              "value": "opzione08187094"
+            },
+            {
+              "label": "Shop",
+              "value": "opzione61081120"
+            },
+            {
+              "label": "Visite guidate",
+              "value": "opzione69525989"
+            },
+            {
+              "label": "Wifi",
+              "value": "opzione87748755"
+            },
+            {
+              "label": "Camere non fumatori",
+              "value": "opzione93257164"
+            },
+            {
+              "label": "Disponibilit\u00E0 di camere familiari",
+              "value": "opzione65793009"
+            },
+            {
+              "label": "Reception 24 ore su 24",
+              "value": "opzione39866954"
+            },
+            {
+              "label": "Animali ammessi",
+              "value": "opzione59893611"
+            },
+            {
+              "label": "Palestra",
+              "value": "opzione77696520"
+            },
+            {
+              "label": "Navetta aeroportuale",
+              "value": "opzione52236012"
+            },
+            {
+              "label": "Servizio in camera",
+              "value": "opzione31210060"
+            },
+            {
+              "label": "Camere strutture per ospiti disabili",
+              "value": "opzione76005015"
+            },
+            {
+              "label": "Ristorante",
+              "value": "opzione48871742"
+            },
+            {
+              "label": "Spa",
+              "value": "opzione19869346"
+            },
+            {
+              "label": "Piscina",
+              "value": "opzione47336506"
+            },
+            {
+              "label": "Stazione di ricarica per veicoli elettrici",
+              "value": "opzione58029908"
+            },
+            {
+              "label": "Menu bambini",
+              "value": "opzione74900438"
+            },
+            {
+              "label": "Lingue parlate tedesco",
+              "value": "opzione87985804"
+            },
+            {
+              "label": "Lingue parlate francese",
+              "value": "opzione71382562"
+            },
+            {
+              "label": "Lingue parlate spagnolo",
+              "value": "opzione14957714"
+            },
+            {
+              "label": "Lingue parlate inglese",
+              "value": "opzione18064740"
+            },
+            {
+              "label": "Lingue parlate russo",
+              "value": "opzione00197673"
+            },
+            {
+              "label": "Lingue parlate italiano",
+              "value": "opzione95542842"
+            },
+            {
+              "label": "Lingue parlate cinese",
+              "value": "opzione04967507"
+            },
+            {
+              "label": "Bagno per disabili",
+              "value": "opzione15471550"
+            },
+            {
+              "label": "Area fumatori",
+              "value": "opzione44104646"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "select",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Codice ISTAT",
+      "localizable": true,
+      "multiple": false,
+      "name": "codiceIstatField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "CAP",
+      "localizable": true,
+      "multiple": false,
+      "name": "capField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Nazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "nazioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Toponimo",
+      "localizable": true,
+      "multiple": false,
+      "name": "toponimoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Regione",
+      "localizable": true,
+      "multiple": false,
+      "name": "regioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Provincia",
+      "localizable": true,
+      "multiple": false,
+      "name": "provinciaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Provincia Estesa",
+      "localizable": true,
+      "multiple": false,
+      "name": "provinciaEstesaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Citt\u00E0",
+      "localizable": true,
+      "multiple": false,
+      "name": "cittaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Nome della strada",
+      "localizable": true,
+      "multiple": false,
+      "name": "nomeDellaStradaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Numero civico",
+      "localizable": true,
+      "multiple": false,
+      "name": "numeroCivicoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Indirizzo completo",
+      "localizable": true,
+      "multiple": false,
+      "name": "indirizzoCompletoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Denominazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "denominazioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Quartiere",
+      "localizable": true,
+      "multiple": false,
+      "name": "quartiereField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione78977868"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Sponsor",
+      "localizable": false,
+      "multiple": false,
+      "name": "sponsorEventoFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome dello sponsor",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeDelloSponsorField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione52899780"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Url dello sponsor",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlDelloSponsorField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione14333952"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Destinazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "destinazioneWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Url",
+      "localizable": true,
+      "multiple": false,
+      "name": "urlField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione95276349"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Paragrafo",
+      "localizable": false,
+      "multiple": false,
+      "name": "paragrafoFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "integer",
+          "label": "Posizione del paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "posizioneDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "",
+          "label": "link",
+          "localizable": false,
+          "multiple": false,
+          "name": "linkParagrafoFieldset",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "string",
+              "label": "Descrizione",
+              "localizable": true,
+              "multiple": false,
+              "name": "descrizioneLinkField",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Url esterno",
+              "localizable": true,
+              "multiple": false,
+              "name": "urlEsternoField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione00570657"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Nome del link",
+              "localizable": true,
+              "multiple": false,
+              "name": "nomeDelLinkField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione32645322"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            }
+          ],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Titolo del paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "titoloDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione54789603"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Sottotitolo del paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "sottotitoloDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione95276349"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Testo del paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "testoDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "structuredContent",
+          "label": "Autore",
+          "localizable": true,
+          "multiple": false,
+          "name": "autoreParagrafoWebContent",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "immagineParagrafoMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Media",
+          "localizable": true,
+          "multiple": false,
+          "name": "mediaParagrafoMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "structuredContent",
+          "label": "Evento",
+          "localizable": true,
+          "multiple": false,
+          "name": "eventoParagrafoWebContent",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Funzionalit\u00E0 (evolutive)",
+      "localizable": false,
+      "multiple": false,
+      "name": "funzionalitaEvolutiveFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Id funzionalit\u00E0",
+          "localizable": true,
+          "multiple": false,
+          "name": "idFunzionalitaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione71537848"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Attributo",
+          "localizable": true,
+          "multiple": false,
+          "name": "attributoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione71537848"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "ID Esterno",
+      "localizable": true,
+      "multiple": false,
+      "name": "idEsternoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione51777637"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
+  },
+  "dateCreated": "2024-04-17T10:00:16Z",
+  "dateModified": "2024-12-12T09:32:31Z",
+  "description": "",
+  "id": 8272644,
+  "name": "Evento RM",
+  "siteId": 52189
+}

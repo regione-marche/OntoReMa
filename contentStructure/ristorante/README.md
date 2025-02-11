@@ -1,0 +1,140 @@
+# Ristorante
+
+## Description
+
+## General Information
+- **ID**: 8272952
+- **Site ID**: 52189
+- **Created**: 17-04-2024 10:48
+- **Last Modified**: 10-02-2025 22:34
+
+## Content Structure Fields
+### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 2. Descrizione (`descrizioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+
+### 3. Indirizzo completo (`indirizzoCompletoField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 4. Contatto - Nominativo (`contattoNominativoField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 5. Telefono (`telefonoField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 6. Cellulare (`cellulareField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 7. Email (`emailField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 8. Sito Web (`sitoWebField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 9. Orario di apertura (`orarioDiAperturaField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 10. Servizi (`serviziField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 11. Menù (`menuWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+
+### 12. Immagine Principale (`immaginePrincipaleMedia`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: document
+
+### 13. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 14. Operatore (`operatoreWebContent`) 
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Operatore](../../contentStructure/operatore/README.md)**
+
+### 15. Destinazione (`destinazioneWebContent`) 
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Destinazione](../../contentStructure/destinazione/README.md)**
+  - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
+
+### 16. Servizio Privato (`servizioPrivatoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Servizio Privato](../../contentStructure/servizio-privato/README.md)**
+
+### 17. Servizio Pubblico (`servizioPubblicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Servizio Pubblico](../../contentStructure/servizio-pubblico/README.md)**
+
+### 18. Prodotto Tipico (`prodottoTipicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 19. Vino (`vinoWebcontent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 20. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 21. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 22. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: double
+
+### 23. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: double
+
+### 24. Area di interesse (`areaDiInteresseField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 25. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 25.1. Nome social (`nomeSocialField`) 
+- **Data Type**: string
+- **Input Control**: select
+##### Options
+- Facebook: `opzione36713368`
+- X: `opzione90797153`
+- Instagram: `opzione98037736`
+
+#### 25.2. URL (`urlSocialField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 26. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 26.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 26.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+## Categories
+- **[Stagionalità](../../categories/stagionalità.md)** (`10207163`) 
+- **[Fascia di prezzo](../../categories/fascia-di-prezzo.md)** (`10338968`) 
+- **[Stelle Michelin](../../categories/stelle-michelin.md)** (`10338984`) 
+- **[Categoria Ristorante](../../categories/categoria-ristorante.md)** (`10338994`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Esigenze alimentari](../../categories/esigenze-alimentari.md)** (`10346224`) 
+- **[Accessibilità](../../categories/accessibilità.md)** (`10346289`) 
+- **[Tema](../../categories/tema.md)** (`10346791`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Riferimento geografico](../../categories/riferimento-geografico.md)** (`5697889`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Licenza](../../categories/licenza.md)** (`5698589`) ![Required](https://img.shields.io/badge/*Required-red.svg)

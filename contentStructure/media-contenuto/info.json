@@ -1,0 +1,217 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Titolo",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaTitle",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione39715993"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaDescription",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "boolean",
+      "label": "File esterno",
+      "localizable": true,
+      "multiple": false,
+      "name": "isExternal",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": "[\u0022false\u0022]"
+    },
+    {
+      "dataType": "string",
+      "label": "Media URL (popolarlo se il file \u00E8 esterno)",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaURL",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione59715414"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Autore",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaCredit",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione59715414"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Licenza",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaLicense",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "GNU General Public License (GPL)",
+          "value": "opzione01842198"
+        },
+        {
+          "label": "GNU Lesser General Public License (LGPL)",
+          "value": "opzione22396473"
+        },
+        {
+          "label": "Licenza BSD",
+          "value": "opzione27304739"
+        },
+        {
+          "label": "Licenza MIT",
+          "value": "opzione69326476"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": "[]"
+    },
+    {
+      "dataType": "string",
+      "label": "Licenza URL",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaLicenseURL",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione59715414"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Tipologia Media",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaType",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "video",
+          "value": "opzione46324440"
+        },
+        {
+          "label": "gif",
+          "value": "opzione03848408"
+        },
+        {
+          "label": "audio",
+          "value": "opzione04034678"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": "[]"
+    },
+    {
+      "dataType": "date",
+      "label": "Data fine licenza d\u0027uso",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaEndDate",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "ID Esterno",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaExternalId",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione59715414"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2022-11-10T16:11:04Z",
+  "dateModified": "2023-01-23T10:43:10Z",
+  "description": "",
+  "id": 61184,
+  "name": "Media contenuto",
+  "siteId": 52189
+}

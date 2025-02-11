@@ -1,0 +1,33 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "html_text",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 59031,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2023-05-18T12:29:57Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Contenuto_html",
+  "friendlyUrlPath": "contenuto_html",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170
+  ],
+  "title": "Contenuto_html",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

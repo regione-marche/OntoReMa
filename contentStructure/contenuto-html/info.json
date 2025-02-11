@@ -1,0 +1,36 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Contenuto html",
+      "localizable": true,
+      "multiple": false,
+      "name": "html_text",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2022-11-07T16:59:29Z",
+  "dateModified": "2023-05-18T12:29:57Z",
+  "description": "",
+  "id": 59031,
+  "name": "Contenuto_html",
+  "siteId": 52189
+}

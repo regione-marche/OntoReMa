@@ -1,0 +1,333 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": null,
+      "name": "offerOffer",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerOfferName",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerOfferDescription",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": null,
+          "name": "offerOfferPriceDetail",
+          "nestedContentFields": [
+            {
+              "contentFieldValue": {
+                "data": "123.45",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferPriceDetailPrice",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "example text",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferPriceDetailPax",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "example text",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferPriceDetailInEligibleRegions",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": null,
+              "name": "offerOfferPriceDetailEligibleQuantity",
+              "nestedContentFields": [
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "offerOfferPriceDetailEligibleQuantityUnitOfMeasurement",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": "12345",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "offerOfferPriceDetailEligibleQuantityValue",
+                  "nestedContentFields": null
+                }
+              ]
+            },
+            {
+              "contentFieldValue": {
+                "data": "example text",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferPriceDetailName",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": null,
+              "name": "offerOfferPriceDetailDuration",
+              "nestedContentFields": [
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "offerOfferPriceDetailDurationUnitOfMeasurement",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "offerOfferPriceDetailDurationValue",
+                  "nestedContentFields": null
+                }
+              ]
+            },
+            {
+              "contentFieldValue": {
+                "data": "example text",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferPriceDetailPriceCurrency",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": null,
+              "name": "offerOfferPriceDetailUserType",
+              "nestedContentFields": [
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "offerOfferPriceDetailUserTypeEligibleFor",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "offerOfferPriceDetailUserTypeNotEligibleFor",
+                  "nestedContentFields": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "contentFieldValue": null,
+          "name": "offerOfferValidity",
+          "nestedContentFields": [
+            {
+              "contentFieldValue": {
+                "data": "2025-02-11T16:26:28Z",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferValidityValidFrom",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "2025-02-11T16:26:28Z",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "offerOfferValidityValidTo",
+              "nestedContentFields": null
+            }
+          ]
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerOfferPriceRange",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerOfferPaymentMethods",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerCategory",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": null,
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": {
+              "embeddedStructuredContent": null,
+              "id": 0,
+              "title": "nome del contenuto da associare"
+            }
+          },
+          "name": "offerOfferDestinationID",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
+      "name": "offerFeature",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerFeatureId",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "offerFeatureValue",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "offerExternalId",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 52995,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2023-07-11T08:21:54Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Offerta",
+  "friendlyUrlPath": "offerta",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    5697890,
+    5698590
+  ],
+  "title": "Offerta",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

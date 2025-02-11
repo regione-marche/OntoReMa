@@ -1,0 +1,185 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Titolo",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageTitle",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione00534821"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageDescription",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Credito",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageCredit",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione52187162"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "Licenza",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageLicense",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "GNU General Public License (GPL)",
+          "value": "opzione70668361"
+        },
+        {
+          "label": "GNU Lesser General Public License (LGPL)",
+          "value": "opzione81090179"
+        },
+        {
+          "label": "Licenza BSD",
+          "value": "opzione13641800"
+        },
+        {
+          "label": "Licenza MIT",
+          "value": "opzione32060984"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": "[]"
+    },
+    {
+      "dataType": "string",
+      "label": "Licenza URL",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageLicenseURL",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione52187162"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "double",
+      "label": "Larghezza",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageWidth",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "double",
+      "label": "Altezza",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageHeight",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "date",
+      "label": "Data di fine licenza d\u0027uso",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageEndDate",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "string",
+      "label": "ID Esterno",
+      "localizable": true,
+      "multiple": false,
+      "name": "imageExternalId",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione24797105"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": ""
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2022-11-10T16:05:02Z",
+  "dateModified": "2023-01-23T10:38:07Z",
+  "description": "",
+  "id": 61168,
+  "name": "Immagine contenuto",
+  "siteId": 52189
+}

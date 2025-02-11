@@ -1,0 +1,615 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Titolo dell\u0027itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "titoloDellItinerarioField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione02340399"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "descrizioneField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "date",
+      "label": "Valido da",
+      "localizable": true,
+      "multiple": false,
+      "name": "validoDaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "date",
+      "label": "Valido a",
+      "localizable": true,
+      "multiple": false,
+      "name": "validoAField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Difficolt\u00E0 itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "difficoltaItinerarioField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione44582863"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Tappa itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "tappaItinerarioWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sovratitolo dell\u0027itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "sovratitoloDellItinerario",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione36869292"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sottotitolo dell\u0027itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "sottotitoloDellItinerario",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione96954586"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "image",
+      "label": "Immagine principale",
+      "localizable": true,
+      "multiple": false,
+      "name": "immaginePrincipaleMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": "{}"
+    },
+    {
+      "dataType": "document",
+      "label": "Altra immagine",
+      "localizable": true,
+      "multiple": false,
+      "name": "altraImmagineMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Media",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Tipologia itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "tipologiaItinerarioField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione09133233"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Durata",
+      "localizable": true,
+      "multiple": false,
+      "name": "durataField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Periodo migliore per l\u0027itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "periodoMigliorePerLItinerarioField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione98059212"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Offerte",
+      "localizable": true,
+      "multiple": false,
+      "name": "offerteField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione87949120"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Autore",
+      "localizable": true,
+      "multiple": false,
+      "name": "autoreWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Latitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "latitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Longitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "longitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "META",
+      "localizable": false,
+      "multiple": false,
+      "name": "metaFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Chiave",
+          "localizable": true,
+          "multiple": false,
+          "name": "chiaveField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione65470495"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Valore",
+          "localizable": true,
+          "multiple": false,
+          "name": "valoreField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione65470495"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Area di interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "areaDiInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione03089536"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Sponsor",
+      "localizable": false,
+      "multiple": false,
+      "name": "sponsorItinerarioFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Url dello sponsor",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlDelloSponsorField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione43183400"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Nome dello sponsor",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeDelloSponsorField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione43183400"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Risorsa",
+      "localizable": false,
+      "multiple": false,
+      "name": "risorsaItinerarioFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome risorsa",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeDellaRisorsaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione79385259"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Descrizione",
+          "localizable": true,
+          "multiple": false,
+          "name": "descrizioneRisorsaField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "URL esterno della risorsa",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlDellaRisorsaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione79385259"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Link",
+      "localizable": false,
+      "multiple": false,
+      "name": "linkItinerarioFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome del link",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeDelLinkField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione86106067"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Descrizione",
+          "localizable": true,
+          "multiple": false,
+          "name": "descrizioneLinkField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "URL esterno",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlEsternoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione86106067"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Url",
+      "localizable": true,
+      "multiple": false,
+      "name": "urlField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione83865834"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "File GPX itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "fileGpxItinerarioMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "File KML itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "fileKmlItinerarioMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
+  },
+  "dateCreated": "2024-04-17T10:10:44Z",
+  "dateModified": "2024-10-10T12:27:43Z",
+  "description": "",
+  "id": 8272728,
+  "name": "Itinerario RM",
+  "siteId": 52189
+}

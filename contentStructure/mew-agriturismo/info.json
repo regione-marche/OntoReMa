@@ -1,0 +1,721 @@
+{
+  "availableLanguages": [
+    "it-IT",
+    "en-US"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Ragione sociale",
+      "localizable": true,
+      "multiple": false,
+      "name": "title",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione27679885"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "description",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Geolocalizzazione",
+      "localizable": false,
+      "multiple": false,
+      "name": "geoSection",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Indirizzo",
+          "localizable": true,
+          "multiple": false,
+          "name": "address",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione68941974"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "N\u00B0 civico",
+          "localizable": true,
+          "multiple": false,
+          "name": "houseNumber",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione68941974"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Comune",
+          "localizable": true,
+          "multiple": false,
+          "name": "municipality",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione68941974"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Codice Istat Comune",
+          "localizable": true,
+          "multiple": false,
+          "name": "istatCodeMunicipality",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione68941974"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Provincia",
+          "localizable": true,
+          "multiple": false,
+          "name": "province",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione15798146"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Descrizione tipo indirizzo",
+          "localizable": true,
+          "multiple": false,
+          "name": "addressTypeDescription",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione68941974"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Latitudine",
+          "localizable": true,
+          "multiple": false,
+          "name": "latitude",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione03352336"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Longitudine",
+          "localizable": true,
+          "multiple": false,
+          "name": "longitude",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione03352336"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Coordinate verificate",
+          "localizable": true,
+          "multiple": false,
+          "name": "verifiedCoordinates",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "Si",
+              "value": "opzione47212794"
+            },
+            {
+              "label": "No",
+              "value": "opzione55495510"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "radio",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Contatti",
+      "localizable": false,
+      "multiple": false,
+      "name": "contactSection",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Contatto - Nominativo",
+          "localizable": true,
+          "multiple": false,
+          "name": "contact",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione72630937"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Telefono",
+          "localizable": true,
+          "multiple": false,
+          "name": "phone",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione99683866"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Cellulare",
+          "localizable": true,
+          "multiple": false,
+          "name": "mobile",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione99683866"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Fax",
+          "localizable": true,
+          "multiple": false,
+          "name": "fax",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione99683866"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Email",
+          "localizable": true,
+          "multiple": false,
+          "name": "email",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione99683866"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Sito web",
+          "localizable": true,
+          "multiple": false,
+          "name": "website",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione99683866"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Pagina social",
+          "localizable": true,
+          "multiple": false,
+          "name": "socialPage",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione97627398"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Attivit\u00E0",
+      "localizable": true,
+      "multiple": false,
+      "name": "activity",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione52922648"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Condizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "condition",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione52922648"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Immagini",
+      "localizable": false,
+      "multiple": false,
+      "name": "imagesSection",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "document",
+          "label": "Immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "image",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Autore",
+          "localizable": true,
+          "multiple": false,
+          "name": "author",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione72442125"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Didascalia",
+          "localizable": true,
+          "multiple": false,
+          "name": "caption",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione72442125"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "integer",
+          "label": "Ordine immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "imageOrder",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Path assoluto",
+          "localizable": true,
+          "multiple": false,
+          "name": "absolutePath",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione72442125"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Path immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "imagePath",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione72442125"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "integer",
+          "label": "ID immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "imageId",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "ID Poi",
+      "localizable": true,
+      "multiple": false,
+      "name": "poiId",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Tipologia Poi",
+      "localizable": true,
+      "multiple": false,
+      "name": "poiType",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione45282535"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "NUM_CERTIFICATO",
+      "localizable": true,
+      "multiple": false,
+      "name": "certificateNumber",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione11633828"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "ID_SIAR",
+      "localizable": true,
+      "multiple": false,
+      "name": "idSiar",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione11633828"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "CUAA",
+      "localizable": true,
+      "multiple": false,
+      "name": "cuaa",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione11633828"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "date",
+      "label": "Data inserimento",
+      "localizable": true,
+      "multiple": false,
+      "name": "entryDate",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "ID Utente inserimento",
+      "localizable": true,
+      "multiple": false,
+      "name": "entryUserId",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione72697140"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "date",
+      "label": "Data ultima modifica",
+      "localizable": true,
+      "multiple": false,
+      "name": "lastModifiedDate",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "ID Utente ultima modifica",
+      "localizable": true,
+      "multiple": false,
+      "name": "lastModifiedUserId",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione72697140"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2024-01-18T11:37:01Z",
+  "dateModified": "2024-01-19T09:10:48Z",
+  "description": "",
+  "id": 5678221,
+  "name": "MeW Agriturismo",
+  "siteId": 52189
+}

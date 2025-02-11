@@ -1,0 +1,45 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "Testo33148072",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "Rtf25975361",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 22304313,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2025-01-29T09:08:50Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Domanda Risposta",
+  "friendlyUrlPath": "domanda-risposta",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170
+  ],
+  "title": "Domanda Risposta",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

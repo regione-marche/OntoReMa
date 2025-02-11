@@ -1,0 +1,515 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "",
+      "label": "Offerta",
+      "localizable": false,
+      "multiple": false,
+      "name": "offerOffer",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome offerta",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerOfferName",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione66434520"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Descrizione",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerOfferDescription",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "",
+          "label": "Dettaglio prezzo",
+          "localizable": false,
+          "multiple": false,
+          "name": "offerOfferPriceDetail",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "double",
+              "label": "Prezzo",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferPriceDetailPrice",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Pax",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferPriceDetailPax",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione66434520"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Regioni ammissibili",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferPriceDetailInEligibleRegions",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione89377607"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "",
+              "label": "Quantit\u00E0 ammissibile",
+              "localizable": false,
+              "multiple": false,
+              "name": "offerOfferPriceDetailEligibleQuantity",
+              "nestedContentStructureFields": [
+                {
+                  "dataType": "string",
+                  "label": "Unit\u00E0 di misura",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "offerOfferPriceDetailEligibleQuantityUnitOfMeasurement",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione55775779"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "integer",
+                  "label": "Valore",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "offerOfferPriceDetailEligibleQuantityValue",
+                  "nestedContentStructureFields": [],
+                  "options": [],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": null,
+                  "predefinedValue": null
+                }
+              ],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Nome",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferPriceDetailName",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione86238307"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "",
+              "label": "Durata",
+              "localizable": false,
+              "multiple": false,
+              "name": "offerOfferPriceDetailDuration",
+              "nestedContentStructureFields": [
+                {
+                  "dataType": "string",
+                  "label": "Unit\u00E0 di misura",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "offerOfferPriceDetailDurationUnitOfMeasurement",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione55537652"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "string",
+                  "label": "Valore",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "offerOfferPriceDetailDurationValue",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione55537652"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                }
+              ],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Valuta",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferPriceDetailPriceCurrency",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione65270567"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "",
+              "label": "Tipo utente",
+              "localizable": false,
+              "multiple": false,
+              "name": "offerOfferPriceDetailUserType",
+              "nestedContentStructureFields": [
+                {
+                  "dataType": "string",
+                  "label": "Qualificato per",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "offerOfferPriceDetailUserTypeEligibleFor",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione29800231"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "string",
+                  "label": "Non qualificato per",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "offerOfferPriceDetailUserTypeNotEligibleFor",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione29800231"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                }
+              ],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            }
+          ],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "",
+          "label": "Validit\u00E0",
+          "localizable": false,
+          "multiple": false,
+          "name": "offerOfferValidity",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "date",
+              "label": "Valido da",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferValidityValidFrom",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "date",
+              "label": "Valido a",
+              "localizable": true,
+              "multiple": false,
+              "name": "offerOfferValidityValidTo",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            }
+          ],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Fascia di prezzo",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerOfferPriceRange",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione00740353"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Metodi di pagamento",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerOfferPaymentMethods",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione80309546"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Categoria",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerCategory",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione95878269"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "structuredContent",
+          "label": "Destinazione",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerOfferDestinationID",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Funzionalit\u00E0 (Evolutive)",
+      "localizable": false,
+      "multiple": false,
+      "name": "offerFeature",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Id funzionalit\u00E0",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerFeatureId",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione65358546"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Attributo",
+          "localizable": true,
+          "multiple": false,
+          "name": "offerFeatureValue",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione65358546"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "ID Esterno",
+      "localizable": true,
+      "multiple": false,
+      "name": "offerExternalId",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione82634052"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2022-11-02T14:53:16Z",
+  "dateModified": "2023-07-11T08:21:54Z",
+  "description": "",
+  "id": 52995,
+  "name": "Offerta",
+  "siteId": 52189
+}

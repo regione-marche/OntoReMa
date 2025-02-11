@@ -1,0 +1,75 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": null,
+      "name": "link",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "link_title",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "Pagina interna",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "page_type",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "internal_page",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "external_page",
+          "nestedContentFields": null
+        }
+      ]
+    }
+  ],
+  "contentStructureId": 59075,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2022-11-07T17:01:19Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Navigazione_header_slim",
+  "friendlyUrlPath": "navigazione_header_slim",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170
+  ],
+  "title": "Navigazione_header_slim",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

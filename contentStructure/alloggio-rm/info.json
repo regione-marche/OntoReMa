@@ -1,0 +1,1087 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Nome della struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "nomeDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione44273205"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Breve descrizione della struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "breveDescrizioneDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione dettagliata della struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "descrizioneDettagliataDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Immagine",
+      "localizable": true,
+      "multiple": false,
+      "name": "immaginePrincipaleMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "document",
+      "label": "Media",
+      "localizable": true,
+      "multiple": false,
+      "name": "mediaMedia",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Proprietario",
+      "localizable": true,
+      "multiple": false,
+      "name": "proprietarioField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione27581771"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Email",
+      "localizable": true,
+      "multiple": false,
+      "name": "emailField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione33715915"
+        }
+      ],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Telefono",
+      "localizable": true,
+      "multiple": false,
+      "name": "telefonoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione54796937"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sito web",
+      "localizable": true,
+      "multiple": false,
+      "name": "sitoWebField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione41030303"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Indirizzo",
+      "localizable": true,
+      "multiple": false,
+      "name": "indirizzoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione25369262"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Geo Hook Separatore",
+      "localizable": false,
+      "multiple": false,
+      "name": "geoHookSeparator",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": false,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Latitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "latitudineField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione33497050"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Longitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "longitudineField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione33497050"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Altitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "altitudineField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione33497050"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Stile architettonico della struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "stileArchitettonicoDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione11616412"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Stato della struttura (es.chiusa)",
+      "localizable": true,
+      "multiple": false,
+      "name": "statoDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione57374313"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Catena di appartenenza della struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "catenaDiAppartenenzaDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione77170147"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Orario di apertura",
+      "localizable": true,
+      "multiple": false,
+      "name": "orarioDiAperturaField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione35682014"
+        }
+      ],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Orario di chiusura",
+      "localizable": true,
+      "multiple": false,
+      "name": "orarioDiChiusuraField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione10733665"
+        }
+      ],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Giorni della settimana in cui la struttura rispetta gli orari di apertura e chiusura",
+      "localizable": true,
+      "multiple": false,
+      "name": "giorniSettimanaAperturaChiusuraField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "LUN",
+          "value": "opzione73422885"
+        },
+        {
+          "label": "MAR",
+          "value": "opzione19782374"
+        },
+        {
+          "label": "MER",
+          "value": "opzione33997209"
+        },
+        {
+          "label": "GIO",
+          "value": "opzione41930842"
+        },
+        {
+          "label": "VEN",
+          "value": "opzione02378263"
+        },
+        {
+          "label": "SAB",
+          "value": "opzione92500835"
+        },
+        {
+          "label": "DOM",
+          "value": "opzione86288164"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Inizio validit\u00E0 orario di apertura e chiusura",
+      "localizable": true,
+      "multiple": false,
+      "name": "inizioValiditOrarioDiAperturaEChiusuraField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione51951982"
+        }
+      ],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Fine validit\u00E0 orario di apertura e chiusura",
+      "localizable": true,
+      "multiple": false,
+      "name": "fineValiditOrarioDiAperturaEChiusuraField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione36586869"
+        }
+      ],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Informazioni relative alle modalit\u00E0 di prenotazione/cancellazione della  prenotazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "informazioniModalitaPrenotazioneField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione25650726"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Fascia di  prezzo delle camere",
+      "localizable": true,
+      "multiple": false,
+      "name": "fasciaDiPrezzoDelleCamereField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione13038640"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Numero totale dei bagni nella struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "numeroTotaleDeiBagniNellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Numero totale delle camere della struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "numeroTotaleDelleCamereDellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Numero totale dei posti letto nella struttura",
+      "localizable": true,
+      "multiple": false,
+      "name": "numeroTotaleDeiPostiLettoNellaStrutturaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Carte di credito accettate",
+      "localizable": true,
+      "multiple": false,
+      "name": "carteDiCreditoAccettateField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione55055783"
+        }
+      ],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Riscaldamento",
+      "localizable": true,
+      "multiple": false,
+      "name": "riscaldamentoField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "WIFI",
+      "localizable": true,
+      "multiple": false,
+      "name": "wifiField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Bar",
+      "localizable": true,
+      "multiple": false,
+      "name": "barField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Parcheggio",
+      "localizable": true,
+      "multiple": false,
+      "name": "parcheggioField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Reception",
+      "localizable": true,
+      "multiple": false,
+      "name": "receptionField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "TV Satellitare",
+      "localizable": true,
+      "multiple": false,
+      "name": "tvSatellitareField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Servizio bagagli",
+      "localizable": true,
+      "multiple": false,
+      "name": "servizioBagagliField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Aria condizionata",
+      "localizable": true,
+      "multiple": false,
+      "name": "ariaCondizionataField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": " Cassaforte",
+      "localizable": true,
+      "multiple": false,
+      "name": "cassaforteField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Insonorizzazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "insonorizzazioneField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Cassetta di sicurezza",
+      "localizable": true,
+      "multiple": false,
+      "name": "cassettaDiSicurezzaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Accesso per disabili",
+      "localizable": true,
+      "multiple": false,
+      "name": "accessoPerDisabiliField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Servizi in camera",
+      "localizable": true,
+      "multiple": false,
+      "name": "serviziInCameraField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Sauna",
+      "localizable": true,
+      "multiple": false,
+      "name": "saunaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Struttura che ammette camere per fumatori",
+      "localizable": true,
+      "multiple": false,
+      "name": "camereFumatoriField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Ascensore",
+      "localizable": true,
+      "multiple": false,
+      "name": "ascensoreField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Vasca idromassaggio",
+      "localizable": true,
+      "multiple": false,
+      "name": "vascaIdromassaggioField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Accettazione di animali domestici",
+      "localizable": true,
+      "multiple": false,
+      "name": "accettazioneDiAnimaliDomesticiField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Taglia degli animali consentiti",
+      "localizable": true,
+      "multiple": false,
+      "name": "tagliaDegliAnimaliConsentitiField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "Piccola",
+          "value": "opzione15778145"
+        },
+        {
+          "label": "Media",
+          "value": "opzione70463147"
+        },
+        {
+          "label": "Grande",
+          "value": "opzione49819269"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "TV",
+      "localizable": true,
+      "multiple": false,
+      "name": "tvField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Minibar",
+      "localizable": true,
+      "multiple": false,
+      "name": "minibarField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Telefono",
+      "localizable": true,
+      "multiple": false,
+      "name": "telefonoBoolField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": " Quotidiani per consultazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "quotidianiPerConsultazioneField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Ingresso camere indipendente",
+      "localizable": true,
+      "multiple": false,
+      "name": "ingressoCamereIndipendenteField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Spazio riservato ai  fumatori",
+      "localizable": true,
+      "multiple": false,
+      "name": "spazioRiservatoAiFumatoriField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Piscina",
+      "localizable": true,
+      "multiple": false,
+      "name": "piscinaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Ristorante",
+      "localizable": true,
+      "multiple": false,
+      "name": "ristoranteField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Ulteriori servizi",
+      "localizable": true,
+      "multiple": false,
+      "name": "ulterioriServiziField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione63290445"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Destinazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "destinazioneWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Funzionalit\u00E0 (evolutive)",
+      "localizable": false,
+      "multiple": false,
+      "name": "funzionalitaEvolutiveFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Id funzionalit\u00E0",
+          "localizable": true,
+          "multiple": false,
+          "name": "idFunzionalitaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione30623565"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Attributo",
+          "localizable": true,
+          "multiple": false,
+          "name": "attributoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione84542034"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "META",
+      "localizable": false,
+      "multiple": false,
+      "name": "metaFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Chiave",
+          "localizable": true,
+          "multiple": false,
+          "name": "chiaveField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione59711669"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": ""
+        },
+        {
+          "dataType": "string",
+          "label": "Valore",
+          "localizable": true,
+          "multiple": false,
+          "name": "valoreField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione59711669"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": ""
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Area di interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "areaDiInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione84716441"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
+  },
+  "dateCreated": "2024-04-17T09:43:04Z",
+  "dateModified": "2024-10-02T14:19:05Z",
+  "description": "",
+  "id": 8272153,
+  "name": "Alloggio RM",
+  "siteId": 52189
+}

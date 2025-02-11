@@ -1,0 +1,83 @@
+# Stagionalità
+
+## Description
+Periodo di attività durante l'anno.
+## General Information
+- **ID**: 10207163
+- **Site ID**: 52189
+- **Created**: 17-05-2024 13:40
+- **Last Modified**: 17-05-2024 13:40
+
+## Categories
+- **Primavera** (`10207170`)
+- **Estate** (`10207173`)
+- **Autunno** (`10207176`)
+- **Inverno** (`10207179`)
+- **Festività estive** (`10207182`)
+- **Festività natalizie** (`10207185`)
+- **Tutto l'anno** (`10207188`)
+## Asset Types
+- **[Generic Description](../contentStructure/generic-description/README.md)** 
+- **[Test MV](../contentStructure/test-mv/README.md)** 
+- **[Modifiche DHM](../contentStructure/modifiche-dhm/README.md)** 
+- **[Titolo Contenuto](../contentStructure/titolo-contenuto/README.md)** 
+- **[Domanda Risposta](../contentStructure/domanda-risposta/README.md)** 
+- **[Alloggio](../contentStructure/alloggio/README.md)** 
+- **[Autore](../contentStructure/autore/README.md)** 
+- **[Camera (stanza)](../contentStructure/camera-stanza/README.md)** 
+- **[Destinazione](../contentStructure/destinazione/README.md)** 
+- **[Evento](../contentStructure/evento/README.md)** 
+- **[Interesse](../contentStructure/interesse/README.md)** 
+- **[Itinerario](../contentStructure/itinerario/README.md)** 
+- **[Menu](../contentStructure/menu/README.md)** 
+- **[Offerta](../contentStructure/offerta/README.md)** 
+- **[Tappa itinerario](../contentStructure/tappa-itinerario/README.md)** 
+- **[MeW Agriturismo](../contentStructure/mew-agriturismo/README.md)** 
+- **[MeW Azienda](../contentStructure/mew-azienda/README.md)** 
+- **[MeW Eccellenza del gusto](../contentStructure/mew-eccellenza-del-gusto/README.md)** 
+- **[MeW Evento](../contentStructure/mew-evento/README.md)** 
+- **[MeW Itinerario](../contentStructure/mew-itinerario/README.md)** 
+- **[MeW Pacchetto vacanza](../contentStructure/mew-pacchetto-vacanza/README.md)** 
+- **[MeW POI](../contentStructure/mew-poi/README.md)** 
+- **[MeW Presidio slow food](../contentStructure/mew-presidio-slow-food/README.md)** 
+- **[MeW Prodotto tipico](../contentStructure/mew-prodotto-tipico/README.md)** 
+- **[MeW Punto vendita](../contentStructure/mew-punto-vendita/README.md)** 
+- **[MeW Ricetta](../contentStructure/mew-ricetta/README.md)** 
+- **[MeW Ristorante](../contentStructure/mew-ristorante/README.md)** 
+- **[MeW Vino e distillato](../contentStructure/mew-vino-e-distillato/README.md)** 
+- **[Contenuto_html](../contentStructure/contenuto-html/README.md)** 
+- **[Footer_contenuto_html](../contentStructure/footer-contenuto-html/README.md)** 
+- **[Footer_contenuto_html_e_link](../contentStructure/footer-contenuto-html-e-link/README.md)** 
+- **[Footer_link_utili](../contentStructure/footer-link-utili/README.md)** 
+- **[Menu_utente](../contentStructure/menu-utente/README.md)** 
+- **[Navigazione_header_slim](../contentStructure/navigazione-header-slim/README.md)** 
+- **[Navigazione_secondaria](../contentStructure/navigazione-secondaria/README.md)** 
+- **[Immagine contenuto](../contentStructure/immagine-contenuto/README.md)** 
+- **[Media contenuto](../contentStructure/media-contenuto/README.md)** 
+- **[Immagine](../contentStructure/immagine/README.md)** 
+- **[Video](../contentStructure/video/README.md)** 
+- **[Swagger](../contentStructure/swagger/README.md)** 
+- **[Evento DVAT](../contentStructure/evento-dvat/README.md)** 
+- **[Ente Federato](../contentStructure/ente-federato/README.md)** 
+- **[Agriturismo](../contentStructure/agriturismo/README.md)** 
+- **[Alloggio RM](../contentStructure/alloggio-rm/README.md)** 
+- **[Birra](../contentStructure/birra/README.md)** 
+- **[Camera RM](../contentStructure/camera-rm/README.md)** 
+- **[Cantina](../contentStructure/cantina/README.md)** 
+- **[Destinazione RM](../contentStructure/destinazione-rm/README.md)** 
+- **[Evento RM](../contentStructure/evento-rm/README.md)** 
+- **[Guida](../contentStructure/guida/README.md)** 
+- **[Interesse RM](../contentStructure/interesse-rm/README.md)** 
+- **[Itinerario RM](../contentStructure/itinerario-rm/README.md)** 
+- **[Menu RM](../contentStructure/menu-rm/README.md)** 
+- **[Operatore](../contentStructure/operatore/README.md)** 
+- **[Offerta RM](../contentStructure/offerta-rm/README.md)** 
+- **[Presidio Slow Food](../contentStructure/presidio-slow-food/README.md)** 
+- **[Prodotto tipico](../contentStructure/prodotto-tipico/README.md)** 
+- **[Punto Vendita](../contentStructure/punto-vendita/README.md)** 
+- **[Ricetta](../contentStructure/ricetta/README.md)** 
+- **[Ristorante](../contentStructure/ristorante/README.md)** 
+- **[Servizio Privato](../contentStructure/servizio-privato/README.md)** 
+- **[Servizio Pubblico](../contentStructure/servizio-pubblico/README.md)** 
+- **[Tappa itinerario RM](../contentStructure/tappa-itinerario-rm/README.md)** 
+- **[Vini e distillati](../contentStructure/vini-e-distillati/README.md)** 

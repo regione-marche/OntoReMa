@@ -1,0 +1,49 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "testoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 0,
+          "title": "nome del contenuto da associare"
+        }
+      },
+      "name": "fotoField",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 11097363,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2024-06-07T09:34:29Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Test MV",
+  "friendlyUrlPath": "test-mv",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170
+  ],
+  "title": "Test MV",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

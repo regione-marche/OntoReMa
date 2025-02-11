@@ -1,0 +1,802 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Titolo dell\u0027interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "titoloDellInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione85449011"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione",
+      "localizable": true,
+      "multiple": false,
+      "name": "descrizioneField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "URL contenuto",
+      "localizable": true,
+      "multiple": false,
+      "name": "urlContenutoField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione85449011"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Template da riempire per la tipologia di  chiamata",
+      "localizable": true,
+      "multiple": false,
+      "name": "templateDaRiempirePerLaTipologiaDiChiamataField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "Article",
+          "value": "opzione13910033"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "select",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Destinazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "destinazioneWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "double",
+      "label": "Latitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "latitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Longitudine",
+      "localizable": true,
+      "multiple": false,
+      "name": "longitudineField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "META",
+      "localizable": false,
+      "multiple": false,
+      "name": "metaFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Chiave",
+          "localizable": true,
+          "multiple": false,
+          "name": "chiaveField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione61096266"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Valore",
+          "localizable": true,
+          "multiple": false,
+          "name": "valoreField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione61096266"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sovratitolo dell\u0027interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "sovratitoloDellInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione85449011"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Sottotitolo dell\u0027interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "sottotitoloDellInteresse",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione85449011"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "boolean",
+      "label": "Articolo contiene degli eventi",
+      "localizable": true,
+      "multiple": false,
+      "name": "articoloContieneEventiField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "checkbox",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Articolo",
+      "localizable": false,
+      "multiple": false,
+      "name": "articoloInteresseFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "structuredContent",
+          "label": "Autore",
+          "localizable": true,
+          "multiple": false,
+          "name": "autoreArticoloWebContent",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "",
+          "label": "Link",
+          "localizable": false,
+          "multiple": false,
+          "name": "interestArticleHyperLink",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "string",
+              "label": "Descrizione",
+              "localizable": true,
+              "multiple": false,
+              "name": "descrizioneLinkArticoloField",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Url esterno link",
+              "localizable": true,
+              "multiple": false,
+              "name": "urlEsternoArticoloField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione73508026"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Nome del link",
+              "localizable": true,
+              "multiple": false,
+              "name": "nomeDelLinkArticoloField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione73603664"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            }
+          ],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Testo dell\u0027articolo",
+          "localizable": true,
+          "multiple": false,
+          "name": "testoDellArticoloField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "immagineArticoloMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Media",
+          "localizable": true,
+          "multiple": false,
+          "name": "mediaArticoloMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "structuredContent",
+          "label": "Destinazione",
+          "localizable": true,
+          "multiple": false,
+          "name": "destinazioneArticoloWebContent",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Paragrafo",
+      "localizable": false,
+      "multiple": false,
+      "name": "paragrafoFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "",
+          "label": "Link",
+          "localizable": false,
+          "multiple": false,
+          "name": "linkParagrafoFieldset",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "string",
+              "label": "Descrizione",
+              "localizable": true,
+              "multiple": false,
+              "name": "descrizioneLinkField",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Url esterno link",
+              "localizable": true,
+              "multiple": false,
+              "name": "urlEsternoField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione73508026"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "string",
+              "label": "Nome del link",
+              "localizable": true,
+              "multiple": false,
+              "name": "nomeDelLinkField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione73603664"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            }
+          ],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Testo del paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "testoDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Inserire qui il titolo del paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "titoloDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione84016378"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "structuredContent",
+          "label": "Autore",
+          "localizable": true,
+          "multiple": false,
+          "name": "autoreParagrafoWebContent",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Sottotitolo paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "sottotitoloDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione56887661"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "integer",
+          "label": "Posizione paragrafo",
+          "localizable": true,
+          "multiple": false,
+          "name": "posizioneDelParagrafoField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Immagine",
+          "localizable": true,
+          "multiple": false,
+          "name": "immagineParagrafoMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Media",
+          "localizable": true,
+          "multiple": false,
+          "name": "mediaParagrafoMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "structuredContent",
+          "label": "Destinazione",
+          "localizable": true,
+          "multiple": false,
+          "name": "destinazioneParagrafoWebContent",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "sponsor",
+      "localizable": false,
+      "multiple": false,
+      "name": "sponsorInteresseFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome dello sponsor",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeDelloSponsorField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione73652243"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Url dello sponsor",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlDelloSponsorField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione91378292"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Risorsa",
+      "localizable": false,
+      "multiple": false,
+      "name": "risorsaInteresseFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Nome della risorsa",
+          "localizable": true,
+          "multiple": false,
+          "name": "nomeDellaRisorsaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione24917323"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Descrizione",
+          "localizable": true,
+          "multiple": false,
+          "name": "descrizioneRisorsaField",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Inserire l\u0027url della risorsa",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlDellaRisorsaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione84068742"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "integer",
+      "label": "Tempo di lettura",
+      "localizable": true,
+      "multiple": false,
+      "name": "tempoDiLetturaField",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Funzionalit\u00E0 (Evolutive)",
+      "localizable": false,
+      "multiple": false,
+      "name": "funzionalitaEvolutiveFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Id funzionalit\u00E0",
+          "localizable": true,
+          "multiple": false,
+          "name": "idFunzionalitaField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione71662667"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Attributo della funzionalit\u00E0",
+          "localizable": true,
+          "multiple": false,
+          "name": "attributoField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione71662667"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Area di interesse",
+      "localizable": true,
+      "multiple": false,
+      "name": "areaDiInteresseField",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione93799692"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
+  },
+  "dateCreated": "2024-04-17T10:06:43Z",
+  "dateModified": "2024-10-18T10:57:13Z",
+  "description": "",
+  "id": 8272700,
+  "name": "Interesse RM",
+  "siteId": 52189
+}

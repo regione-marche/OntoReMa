@@ -1,0 +1,88 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "string",
+      "label": "Nome Ente",
+      "localizable": true,
+      "multiple": false,
+      "name": "Testo58828055",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione76480281"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Descrizione Ente",
+      "localizable": true,
+      "multiple": false,
+      "name": "Rtf66687505",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "image",
+      "label": "Logo Ente",
+      "localizable": true,
+      "multiple": false,
+      "name": "immagine97764815",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "URL del sito web",
+      "localizable": true,
+      "multiple": false,
+      "name": "Testo50300418",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione86195635"
+        }
+      ],
+      "repeatable": false,
+      "required": true,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "DELPRIORI",
+    "givenName": "SAVERIO",
+    "id": 526407,
+    "image": null,
+    "name": "SAVERIO DELPRIORI"
+  },
+  "dateCreated": "2024-03-07T16:51:40Z",
+  "dateModified": "2024-03-07T17:35:09Z",
+  "description": "",
+  "id": 7502180,
+  "name": "Ente Federato",
+  "siteId": 52189
+}

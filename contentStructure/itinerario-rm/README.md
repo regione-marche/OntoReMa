@@ -1,0 +1,152 @@
+# Itinerario RM
+
+## Description
+
+## General Information
+- **ID**: 8272728
+- **Site ID**: 52189
+- **Created**: 17-04-2024 10:10
+- **Last Modified**: 10-10-2024 12:27
+
+## Content Structure Fields
+### 1. Titolo dell'itinerario (`titoloDellItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 2. Descrizione (`descrizioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+
+### 3. Valido da (`validoDaField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: date
+
+### 4. Valido a (`validoAField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: date
+
+### 5. Difficoltà itinerario (`difficoltaItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+### 6. Tappa itinerario (`tappaItinerarioWebContent`) ![Required](https://img.shields.io/badge/*Required-red.svg) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Tappa itinerario](../../contentStructure/tappa-itinerario/README.md)**
+  - **[Tappa itinerario RM](../../contentStructure/tappa-itinerario-rm/README.md)**
+
+### 7. Sovratitolo dell'itinerario (`sovratitoloDellItinerario`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 8. Sottotitolo dell'itinerario (`sottotitoloDellItinerario`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 9. Immagine principale (`immaginePrincipaleMedia`) 
+- **Data Type**: image
+- **Predefined Value**: {}
+
+### 10. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 11. Media (`mediaMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 12. Tipologia itinerario (`tipologiaItinerarioField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 13. Durata (`durataField`) 
+- **Data Type**: integer
+
+### 14. Periodo migliore per l'itinerario (`periodoMigliorePerLItinerarioField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 15. Offerte (`offerteField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 16. Autore (`autoreWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Autore](../../contentStructure/autore/README.md)**
+
+### 17. Latitudine (`latitudineField`) 
+- **Data Type**: double
+
+### 18. Longitudine (`longitudineField`) 
+- **Data Type**: integer
+
+### 19. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 19.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 19.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 20. Area di interesse (`areaDiInteresseField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 21. Sponsor (`sponsorItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 21.1. Url dello sponsor (`urlDelloSponsorField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 21.2. Nome dello sponsor (`nomeDelloSponsorField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 22. Risorsa (`risorsaItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 22.1. Nome risorsa (`nomeDellaRisorsaField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 22.2. Descrizione (`descrizioneRisorsaField`) 
+- **Data Type**: string
+
+#### 22.3. URL esterno della risorsa (`urlDellaRisorsaField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 23. Link (`linkItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 23.1. Nome del link (`nomeDelLinkField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 23.2. Descrizione (`descrizioneLinkField`) 
+- **Data Type**: string
+
+#### 23.3. URL esterno (`urlEsternoField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 24. Url (`urlField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 25. File GPX itinerario (`fileGpxItinerarioMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+### 26. File KML itinerario (`fileKmlItinerarioMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: document
+
+## Categories
+- **[Stagionalità](../../categories/stagionalità.md)** (`10207163`) 
+- **[Categoria Itinerario RM](../../categories/categoria-itinerario-rm.md)** (`10346469`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Tema](../../categories/tema.md)** (`10346791`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Riferimento geografico](../../categories/riferimento-geografico.md)** (`5697889`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Licenza](../../categories/licenza.md)** (`5698589`) ![Required](https://img.shields.io/badge/*Required-red.svg)

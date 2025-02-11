@@ -1,0 +1,45 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "Testo00982032",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "Rtf00744180",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 22295407,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2025-01-28T15:35:27Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Titolo Contenuto",
+  "friendlyUrlPath": "titolo-contenuto",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170
+  ],
+  "title": "Titolo Contenuto",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

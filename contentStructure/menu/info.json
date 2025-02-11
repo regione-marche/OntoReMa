@@ -1,0 +1,346 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "",
+      "label": "Menu",
+      "localizable": false,
+      "multiple": false,
+      "name": "menuMenu",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "double",
+          "label": "Prezzo",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuMenuPrice",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Valuta",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuMenuCurrency",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione65270567"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "",
+          "label": "Sezione",
+          "localizable": false,
+          "multiple": false,
+          "name": "menuMenuSection",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "string",
+              "label": "Nome",
+              "localizable": true,
+              "multiple": false,
+              "name": "menuMenuSectionName",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione86238307"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": null
+            },
+            {
+              "dataType": "",
+              "label": "Item",
+              "localizable": false,
+              "multiple": false,
+              "name": "menuMenuSectionItem",
+              "nestedContentStructureFields": [
+                {
+                  "dataType": "double",
+                  "label": "Prezzo",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "menuMenuSectionItemPrice",
+                  "nestedContentStructureFields": [],
+                  "options": [],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": null,
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "string",
+                  "label": "Nome",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "menuMenuSectionItemName",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione66434520"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "string",
+                  "label": "Descrizione",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "menuMenuSectionItemDescription",
+                  "nestedContentStructureFields": [],
+                  "options": [],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": null,
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "string",
+                  "label": " Valuta",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "menuMenuSectionItemCurrency",
+                  "nestedContentStructureFields": [],
+                  "options": [
+                    {
+                      "label": "opzione",
+                      "value": "opzione65270567"
+                    }
+                  ],
+                  "repeatable": false,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": "text",
+                  "predefinedValue": null
+                },
+                {
+                  "dataType": "document",
+                  "label": "Immagine",
+                  "localizable": true,
+                  "multiple": false,
+                  "name": "menuMenuSectionItemImage",
+                  "nestedContentStructureFields": [],
+                  "options": [],
+                  "repeatable": true,
+                  "required": false,
+                  "showLabel": true,
+                  "inputControl": null,
+                  "predefinedValue": null
+                }
+              ],
+              "options": [],
+              "repeatable": true,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            },
+            {
+              "dataType": "document",
+              "label": "Immagine",
+              "localizable": true,
+              "multiple": false,
+              "name": "menuMenuSectionImage",
+              "nestedContentStructureFields": [],
+              "options": [],
+              "repeatable": true,
+              "required": false,
+              "showLabel": true,
+              "inputControl": null,
+              "predefinedValue": null
+            }
+          ],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Descrizione",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuMenuDescription",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Url",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuMenuUrl",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione86238307"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "document",
+          "label": "Media",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuMenuMedia",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Destinazione",
+      "localizable": true,
+      "multiple": false,
+      "name": "menuDestinationID",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Funzionalit\u00E0 (Evolutive)",
+      "localizable": false,
+      "multiple": false,
+      "name": "menuFeature",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Id funzionalit\u00E0",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuFeatureId",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione65358546"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Attributo",
+          "localizable": true,
+          "multiple": false,
+          "name": "menuFeatureValue",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione16208135"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "ID Esterno",
+      "localizable": true,
+      "multiple": false,
+      "name": "menuExternalId",
+      "nestedContentStructureFields": [],
+      "options": [
+        {
+          "label": "opzione",
+          "value": "opzione19778293"
+        }
+      ],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": "text",
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2022-11-02T14:53:02Z",
+  "dateModified": "2023-07-11T08:20:52Z",
+  "description": "",
+  "id": 52985,
+  "name": "Menu",
+  "siteId": 52189
+}

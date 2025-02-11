@@ -1,0 +1,268 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": null,
+      "name": "menuMenu",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "123.45",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuMenuPrice",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuMenuCurrency",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": null,
+          "name": "menuMenuSection",
+          "nestedContentFields": [
+            {
+              "contentFieldValue": {
+                "data": "example text",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "menuMenuSectionName",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": null,
+              "name": "menuMenuSectionItem",
+              "nestedContentFields": [
+                {
+                  "contentFieldValue": {
+                    "data": "123.45",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "menuMenuSectionItemPrice",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "menuMenuSectionItemName",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "menuMenuSectionItemDescription",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": "example text",
+                    "document": null,
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "menuMenuSectionItemCurrency",
+                  "nestedContentFields": null
+                },
+                {
+                  "contentFieldValue": {
+                    "data": null,
+                    "document": {
+                      "contentType": null,
+                      "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+                      "description": null,
+                      "encodingFormat": null,
+                      "fileExtension": null,
+                      "id": 0,
+                      "title": null
+                    },
+                    "geo": null,
+                    "image": null,
+                    "link": null,
+                    "structuredContentLink": null
+                  },
+                  "name": "menuMenuSectionItemImage",
+                  "nestedContentFields": null
+                }
+              ]
+            },
+            {
+              "contentFieldValue": {
+                "data": null,
+                "document": {
+                  "contentType": null,
+                  "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+                  "description": null,
+                  "encodingFormat": null,
+                  "fileExtension": null,
+                  "id": 0,
+                  "title": null
+                },
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "menuMenuSectionImage",
+              "nestedContentFields": null
+            }
+          ]
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuMenuDescription",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuMenuUrl",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": null,
+            "document": {
+              "contentType": null,
+              "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+              "description": null,
+              "encodingFormat": null,
+              "fileExtension": null,
+              "id": 0,
+              "title": null
+            },
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuMenuMedia",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 0,
+          "title": "nome del contenuto da associare"
+        }
+      },
+      "name": "menuDestinationID",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "menuFeature",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuFeatureId",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "menuFeatureValue",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "menuExternalId",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 52985,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2023-07-11T08:20:52Z",
+  "description": "",
+  "description_i18n": null,
+  "externalReferenceCode": "Menu",
+  "friendlyUrlPath": "menu",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    11036593,
+    5697890,
+    5698590
+  ],
+  "title": "Menu",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

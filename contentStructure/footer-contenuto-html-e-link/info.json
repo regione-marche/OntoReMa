@@ -1,0 +1,216 @@
+{
+  "availableLanguages": [
+    "it-IT"
+  ],
+  "contentStructureFields": [
+    {
+      "dataType": "",
+      "label": "Intestazione",
+      "localizable": false,
+      "multiple": false,
+      "name": "header_section",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Titolo",
+          "localizable": true,
+          "multiple": false,
+          "name": "title",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione05831408"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Tipo pagina",
+          "localizable": true,
+          "multiple": false,
+          "name": "page_type",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "Pagina interna",
+              "value": "opzione42590401"
+            },
+            {
+              "label": "Pagina esterna",
+              "value": "opzione56948712"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "radio",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Pagina esterna",
+          "localizable": true,
+          "multiple": false,
+          "name": "external_page",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione05831408"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "url",
+          "label": "Pagina interna",
+          "localizable": true,
+          "multiple": false,
+          "name": "internal_page",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": false,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "string",
+      "label": "Contenuto html",
+      "localizable": true,
+      "multiple": false,
+      "name": "html_text",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
+      "label": "Link",
+      "localizable": false,
+      "multiple": false,
+      "name": "link",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Titolo del link",
+          "localizable": true,
+          "multiple": false,
+          "name": "link_title",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione89077212"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Tipo pagina",
+          "localizable": true,
+          "multiple": false,
+          "name": "link_type_page",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "Pagina interna",
+              "value": "opzione22119287"
+            },
+            {
+              "label": "Pagina eterna",
+              "value": "opzione06079563"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "radio",
+          "predefinedValue": null
+        },
+        {
+          "dataType": "url",
+          "label": "Pagina interna",
+          "localizable": true,
+          "multiple": false,
+          "name": "link_internal_page",
+          "nestedContentStructureFields": [],
+          "options": [],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
+        },
+        {
+          "dataType": "string",
+          "label": "Pagina esterna",
+          "localizable": true,
+          "multiple": false,
+          "name": "link_external_page",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione89077212"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": null
+        }
+      ],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    }
+  ],
+  "creator": {
+    "additionalName": "",
+    "contentType": "UserAccount",
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1739291100452",
+    "name": "Test Test"
+  },
+  "dateCreated": "2022-11-07T17:00:09Z",
+  "dateModified": "2023-05-18T12:30:18Z",
+  "description": "",
+  "id": 59048,
+  "name": "Footer_contenuto_html_e_link",
+  "siteId": 52189
+}
