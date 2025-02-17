@@ -1,7 +1,7 @@
 # Tappa itinerario RM
 
 ## Description
-[OntoReMa] Punto o sotto-itinerario significativo all'interno di un itinerario turistico.
+Punto o sotto-itinerario significativo all'interno di un itinerario turistico.
 ## General Information
 - **ID**: 8273166
 - **Site ID**: 52189

@@ -1,7 +1,7 @@
 # Menu RM
 
 ## Description
-[OntoReMa] Lista di piatti e bevande offerti da un ristorante o agriturismo.
+Lista di piatti e bevande offerti da un ristorante o agriturismo.
 ## General Information
 - **ID**: 8272763
 - **Site ID**: 52189

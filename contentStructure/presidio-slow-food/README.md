@@ -1,7 +1,7 @@
 # Presidio Slow Food
 
 ## Description
-[OntoReMa] Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
+Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 ## General Information
 - **ID**: 8272834
 - **Site ID**: 52189

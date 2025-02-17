@@ -1,7 +1,7 @@
 # Servizio Pubblico
 
 ## Description
-[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.
+Servizio offerto da enti pubblici per il supporto e la gestione del turismo.
 ## General Information
 - **ID**: 8273124
 - **Site ID**: 52189

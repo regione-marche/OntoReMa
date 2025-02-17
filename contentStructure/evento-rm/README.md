@@ -1,7 +1,7 @@
 # Evento RM
 
 ## Description
-[OntoReMa] Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.
+Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.
 ## General Information
 - **ID**: 8272644
 - **Site ID**: 52189

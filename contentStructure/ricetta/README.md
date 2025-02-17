@@ -1,7 +1,7 @@
 # Ricetta
 
 ## Description
-[OntoReMa] Descrizione dei procedimenti e ingredienti per la preparazione di un piatto tradizionale.
+Descrizione dei procedimenti e ingredienti per la preparazione di un piatto tradizionale.
 ## General Information
 - **ID**: 8272927
 - **Site ID**: 52189

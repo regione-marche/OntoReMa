@@ -1,7 +1,7 @@
 # Vini e distillati
 
 ## Description
-[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.
+Prodotti alcolici legati alla tradizione enologica di una regione.
 ## General Information
 - **ID**: 8273202
 - **Site ID**: 52189

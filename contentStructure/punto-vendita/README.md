@@ -1,7 +1,7 @@
 # Punto Vendita
 
 ## Description
-[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.
+Luogo in cui vengono commercializzati prodotti tipici o artigianali.
 ## General Information
 - **ID**: 8272896
 - **Site ID**: 52189

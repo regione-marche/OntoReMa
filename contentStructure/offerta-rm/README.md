@@ -1,7 +1,7 @@
 # Offerta RM
 
 ## Description
-[OntoReMa] Pacchetto o servizio speciale proposto all'interno di una destinazione.
+Pacchetto o servizio speciale proposto all'interno di una destinazione.
 ## General Information
 - **ID**: 8272818
 - **Site ID**: 52189

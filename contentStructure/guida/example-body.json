@@ -129,7 +129,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -149,8 +149,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "servizioPrivatoWebContent",
@@ -165,8 +165,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "servizioPubblicoWebContent",
@@ -181,8 +181,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -255,7 +255,7 @@
   "datePublished": "2025-02-17T08:56:09Z",
   "description": "[OntoReMa] Professionista o materiale informativo per supportare i visitatori nell\u0027esplorazione delle destinazioni.",
   "description_i18n": null,
-  "externalReferenceCode": "Guida",
+  "externalReferenceCode": "570efe8d-9c80-4a23-be88-96e57ada3421",
   "friendlyUrlPath": "guida",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

@@ -135,7 +135,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -155,7 +155,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -175,8 +175,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -255,7 +255,7 @@
   "datePublished": "2025-02-17T08:58:06Z",
   "description": "[OntoReMa] Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.",
   "description_i18n": null,
-  "externalReferenceCode": "Presidio Slow Food",
+  "externalReferenceCode": "d6f11d75-8de9-4ab2-ac86-913b398b7a44",
   "friendlyUrlPath": "presidio-slow-food",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

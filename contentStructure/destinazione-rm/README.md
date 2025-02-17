@@ -1,7 +1,7 @@
 # Destinazione RM
 
 ## Description
-[OntoReMa] Località di interesse turistico che offre una serie di servizi ed esperienze per i visitatori.
+Località di interesse turistico che offre una serie di servizi ed esperienze per i visitatori.
 ## General Information
 - **ID**: 8272607
 - **Site ID**: 52189

@@ -159,8 +159,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "servizioPubblicoWebContent",
@@ -175,8 +175,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "servizioPrivatoWebContent",
@@ -191,7 +191,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -211,7 +211,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -231,8 +231,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "operatoreWebContent",
@@ -247,8 +247,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -263,8 +263,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "prodottoTipicoWebContent",
@@ -279,7 +279,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -299,7 +299,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -319,7 +319,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -403,7 +403,7 @@
   "datePublished": "2025-02-17T08:58:45Z",
   "description": "[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.",
   "description_i18n": null,
-  "externalReferenceCode": "Punto Vendita",
+  "externalReferenceCode": "017a05fc-0efc-4c9d-bb14-16ab93009872",
   "friendlyUrlPath": "punto-vendita",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

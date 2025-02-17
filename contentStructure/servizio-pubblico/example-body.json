@@ -165,8 +165,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -319,7 +319,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -339,7 +339,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -399,7 +399,7 @@
   "datePublished": "2025-02-17T09:00:12Z",
   "description": "[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.",
   "description_i18n": null,
-  "externalReferenceCode": "Servizio Pubblico",
+  "externalReferenceCode": "47dd01c3-728a-4dfe-9b65-fbe7debc9175",
   "friendlyUrlPath": "servizio-pubblico",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

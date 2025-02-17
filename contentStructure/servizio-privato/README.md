@@ -1,7 +1,7 @@
 # Servizio Privato
 
 ## Description
-[OntoReMa] Servizio offerto da privati per supportare i turisti nelle loro esperienze.
+Servizio offerto da privati per supportare i turisti nelle loro esperienze.
 ## General Information
 - **ID**: 8272981
 - **Site ID**: 52189

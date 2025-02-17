@@ -255,8 +255,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -271,8 +271,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "operatoreWebContent",
@@ -381,7 +381,7 @@
   "datePublished": "2025-02-17T08:57:40Z",
   "description": "[OntoReMa] Pacchetto o servizio speciale proposto all\u0027interno di una destinazione.",
   "description_i18n": null,
-  "externalReferenceCode": "Offerta RM",
+  "externalReferenceCode": "9d9d4561-f57d-4940-be88-dfafb7c735ac",
   "friendlyUrlPath": "offerta-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

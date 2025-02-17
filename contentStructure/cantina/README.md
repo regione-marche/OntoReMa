@@ -1,7 +1,7 @@
 # Cantina
 
 ## Description
-[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
+Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 ## General Information
 - **ID**: 8272580
 - **Site ID**: 52189

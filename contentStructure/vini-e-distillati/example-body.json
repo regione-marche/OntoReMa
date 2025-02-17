@@ -135,7 +135,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -155,7 +155,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -199,8 +199,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "operatoreWebContent",
@@ -215,8 +215,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -271,7 +271,7 @@
   "datePublished": "2025-02-17T09:01:19Z",
   "description": "[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.",
   "description_i18n": null,
-  "externalReferenceCode": "Vini e distillati",
+  "externalReferenceCode": "706aa9b5-4df9-4af3-a901-26a387663e6c",
   "friendlyUrlPath": "vini-e-distillati",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

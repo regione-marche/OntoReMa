@@ -1,7 +1,7 @@
 # Guida
 
 ## Description
-[OntoReMa] Professionista o materiale informativo per supportare i visitatori nell'esplorazione delle destinazioni.
+Professionista o materiale informativo per supportare i visitatori nell'esplorazione delle destinazioni.
 ## General Information
 - **ID**: 8272678
 - **Site ID**: 52189

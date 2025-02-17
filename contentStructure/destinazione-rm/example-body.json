@@ -33,7 +33,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -53,7 +53,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -109,7 +109,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -495,8 +495,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "servizioPrivatoWebContent",
@@ -511,8 +511,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "servizioPubblicoWebContent",
@@ -527,8 +527,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -637,8 +637,8 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 0,
-              "title": "nome del contenuto da associare"
+              "id": 22304498,
+              "title": "create or select the structuredContent in order to get the ID"
             }
           },
           "name": "autoreParagrafoWebContent",
@@ -653,7 +653,7 @@
               "description": null,
               "encodingFormat": null,
               "fileExtension": null,
-              "id": 0,
+              "id": 4104701,
               "title": null
             },
             "geo": null,
@@ -673,7 +673,7 @@
               "description": null,
               "encodingFormat": null,
               "fileExtension": null,
-              "id": 0,
+              "id": 4104701,
               "title": null
             },
             "geo": null,
@@ -693,8 +693,8 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 0,
-              "title": "nome del contenuto da associare"
+              "id": 22304498,
+              "title": "create or select the structuredContent in order to get the ID"
             }
           },
           "name": "destinazioneParagrafoWebContent",
@@ -781,7 +781,7 @@
   "datePublished": "2025-02-17T08:54:36Z",
   "description": "[OntoReMa] Localit\u00E0 di interesse turistico che offre una serie di servizi ed esperienze per i visitatori.",
   "description_i18n": null,
-  "externalReferenceCode": "Destinazione RM",
+  "externalReferenceCode": "195bb2c5-88e7-44cf-a3db-199c2f607cc4",
   "friendlyUrlPath": "destinazione-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

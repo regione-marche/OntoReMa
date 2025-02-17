@@ -1,7 +1,7 @@
 # Camera RM
 
 ## Description
-[OntoReMa] Unità abitativa all'interno di una struttura ricettiva.
+Unità abitativa all'interno di una struttura ricettiva.
 ## General Information
 - **ID**: 8272552
 - **Site ID**: 52189

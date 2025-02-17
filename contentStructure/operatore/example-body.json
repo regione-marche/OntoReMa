@@ -117,7 +117,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -161,7 +161,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -181,7 +181,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -201,8 +201,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -407,7 +407,7 @@
   "datePublished": "2025-02-17T08:57:22Z",
   "description": "[OntoReMa] Professionista o impresa che offre servizi turistici.",
   "description_i18n": null,
-  "externalReferenceCode": "Operatore",
+  "externalReferenceCode": "de5095a1-307a-493f-b041-9362dc8bfe2b",
   "friendlyUrlPath": "operatore",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

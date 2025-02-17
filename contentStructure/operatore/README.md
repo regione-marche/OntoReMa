@@ -1,7 +1,7 @@
 # Operatore
 
 ## Description
-[OntoReMa] Professionista o impresa che offre servizi turistici.
+Professionista o impresa che offre servizi turistici.
 ## General Information
 - **ID**: 8272780
 - **Site ID**: 52189

@@ -1,7 +1,7 @@
 # Birra
 
 ## Description
-[OntoReMa] Prodotto tipico spesso legato alla gastronomia locale e tradizionale.
+Prodotto tipico spesso legato alla gastronomia locale e tradizionale.
 ## General Information
 - **ID**: 8272522
 - **Site ID**: 52189

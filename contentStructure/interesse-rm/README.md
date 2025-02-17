@@ -1,7 +1,7 @@
 # Interesse RM
 
 ## Description
-[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.
+Attrazione o punto di interesse in una destinazione turistica.
 ## General Information
 - **ID**: 8272700
 - **Site ID**: 52189

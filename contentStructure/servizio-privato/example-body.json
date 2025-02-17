@@ -165,8 +165,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -307,7 +307,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -327,7 +327,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -347,8 +347,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "operatoreWebContent",
@@ -391,7 +391,7 @@
   "datePublished": "2025-02-17T08:59:51Z",
   "description": "[OntoReMa] Servizio offerto da privati per supportare i turisti nelle loro esperienze.",
   "description_i18n": null,
-  "externalReferenceCode": "Servizio Privato",
+  "externalReferenceCode": "9c081064-fb78-4454-8dc5-435a5930c385",
   "friendlyUrlPath": "servizio-privato",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

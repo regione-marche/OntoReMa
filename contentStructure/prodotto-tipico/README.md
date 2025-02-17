@@ -1,7 +1,7 @@
 # Prodotto tipico
 
 ## Description
-[OntoReMa] Elemento enogastronomico rappresentativo del territorio.
+Elemento enogastronomico rappresentativo del territorio.
 ## General Information
 - **ID**: 8272864
 - **Site ID**: 52189

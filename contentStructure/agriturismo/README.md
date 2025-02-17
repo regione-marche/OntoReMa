@@ -1,7 +1,7 @@
 # Agriturismo
 
 ## Description
-[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.
+Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.
 ## General Information
 - **ID**: 8272118
 - **Site ID**: 52189

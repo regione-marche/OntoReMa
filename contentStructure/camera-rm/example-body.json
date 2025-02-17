@@ -153,8 +153,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -263,7 +263,7 @@
   "datePublished": "2025-02-17T08:53:37Z",
   "description": "[OntoReMa] Unit\u00E0 abitativa all\u0027interno di una struttura ricettiva.",
   "description_i18n": null,
-  "externalReferenceCode": "Camera RM",
+  "externalReferenceCode": "4f4cf7ad-89ee-4a60-af49-171b5557bb24",
   "friendlyUrlPath": "camera-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

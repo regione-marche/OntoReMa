@@ -1,7 +1,7 @@
 # Ristorante
 
 ## Description
-[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.
+Struttura ristorativa che offre piatti e bevande al pubblico.
 ## General Information
 - **ID**: 8272952
 - **Site ID**: 52189

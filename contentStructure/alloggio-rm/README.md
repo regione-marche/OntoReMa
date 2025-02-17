@@ -1,7 +1,7 @@
 # Alloggio RM
 
 ## Description
-[OntoReMa] Struttura per il pernottamento.
+Struttura per il pernottamento.
 ## General Information
 - **ID**: 8272153
 - **Site ID**: 52189

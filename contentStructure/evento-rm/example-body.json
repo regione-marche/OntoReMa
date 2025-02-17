@@ -33,7 +33,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -53,7 +53,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -121,7 +121,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -273,7 +273,7 @@
           "description": null,
           "encodingFormat": null,
           "fileExtension": null,
-          "id": 0,
+          "id": 4104701,
           "title": null
         },
         "geo": null,
@@ -293,8 +293,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "eventiAssociatiWebContent",
@@ -309,8 +309,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "macroEventoWebContent",
@@ -607,8 +607,8 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 0,
-          "title": "nome del contenuto da associare"
+          "id": 22304498,
+          "title": "create or select the structuredContent in order to get the ID"
         }
       },
       "name": "destinazioneWebContent",
@@ -729,8 +729,8 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 0,
-              "title": "nome del contenuto da associare"
+              "id": 22304498,
+              "title": "create or select the structuredContent in order to get the ID"
             }
           },
           "name": "autoreParagrafoWebContent",
@@ -745,7 +745,7 @@
               "description": null,
               "encodingFormat": null,
               "fileExtension": null,
-              "id": 0,
+              "id": 4104701,
               "title": null
             },
             "geo": null,
@@ -765,7 +765,7 @@
               "description": null,
               "encodingFormat": null,
               "fileExtension": null,
-              "id": 0,
+              "id": 4104701,
               "title": null
             },
             "geo": null,
@@ -785,8 +785,8 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 0,
-              "title": "nome del contenuto da associare"
+              "id": 22304498,
+              "title": "create or select the structuredContent in order to get the ID"
             }
           },
           "name": "eventoParagrafoWebContent",
@@ -843,7 +843,7 @@
   "datePublished": "2025-02-17T08:55:49Z",
   "description": "[OntoReMa] Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.",
   "description_i18n": null,
-  "externalReferenceCode": "Evento RM",
+  "externalReferenceCode": "1f16f550-e753-4473-834d-38cd1c474fae",
   "friendlyUrlPath": "evento-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

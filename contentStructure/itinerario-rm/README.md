@@ -1,7 +1,7 @@
 # Itinerario RM
 
 ## Description
-[OntoReMa] Percorso turistico che collega varie tappe significative all'interno di una destinazione.
+Percorso turistico che collega varie tappe significative all'interno di una destinazione.
 ## General Information
 - **ID**: 8272728
 - **Site ID**: 52189
