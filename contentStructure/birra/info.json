@@ -177,7 +177,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "select",
-          "predefinedValue": "[]"
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -196,7 +196,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -293,7 +293,7 @@
       "required": true,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "double",
@@ -307,7 +307,7 @@
       "required": true,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "",
@@ -333,7 +333,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -352,7 +352,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -385,15 +385,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T09:50:02Z",
-  "dateModified": "2024-10-02T07:43:15Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:53:18Z",
+  "description": "[OntoReMa] Prodotto tipico spesso legato alla gastronomia locale e tradizionale.",
   "id": 8272522,
   "name": "Birra",
   "siteId": 52189

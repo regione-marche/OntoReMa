@@ -580,15 +580,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:28:53Z",
-  "dateModified": "2024-10-03T12:45:17Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:57:40Z",
+  "description": "[OntoReMa] Pacchetto o servizio speciale proposto all\u0027interno di una destinazione.",
   "id": 8272818,
   "name": "Offerta RM",
   "siteId": 52189

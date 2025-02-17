@@ -416,7 +416,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "select",
-          "predefinedValue": "[]"
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -435,7 +435,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -568,15 +568,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:52:26Z",
-  "dateModified": "2024-09-17T12:53:24Z",
-  "description": "",
+  "dateModified": "2025-02-17T09:00:12Z",
+  "description": "[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.",
   "id": 8273124,
   "name": "Servizio Pubblico",
   "siteId": 52189

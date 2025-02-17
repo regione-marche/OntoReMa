@@ -1020,7 +1020,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -1039,7 +1039,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -1072,15 +1072,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T09:43:04Z",
-  "dateModified": "2024-10-02T14:19:05Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:52:56Z",
+  "description": "[OntoReMa] Struttura per il pernottamento.",
   "id": 8272153,
   "name": "Alloggio RM",
   "siteId": 52189

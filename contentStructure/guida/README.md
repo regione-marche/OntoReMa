@@ -1,12 +1,12 @@
 # Guida
 
 ## Description
-
+[OntoReMa] Professionista o materiale informativo per supportare i visitatori nell'esplorazione delle destinazioni.
 ## General Information
 - **ID**: 8272678
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:03
-- **Last Modified**: 05-02-2025 14:29
+- **Last Modified**: 17-02-2025 08:56
 
 ## Content Structure Fields
 ### 1. Nome (`nomeField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -63,7 +63,6 @@
 ### 14. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 15. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)

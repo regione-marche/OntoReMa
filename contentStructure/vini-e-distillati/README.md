@@ -1,12 +1,12 @@
 # Vini e distillati
 
 ## Description
-
+[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.
 ## General Information
 - **ID**: 8273202
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:57
-- **Last Modified**: 09-10-2024 08:45
+- **Last Modified**: 17-02-2025 09:01
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -76,7 +76,6 @@
 ### 15. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 16. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)

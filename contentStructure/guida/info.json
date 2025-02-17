@@ -209,7 +209,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -223,7 +223,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -357,15 +357,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:03:53Z",
-  "dateModified": "2025-02-05T14:29:44Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:56:09Z",
+  "description": "[OntoReMa] Professionista o materiale informativo per supportare i visitatori nell\u0027esplorazione delle destinazioni.",
   "id": 8272678,
   "name": "Guida",
   "siteId": 52189

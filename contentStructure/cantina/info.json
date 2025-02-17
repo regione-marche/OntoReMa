@@ -246,7 +246,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -260,7 +260,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -274,7 +274,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -288,7 +288,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -450,15 +450,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T09:54:51Z",
-  "dateModified": "2025-02-10T22:36:14Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:54:09Z",
+  "description": "[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.",
   "id": 8272580,
   "name": "Cantina",
   "siteId": 52189

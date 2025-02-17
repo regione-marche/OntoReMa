@@ -1,12 +1,12 @@
 # Menu RM
 
 ## Description
-
+[OntoReMa] Lista di piatti e bevande offerti da un ristorante o agriturismo.
 ## General Information
 - **ID**: 8272763
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:22
-- **Last Modified**: 06-10-2024 23:28
+- **Last Modified**: 17-02-2025 08:57
 
 ## Content Structure Fields
 ### 1. Descrizione (`descrizioneField`) 
@@ -61,7 +61,6 @@
 ### 7. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 8. Latitudine (`latitudineField`) 

@@ -1,12 +1,12 @@
 # Itinerario RM
 
 ## Description
-
+[OntoReMa] Percorso turistico che collega varie tappe significative all'interno di una destinazione.
 ## General Information
 - **ID**: 8272728
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:10
-- **Last Modified**: 10-10-2024 12:27
+- **Last Modified**: 17-02-2025 08:56
 
 ## Content Structure Fields
 ### 1. Titolo dell'itinerario (`titoloDellItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -29,7 +29,6 @@
 ### 6. Tappa itinerario (`tappaItinerarioWebContent`) ![Required](https://img.shields.io/badge/*Required-red.svg) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Tappa itinerario](../../contentStructure/tappa-itinerario/README.md)**
   - **[Tappa itinerario RM](../../contentStructure/tappa-itinerario-rm/README.md)**
 
 ### 7. Sovratitolo dell'itinerario (`sovratitoloDellItinerario`) 
@@ -42,7 +41,6 @@
 
 ### 9. Immagine principale (`immaginePrincipaleMedia`) 
 - **Data Type**: image
-- **Predefined Value**: {}
 
 ### 10. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
@@ -67,8 +65,6 @@
 
 ### 16. Autore (`autoreWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
-- **Possible structures**:
-  - **[Autore](../../contentStructure/autore/README.md)**
 
 ### 17. Latitudine (`latitudineField`) 
 - **Data Type**: double

@@ -1,12 +1,12 @@
 # Interesse RM
 
 ## Description
-
+[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.
 ## General Information
 - **ID**: 8272700
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:06
-- **Last Modified**: 18-10-2024 10:57
+- **Last Modified**: 17-02-2025 08:56
 
 ## Content Structure Fields
 ### 1. Titolo dell'interesse (`titoloDellInteresseField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -29,7 +29,6 @@
 ### 5. Destinazione (`destinazioneWebContent`) ![Required](https://img.shields.io/badge/*Required-red.svg) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 6. Latitudine (`latitudineField`) 
@@ -67,8 +66,6 @@
 #### 📁 Nested Fields
 #### 12.1. Autore (`autoreArticoloWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
-- **Possible structures**:
-    - **[Autore](../../contentStructure/autore/README.md)**
 
 #### 12.2. Link (`interestArticleHyperLink`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
@@ -97,7 +94,6 @@
 #### 12.6. Destinazione (`destinazioneArticoloWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-    - **[Destinazione](../../contentStructure/destinazione/README.md)**
     - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 
@@ -128,8 +124,6 @@
 
 #### 13.4. Autore (`autoreParagrafoWebContent`) 
 - **Data Type**: structuredContent
-- **Possible structures**:
-    - **[Autore](../../contentStructure/autore/README.md)**
 
 #### 13.5. Sottotitolo paragrafo (`sottotitoloDelParagrafoField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: string
@@ -147,7 +141,6 @@
 #### 13.9. Destinazione (`destinazioneParagrafoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-    - **[Destinazione](../../contentStructure/destinazione/README.md)**
     - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 

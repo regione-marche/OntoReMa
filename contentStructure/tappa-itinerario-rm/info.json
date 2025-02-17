@@ -81,7 +81,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -492,15 +492,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:54:21Z",
-  "dateModified": "2024-10-10T09:13:28Z",
-  "description": "",
+  "dateModified": "2025-02-17T09:00:29Z",
+  "description": "[OntoReMa] Punto o sotto-itinerario significativo all\u0027interno di un itinerario turistico.",
   "id": 8273166,
   "name": "Tappa itinerario RM",
   "siteId": 52189

@@ -531,7 +531,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -550,7 +550,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -564,15 +564,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:25:17Z",
-  "dateModified": "2024-09-18T12:18:01Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:57:22Z",
+  "description": "[OntoReMa] Professionista o impresa che offre servizi turistici.",
   "id": 8272780,
   "name": "Operatore",
   "siteId": 52189

@@ -1,12 +1,12 @@
 # Agriturismo
 
 ## Description
-
+[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.
 ## General Information
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 10-02-2025 22:38
+- **Last Modified**: 17-02-2025 08:52
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -66,7 +66,6 @@
 ### 12. Alloggi (`alloggiWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Alloggio](../../contentStructure/alloggio/README.md)**
   - **[Alloggio RM](../../contentStructure/alloggio-rm/README.md)**
 
 ### 13. Punti Vendita (`puntiVenditaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
@@ -101,7 +100,6 @@
 ### 22. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 23. Latitudine (`latitudineField`) 

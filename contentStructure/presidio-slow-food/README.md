@@ -1,12 +1,12 @@
 # Presidio Slow Food
 
 ## Description
-
+[OntoReMa] Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 ## General Information
 - **ID**: 8272834
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:31
-- **Last Modified**: 27-09-2024 07:40
+- **Last Modified**: 17-02-2025 08:58
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -64,7 +64,6 @@
 ### 12. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 13. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

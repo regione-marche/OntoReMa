@@ -298,7 +298,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": "text",
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "string",
@@ -317,7 +317,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": "text",
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "string",
@@ -336,7 +336,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": "text",
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -350,7 +350,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -364,7 +364,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -378,7 +378,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "string",
@@ -1306,15 +1306,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:00:16Z",
-  "dateModified": "2024-12-12T09:32:31Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:55:49Z",
+  "description": "[OntoReMa] Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.",
   "id": 8272644,
   "name": "Evento RM",
   "siteId": 52189

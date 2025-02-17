@@ -1,12 +1,12 @@
 # Ristorante
 
 ## Description
-
+[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.
 ## General Information
 - **ID**: 8272952
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:48
-- **Last Modified**: 10-02-2025 22:34
+- **Last Modified**: 17-02-2025 08:59
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -65,7 +65,6 @@
 ### 15. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 16. Servizio Privato (`servizioPrivatoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)

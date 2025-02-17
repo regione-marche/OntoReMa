@@ -397,15 +397,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:22:40Z",
-  "dateModified": "2024-10-06T23:28:04Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:57:05Z",
+  "description": "[OntoReMa] Lista di piatti e bevande offerti da un ristorante o agriturismo.",
   "id": 8272763,
   "name": "Menu RM",
   "siteId": 52189

@@ -1,12 +1,12 @@
 # Destinazione RM
 
 ## Description
-
+[OntoReMa] Località di interesse turistico che offre una serie di servizi ed esperienze per i visitatori.
 ## General Information
 - **ID**: 8272607
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:57
-- **Last Modified**: 05-02-2025 15:45
+- **Last Modified**: 17-02-2025 08:54
 
 ## Content Structure Fields
 ### 1. Nome destinazione (`nomeDestinazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -62,7 +62,6 @@
 #### 13.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
-- **Predefined Value**: []
 ##### Options
 - X: `opzione24730734`
 - Facebook: `opzione03042080`
@@ -248,7 +247,6 @@
 ### 28. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 29. Paragrafo (`paragrafoFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
@@ -285,8 +283,6 @@
 
 #### 29.6. Autore (`autoreParagrafoWebContent`) 
 - **Data Type**: structuredContent
-- **Possible structures**:
-    - **[Autore](../../contentStructure/autore/README.md)**
 
 #### 29.7. Immagine (`immagineParagrafoMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
@@ -297,7 +293,6 @@
 #### 29.9. Destinazione (`destinazioneParagrafoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-    - **[Destinazione](../../contentStructure/destinazione/README.md)**
     - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 

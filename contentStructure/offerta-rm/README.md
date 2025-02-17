@@ -1,12 +1,12 @@
 # Offerta RM
 
 ## Description
-
+[OntoReMa] Pacchetto o servizio speciale proposto all'interno di una destinazione.
 ## General Information
 - **ID**: 8272818
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:28
-- **Last Modified**: 03-10-2024 12:45
+- **Last Modified**: 17-02-2025 08:57
 
 ## Content Structure Fields
 ### 1. Nome offerta (`nomeDellOffertaField`) 
@@ -99,7 +99,6 @@
 ### 8. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 9. Operatore (`operatoreWebContent`) 

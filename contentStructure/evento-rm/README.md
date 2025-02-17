@@ -1,12 +1,12 @@
 # Evento RM
 
 ## Description
-
+[OntoReMa] Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.
 ## General Information
 - **ID**: 8272644
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:00
-- **Last Modified**: 12-12-2024 09:32
+- **Last Modified**: 17-02-2025 08:55
 
 ## Content Structure Fields
 ### 1. Titolo (`titoloField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -236,7 +236,6 @@
 ### 43. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 44. Url (`urlField`) 
@@ -277,8 +276,6 @@
 
 #### 45.6. Autore (`autoreParagrafoWebContent`) 
 - **Data Type**: structuredContent
-- **Possible structures**:
-    - **[Autore](../../contentStructure/autore/README.md)**
 
 #### 45.7. Immagine (`immagineParagrafoMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
@@ -289,9 +286,6 @@
 #### 45.9. Evento (`eventoParagrafoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-    - **[Evento](../../contentStructure/evento/README.md)**
-    - **[MeW Evento](../../contentStructure/mew-evento/README.md)**
-    - **[Evento DVAT](../../contentStructure/evento-dvat/README.md)**
     - **[Evento RM](../../contentStructure/evento-rm/README.md)**
 
 

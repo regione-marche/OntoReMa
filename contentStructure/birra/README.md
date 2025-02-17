@@ -1,12 +1,12 @@
 # Birra
 
 ## Description
-
+[OntoReMa] Prodotto tipico spesso legato alla gastronomia locale e tradizionale.
 ## General Information
 - **ID**: 8272522
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:50
-- **Last Modified**: 02-10-2024 07:43
+- **Last Modified**: 17-02-2025 08:53
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -46,7 +46,6 @@
 #### 9.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
-- **Predefined Value**: []
 ##### Options
 - Facebook: `opzione41861997`
 - X: `opzione17698618`
@@ -75,7 +74,6 @@
 ### 14. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 15. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

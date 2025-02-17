@@ -147,7 +147,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": "{}"
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -600,15 +600,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:10:44Z",
-  "dateModified": "2024-10-10T12:27:43Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:56:48Z",
+  "description": "[OntoReMa] Percorso turistico che collega varie tappe significative all\u0027interno di una destinazione.",
   "id": 8272728,
   "name": "Itinerario RM",
   "siteId": 52189

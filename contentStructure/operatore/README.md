@@ -1,12 +1,12 @@
 # Operatore
 
 ## Description
-
+[OntoReMa] Professionista o impresa che offre servizi turistici.
 ## General Information
 - **ID**: 8272780
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:25
-- **Last Modified**: 18-09-2024 12:18
+- **Last Modified**: 17-02-2025 08:57
 
 ## Content Structure Fields
 ### 1. Nome (`nomeField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -62,7 +62,6 @@
 ### 15. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 16. Telefono (`telefonoField`) 

@@ -1,12 +1,12 @@
 # Servizio Pubblico
 
 ## Description
-
+[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.
 ## General Information
 - **ID**: 8273124
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:52
-- **Last Modified**: 17-09-2024 12:53
+- **Last Modified**: 17-02-2025 09:00
 
 ## Content Structure Fields
 ### 1. Nome (`nomeField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -61,7 +61,6 @@
 ### 14. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 15. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -97,7 +96,6 @@
 #### 23.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
-- **Predefined Value**: []
 ##### Options
 - Facebook: `opzione98506237`
 - Instagram: `opzione66966347`

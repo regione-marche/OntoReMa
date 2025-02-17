@@ -1,12 +1,12 @@
 # Prodotto tipico
 
 ## Description
-
+[OntoReMa] Elemento enogastronomico rappresentativo del territorio.
 ## General Information
 - **ID**: 8272864
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:33
-- **Last Modified**: 27-09-2024 09:13
+- **Last Modified**: 17-02-2025 08:58
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -56,7 +56,6 @@
 #### 12.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
-- **Predefined Value**: []
 ##### Options
 - Facebook: `opzione96984220`
 - X: `opzione08405189`
@@ -88,7 +87,6 @@
 ### 18. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 19. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)

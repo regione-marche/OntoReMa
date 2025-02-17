@@ -787,15 +787,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:06:43Z",
-  "dateModified": "2024-10-18T10:57:13Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:56:28Z",
+  "description": "[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.",
   "id": 8272700,
   "name": "Interesse RM",
   "siteId": 52189

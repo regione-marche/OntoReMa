@@ -1,12 +1,12 @@
 # Cantina
 
 ## Description
-
+[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 ## General Information
 - **ID**: 8272580
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:54
-- **Last Modified**: 10-02-2025 22:36
+- **Last Modified**: 17-02-2025 08:54
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -93,7 +93,6 @@
 ### 19. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 20. Latitudine (`latitudineField`) 

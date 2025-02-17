@@ -1,12 +1,12 @@
 # Ricetta
 
 ## Description
-
+[OntoReMa] Descrizione dei procedimenti e ingredienti per la preparazione di un piatto tradizionale.
 ## General Information
 - **ID**: 8272927
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:45
-- **Last Modified**: 23-09-2024 20:01
+- **Last Modified**: 17-02-2025 08:59
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -48,7 +48,6 @@
 ### 11. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 12. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

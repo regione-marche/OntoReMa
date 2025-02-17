@@ -199,7 +199,7 @@
       "required": true,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "double",
@@ -213,7 +213,7 @@
       "required": true,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "string",
@@ -258,7 +258,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -277,7 +277,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -291,15 +291,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T10:45:18Z",
-  "dateModified": "2024-09-23T20:01:13Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:59:04Z",
+  "description": "[OntoReMa] Descrizione dei procedimenti e ingredienti per la preparazione di un piatto tradizionale.",
   "id": 8272927,
   "name": "Ricetta",
   "siteId": 52189

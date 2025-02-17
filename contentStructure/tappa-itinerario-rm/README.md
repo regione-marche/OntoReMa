@@ -1,12 +1,12 @@
 # Tappa itinerario RM
 
 ## Description
-
+[OntoReMa] Punto o sotto-itinerario significativo all'interno di un itinerario turistico.
 ## General Information
 - **ID**: 8273166
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:54
-- **Last Modified**: 10-10-2024 09:13
+- **Last Modified**: 17-02-2025 09:00
 
 ## Content Structure Fields
 ### 1. Nome della tappa dell'itinerario (`nomeDellaTappaDellItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -35,15 +35,11 @@
 ### 8. Evento (`eventoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Evento](../../contentStructure/evento/README.md)**
-  - **[MeW Evento](../../contentStructure/mew-evento/README.md)**
-  - **[Evento DVAT](../../contentStructure/evento-dvat/README.md)**
   - **[Evento RM](../../contentStructure/evento-rm/README.md)**
 
 ### 9. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 10. Latitudine (`latitudineField`) 
@@ -86,7 +82,6 @@
 ### 15. Offerta (`offertaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Offerta](../../contentStructure/offerta/README.md)**
   - **[Offerta RM](../../contentStructure/offerta-rm/README.md)**
 
 ### 16. Servizio Privato (`servizioPrivatoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
@@ -102,7 +97,6 @@
 ### 18. Prodotto Tipico (`prodottoTipicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[MeW Prodotto tipico](../../contentStructure/mew-prodotto-tipico/README.md)**
   - **[Prodotto tipico](../../contentStructure/prodotto-tipico/README.md)**
 
 ### 19. Guida (`guidaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
@@ -118,13 +112,11 @@
 ### 21. Punto Vendita (`puntoVenditaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[MeW Punto vendita](../../contentStructure/mew-punto-vendita/README.md)**
   - **[Punto Vendita](../../contentStructure/punto-vendita/README.md)**
 
 ### 22. Ristorante (`ristoranteWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[MeW Ristorante](../../contentStructure/mew-ristorante/README.md)**
   - **[Ristorante](../../contentStructure/ristorante/README.md)**
 
 ### 23. Cantina (`cantinaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
@@ -143,13 +135,11 @@
 ### 26. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[MeW Ricetta](../../contentStructure/mew-ricetta/README.md)**
   - **[Ricetta](../../contentStructure/ricetta/README.md)**
 
 ### 27. Agriturismo (`agriturismoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[MeW Agriturismo](../../contentStructure/mew-agriturismo/README.md)**
   - **[Agriturismo](../../contentStructure/agriturismo/README.md)**
 
 ## Categories

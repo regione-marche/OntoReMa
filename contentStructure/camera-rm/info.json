@@ -262,7 +262,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -281,7 +281,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -367,15 +367,15 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
+    "familyName": "CAPPELLETTI",
+    "givenName": "DARIS",
+    "id": 4891450,
     "image": null,
-    "name": "PAOLO TESEI"
+    "name": "DARIS CAPPELLETTI"
   },
   "dateCreated": "2024-04-17T09:52:40Z",
-  "dateModified": "2024-10-02T14:16:33Z",
-  "description": "",
+  "dateModified": "2025-02-17T08:53:37Z",
+  "description": "[OntoReMa] Unit\u00E0 abitativa all\u0027interno di una struttura ricettiva.",
   "id": 8272552,
   "name": "Camera RM",
   "siteId": 52189

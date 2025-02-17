@@ -1,12 +1,12 @@
 # Camera RM
 
 ## Description
-
+[OntoReMa] Unità abitativa all'interno di una struttura ricettiva.
 ## General Information
 - **ID**: 8272552
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:52
-- **Last Modified**: 02-10-2024 14:16
+- **Last Modified**: 17-02-2025 08:53
 
 ## Content Structure Fields
 ### 1. Tipologia di camera (`tipologiaDiCameraField`) 
@@ -57,7 +57,6 @@
 ### 13. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Destinazione](../../contentStructure/destinazione/README.md)**
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
 ### 14. Latitudine (`latitudineField`) 
