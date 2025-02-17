@@ -57,7 +57,7 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 22304498,
+          "id": 22304517,
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
@@ -167,7 +167,7 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 22304498,
+              "id": 22304517,
               "title": "create or select the structuredContent in order to get the ID"
             }
           },
@@ -277,7 +277,7 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 22304498,
+              "id": 22304517,
               "title": "create or select the structuredContent in order to get the ID"
             }
           },
@@ -365,7 +365,7 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 22304498,
+              "id": 22304517,
               "title": "create or select the structuredContent in order to get the ID"
             }
           },
@@ -445,7 +445,7 @@
             "link": null,
             "structuredContentLink": {
               "embeddedStructuredContent": null,
-              "id": 22304498,
+              "id": 22304517,
               "title": "create or select the structuredContent in order to get the ID"
             }
           },
@@ -587,7 +587,7 @@
   "datePublished": "2025-02-17T08:56:28Z",
   "description": "[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.",
   "description_i18n": null,
-  "externalReferenceCode": "9f95cbe5-37a4-4043-b139-55e8d75f032c",
+  "externalReferenceCode": "60ecb24b-62e9-4111-a200-6702a3e19978",
   "friendlyUrlPath": "interesse-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

@@ -189,7 +189,7 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 22304498,
+          "id": 22304517,
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
@@ -299,7 +299,7 @@
   "datePublished": "2025-02-17T08:57:05Z",
   "description": "[OntoReMa] Lista di piatti e bevande offerti da un ristorante o agriturismo.",
   "description_i18n": null,
-  "externalReferenceCode": "aba70ffc-e760-4778-a19c-1631bd8a2ee8",
+  "externalReferenceCode": "0c944f16-e486-4a08-a278-55cbd44f7e50",
   "friendlyUrlPath": "menu-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

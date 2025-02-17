@@ -165,7 +165,7 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 22304498,
+          "id": 22304517,
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
@@ -347,7 +347,7 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 22304498,
+          "id": 22304517,
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
@@ -391,7 +391,7 @@
   "datePublished": "2025-02-17T08:59:51Z",
   "description": "[OntoReMa] Servizio offerto da privati per supportare i turisti nelle loro esperienze.",
   "description_i18n": null,
-  "externalReferenceCode": "9c081064-fb78-4454-8dc5-435a5930c385",
+  "externalReferenceCode": "9a5ab83f-02a7-46cf-95a1-e6bc17665ec8",
   "friendlyUrlPath": "servizio-privato",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

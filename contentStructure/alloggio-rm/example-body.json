@@ -685,7 +685,7 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 22304498,
+          "id": 22304517,
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
@@ -771,7 +771,7 @@
   "datePublished": "2025-02-17T08:52:56Z",
   "description": "[OntoReMa] Struttura per il pernottamento.",
   "description_i18n": null,
-  "externalReferenceCode": "cbd5933b-0c50-4a5b-ab16-9678013e9dd2",
+  "externalReferenceCode": "d49c4978-c9c1-4a03-9629-650d68d95d0e",
   "friendlyUrlPath": "alloggio-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

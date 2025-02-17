@@ -239,7 +239,7 @@
         "link": null,
         "structuredContentLink": {
           "embeddedStructuredContent": null,
-          "id": 22304498,
+          "id": 22304517,
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
@@ -283,7 +283,7 @@
   "datePublished": "2025-02-17T08:58:26Z",
   "description": "[OntoReMa] Elemento enogastronomico rappresentativo del territorio.",
   "description_i18n": null,
-  "externalReferenceCode": "5551e871-b954-4edb-a038-21623615020c",
+  "externalReferenceCode": "7d75e6fb-0d87-4def-b2ba-fa0332955dfb",
   "friendlyUrlPath": "prodotto-tipico",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
