@@ -12,4 +12,3 @@
 - **Add TAG_1** (`63633`)
 - **Add TAG_2** (`63636`)
 ## Asset Types
-- **[Itinerario](../contentStructure/itinerario/README.md)** 

@@ -34,4 +34,3 @@
 - **Struttura di mero supporto** (`56282`)
   - **Area di sosta** (`56285`)
 ## Asset Types
-- **[Alloggio](../contentStructure/alloggio/README.md)** 

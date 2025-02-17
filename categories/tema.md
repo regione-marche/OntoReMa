@@ -43,5 +43,4 @@
 - **[Ricetta](../contentStructure/ricetta/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Cantina](../contentStructure/cantina/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Ristorante](../contentStructure/ristorante/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
-- **[Menu](../contentStructure/menu/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Birra](../contentStructure/birra/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)

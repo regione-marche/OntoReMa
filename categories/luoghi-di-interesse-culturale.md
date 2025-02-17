@@ -104,4 +104,3 @@
   - **Rifugio** (`57213`)
   - **Rifugio per animali** (`57217`)
 ## Asset Types
-- **[Destinazione](../contentStructure/destinazione/README.md)** 

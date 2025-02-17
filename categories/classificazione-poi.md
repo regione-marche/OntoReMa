@@ -18,4 +18,3 @@
 - **Settore geografico** (`56435`)
 - **Settore altri servizi pubblici** (`56438`)
 ## Asset Types
-- **[Destinazione](../contentStructure/destinazione/README.md)** 

@@ -12,4 +12,3 @@
 - **AI TAG_1** (`63647`)
 - **AI TAG_2** (`63650`)
 ## Asset Types
-- **[Itinerario](../contentStructure/itinerario/README.md)** 

@@ -29,4 +29,3 @@
 - **Evento sportivo** (`54330`)
   - **Manifestazione sportiva** (`54676`)
 ## Asset Types
-- **[Evento](../contentStructure/evento/README.md)** 

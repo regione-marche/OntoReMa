@@ -19,4 +19,3 @@
 - **5 stelle** (`56376`)
 - **5 stelle lusso** (`56379`)
 ## Asset Types
-- **[Alloggio](../contentStructure/alloggio/README.md)** 

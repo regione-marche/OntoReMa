@@ -12,4 +12,3 @@
 - **AEM TAG_1** (`63640`)
 - **AEM TAG_2** (`63643`)
 ## Asset Types
-- **[Itinerario](../contentStructure/itinerario/README.md)** 
