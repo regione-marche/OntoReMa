@@ -10,7 +10,7 @@ To make the request, credentials will be required.
 
 **URL:**
 ```
-https://digitalhub.regione.marche.it/o/headless-delivery/v1.0/structured-content-folders/15363611/structured-contents
+https://digitalhub.regione.marche.it/o/headless-delivery/v1.0/structured-content-folders/22448419/structured-contents
 ```
 
 This request will insert our Structured Content into a predefined folder.
