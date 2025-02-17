@@ -1,0 +1,427 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "nomeField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "nomeAlternativoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "descrizioneBreveField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "descrizioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "codiceFiscaleField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "partitaIvaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "12345",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "numeroReaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "2025-01-01T01:00:00Z",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "dataDiCostituzioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "funzionePrincipaleField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "logoMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "puntiDiContattoFisicoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "puntiDiContattoOnlineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "immaginePrincipaleMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "altraImmagineMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "destinazioneWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "12345",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "telefonoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "12345",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "cellulareField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "emailField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "sitoWebField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "socialFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "Facebook",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeSocialField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlSocialField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "tipoDiAttivitaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "oggettoSocialeField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "indirizzoOperatoreField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "comuneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "areaDiInteresseField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreField",
+          "nestedContentFields": null
+        }
+      ]
+    }
+  ],
+  "contentStructureId": 8272780,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2025-02-17T08:57:22Z",
+  "description": "[OntoReMa] Professionista o impresa che offre servizi turistici.",
+  "description_i18n": null,
+  "externalReferenceCode": "f15ffdcc-3a95-42b5-a5f3-4c0945aa1187",
+  "friendlyUrlPath": "operatore",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10346814,
+    10207170,
+    20006287,
+    10346298,
+    11036593,
+    5697890,
+    5698590
+  ],
+  "title": "Operatore",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

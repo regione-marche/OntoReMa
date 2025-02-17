@@ -1,0 +1,244 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "denominazioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "presentazioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "difficoltaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "preparazioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "cotturaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "dosiField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "costoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "ingredientiField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "immaginePrincipaleMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "altraImmagineMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "destinazioneWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "example text",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "areaDiInteresseField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "example text",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreField",
+          "nestedContentFields": null
+        }
+      ]
+    }
+  ],
+  "contentStructureId": 8272927,
+  "creator": null,
+  "customFields": [],
+  "datePublished": "2025-02-17T08:59:04Z",
+  "description": "[OntoReMa] Descrizione dei procedimenti e ingredienti per la preparazione di un piatto tradizionale.",
+  "description_i18n": null,
+  "externalReferenceCode": "8810eb82-677f-4709-9cdb-2fdf40213cb3",
+  "friendlyUrlPath": "ricetta",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    10346225,
+    10346238,
+    11036593,
+    5697890,
+    5698590
+  ],
+  "title": "Ricetta",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}
