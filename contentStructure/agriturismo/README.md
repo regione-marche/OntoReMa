@@ -6,7 +6,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 17-02-2025 08:52
+- **Last Modified**: 19-02-2025 15:10
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -102,24 +102,29 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 23. Latitudine (`latitudineField`) 
+### 23. Ristorante (`ristoranteWebContent`) 
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Ristorante](../../contentStructure/ristorante/README.md)**
+
+### 24. Latitudine (`latitudineField`) 
 - **Data Type**: integer
 
-### 24. Longitudine (`longitudineField`) 
+### 25. Longitudine (`longitudineField`) 
 - **Data Type**: double
 
-### 25. Area di interesse (`areaDiInteresseField`) 
+### 26. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 26. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 27. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 26.1. Chiave (`chiaveField`) 
+#### 27.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 26.2. Valore (`valoreField`) 
+#### 27.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

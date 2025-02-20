@@ -348,6 +348,22 @@
     },
     {
       "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "ristoranteWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
         "data": "12345",
         "document": null,
         "geo": null,
@@ -416,10 +432,10 @@
   "contentStructureId": 8272118,
   "creator": null,
   "customFields": [],
-  "datePublished": "2025-02-17T08:52:30Z",
+  "datePublished": "2025-02-19T15:10:34Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "description_i18n": null,
-  "externalReferenceCode": "f83c0f31-feea-4caf-9d2d-698f7a8bfd68",
+  "externalReferenceCode": "8f20f608-6867-4d7f-ab28-e5181a5bb946",
   "friendlyUrlPath": "agriturismo",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
