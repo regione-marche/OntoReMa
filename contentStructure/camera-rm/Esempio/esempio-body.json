@@ -1,0 +1,317 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "tipologiaDiCameraField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "occupazioneDellCameraField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "sistemazioneDellaCameraField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "2025-01-01T01:00:00Z",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "disponibilitaDalField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "2025-01-01T01:00:00Z",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "disponibilitaAlField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "12345",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "numeroDiCamereField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "tipologiaDiLettoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "true",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "ariaCondizionataField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "true",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "cassettaDiSicurezzaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "true",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "angoloCotturaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "true",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "jacuzziField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "idHotelField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "destinazioneWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "areaDiInteresseField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "funzionalitaEvolutiveFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "idFunzionalitaField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "attributoField",
+          "nestedContentFields": null
+        }
+      ]
+    }
+  ],
+  "contentStructureId": 8272552,
+  "creator": null,
+  "customFields": [
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "ipa_code contenuto"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external ref"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "srcId"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "channel"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "parentId"
+    }
+  ],
+  "datePublished": "2025-02-17T08:53:37Z",
+  "description": "[OntoReMa] Unit\u00E0 abitativa all\u0027interno di una struttura ricettiva.",
+  "description_i18n": null,
+  "externalReferenceCode": "4f8c2311-0031-46d3-97ce-e100e90137fa",
+  "friendlyUrlPath": "camera-rm",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    20006139,
+    5697890,
+    5698590
+  ],
+  "title": "Camera RM",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

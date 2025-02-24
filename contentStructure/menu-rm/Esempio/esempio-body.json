@@ -1,0 +1,354 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "descrizioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "mediaMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "prezzoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "valutaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "sezioneFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeSezioneField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": null,
+          "name": "itemFieldset",
+          "nestedContentFields": [
+            {
+              "contentFieldValue": {
+                "data": "123.45",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "prezzoItemField",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "esempio testo",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "nomeItemField",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "esempio testo",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "descrizioneItemField",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "esempio testo",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "valutaItemField",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": null,
+                "document": {
+                  "contentType": null,
+                  "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+                  "description": null,
+                  "encodingFormat": null,
+                  "fileExtension": null,
+                  "id": 4104701,
+                  "title": null
+                },
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "immagineItemField",
+              "nestedContentFields": null
+            }
+          ]
+        },
+        {
+          "contentFieldValue": {
+            "data": null,
+            "document": {
+              "contentType": null,
+              "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+              "description": null,
+              "encodingFormat": null,
+              "fileExtension": null,
+              "id": 4104701,
+              "title": null
+            },
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "immagineSezioneMedia",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "urlSezioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "destinazioneWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveFieldset",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreFieldset",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
+      "name": "funzionalitaEvolutiveFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "idFunzionalitaField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "attributoField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "areaDiInteresseField",
+          "nestedContentFields": null
+        }
+      ]
+    }
+  ],
+  "contentStructureId": 8272763,
+  "creator": null,
+  "customFields": [
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "ipa_code contenuto"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external ref"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "srcId"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "channel"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "parentId"
+    }
+  ],
+  "datePublished": "2025-02-17T08:57:05Z",
+  "description": "[OntoReMa] Lista di piatti e bevande offerti da un ristorante o agriturismo.",
+  "description_i18n": null,
+  "externalReferenceCode": "b029e0f8-6151-498d-b36c-802e7bcf29a3",
+  "friendlyUrlPath": "menu-rm",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    11036593,
+    20006258,
+    5697890,
+    5698590
+  ],
+  "title": "Menu RM",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

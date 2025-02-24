@@ -1,0 +1,482 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "denominazioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "descrizioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "indirizzoCompletoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "contattoNominativoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "telefonoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "cellulareField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "emailField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "sitoWebField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "orarioDiAperturaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "serviziField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "menuWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "immaginePrincipaleMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "altraImmagineMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "operatoreWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "destinazioneWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "servizioPrivatoWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "servizioPubblicoWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "prodottoTipicoWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "vinoWebcontent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "presidioSlowFoodWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "ricettaWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "areaDiInteresseField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "socialFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "Facebook",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeSocialField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlSocialField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreField",
+          "nestedContentFields": null
+        }
+      ]
+    }
+  ],
+  "contentStructureId": 8272952,
+  "creator": null,
+  "customFields": [
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "ipa_code contenuto"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external ref"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "srcId"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "channel"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "parentId"
+    }
+  ],
+  "datePublished": "2025-02-17T08:59:22Z",
+  "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
+  "description_i18n": null,
+  "externalReferenceCode": "207c5bf8-b5e1-4c24-b819-0a3f8dab469e",
+  "friendlyUrlPath": "ristorante",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    10338975,
+    10338985,
+    10338995,
+    10346225,
+    10346290,
+    11036593,
+    5697890,
+    5698590
+  ],
+  "title": "Ristorante",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

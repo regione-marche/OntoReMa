@@ -1,0 +1,510 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "titoloDellItinerarioField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "descrizioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "2025-01-01T01:00:00Z",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "validoDaField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "2025-01-01T01:00:00Z",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "validoAField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "difficoltaItinerarioField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "tappaItinerarioWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "sovratitoloDellItinerario",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "sottotitoloDellItinerario",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "immaginePrincipaleMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "altraImmagineMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "mediaMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "tipologiaItinerarioField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "12345",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "durataField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "periodoMigliorePerLItinerarioField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "offerteField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "autoreWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "12345",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "areaDiInteresseField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "sponsorItinerarioFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlDelloSponsorField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeDelloSponsorField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
+      "name": "risorsaItinerarioFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeDellaRisorsaField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "descrizioneRisorsaField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlDellaRisorsaField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
+      "name": "linkItinerarioFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeDelLinkField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "descrizioneLinkField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlEsternoField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "urlField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "fileGpxItinerarioMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "fileKmlItinerarioMedia",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 8272728,
+  "creator": null,
+  "customFields": [
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "ipa_code contenuto"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external ref"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "srcId"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "channel"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "parentId"
+    }
+  ],
+  "datePublished": "2025-02-17T08:56:48Z",
+  "description": "[OntoReMa] Percorso turistico che collega varie tappe significative all\u0027interno di una destinazione.",
+  "description_i18n": null,
+  "externalReferenceCode": "e29d6f03-d410-44af-9b4b-b022af513f27",
+  "friendlyUrlPath": "itinerario-rm",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    20006228,
+    11036593,
+    5697890,
+    5698590
+  ],
+  "title": "Itinerario RM",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}

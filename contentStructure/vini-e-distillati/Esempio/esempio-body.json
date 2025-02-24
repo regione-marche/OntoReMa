@@ -1,0 +1,327 @@
+{
+  "contentFields": [
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "denominazioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "presentazioneField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "contattoNominativoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "telefonoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "cellulareField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "emailField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "sitoWebField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "socialFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "Facebook",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "nomeSocialField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlSocialField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "prezzoField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "immaginePrincipaleMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": {
+          "contentType": null,
+          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
+          "description": null,
+          "encodingFormat": null,
+          "fileExtension": null,
+          "id": 4104701,
+          "title": null
+        },
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "altraImmagineMedia",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "latitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": "123.45",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "longitudineField",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "operatoreWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "destinazioneWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": null,
+      "name": "metaFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "chiaveField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "valoreField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": {
+        "data": "esempio testo",
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": null
+      },
+      "name": "areaDiInteresseField",
+      "nestedContentFields": null
+    }
+  ],
+  "contentStructureId": 8273202,
+  "creator": null,
+  "customFields": [
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "ipa_code contenuto"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external ref"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "srcId"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "channel"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "parentId"
+    }
+  ],
+  "datePublished": "2025-02-17T09:01:19Z",
+  "description": "[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.",
+  "description_i18n": null,
+  "externalReferenceCode": "a6a7dbe2-c62b-46be-b82e-f5dab673f4d7",
+  "friendlyUrlPath": "vini-e-distillati",
+  "friendlyUrlPath_i18n": null,
+  "keywords": [],
+  "priority": 0,
+  "taxonomyCategoryIds": [
+    10207170,
+    10339850,
+    11036593,
+    10346793,
+    5697890,
+    5698590
+  ],
+  "title": "Vini e distillati",
+  "title_i18n": null,
+  "viewableBy": "Anyone"
+}
