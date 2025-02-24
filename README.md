@@ -10,7 +10,9 @@ Questo repository contiene documentazione, ontologie e materiali utili relativi 
 - **/contentStructure**: Ontologie e schemi delle strutture.
   - **/{{cartella della struttura}}**: cartella della struttura.
     - **/README.md**: elenco dei dati della struttura.
-    - **/example-body.json**: esempio di body per effettuare un inserimento tramite Headless API.
     - **/info.json**: json di chiamata GET della struttura tramite Headless API.
+    - **/Esempio**: cartella che contiene una guida ed un esempio di body per una chiamata POST.
+      - **/esempio-body.json**: esempio di body per effettuare un inserimento tramite Headless API.
+      - **/README.md**: Guida alla personalizzazione di una chiamata di inserimento del dato.
 
 
