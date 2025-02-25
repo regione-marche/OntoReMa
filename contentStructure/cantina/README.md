@@ -123,3 +123,10 @@ Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 - **[Tema](../../categories/tema.md)** (`10346791`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Riferimento geografico](../../categories/riferimento-geografico.md)** (`5697889`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Licenza](../../categories/licenza.md)** (`5698589`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+## Custom fields
+- **[ipa_code contenuto](../../customFields/ipa-code-contenuto.md)**
+- **[external ref](../../customFields/external-ref.md)**
+- **[credits](../../customFields/credits.md)**
+- **[srcId](../../customFields/srcid.md)**
+- **[channel](../../customFields/channel.md)**
+- **[parentId](../../customFields/parentid.md)**
