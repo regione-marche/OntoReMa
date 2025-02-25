@@ -6,7 +6,7 @@ Per effettuare la richiesta sarà necessario disporre delle credenziali.
 
 **Tipo chiamata**: POST
 
-**Url**: `https://digitalhub.regione.marche.it/o/headless-delivery/v1.0/structured-content-folders/15363611/structured-contents`
+**Url**: `https://digitalhub.regione.marche.it/o/headless-delivery/v1.0/structured-content-folders/22448419/structured-contents`
 
 Questa chiamata andrà ad inserire il nostro Structured content all'interno di una cartella predefinita.
 
