@@ -7,6 +7,7 @@ Questo repository contiene documentazione, ontologie e materiali utili relativi 
 
 ## 📂 Struttura del Repository
 - **/categories**: Documentazione ufficiale delle cateogie.
+- **/customFields**: Documentazione dei campi personalizzati del cotenuto web.
 - **/contentStructure**: Ontologie e schemi delle strutture.
   - **/{{cartella della struttura}}**: cartella della struttura.
     - **/README.md**: elenco dei dati della struttura.
