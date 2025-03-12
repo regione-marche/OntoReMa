@@ -492,13 +492,14 @@
   "datePublished": "2025-02-17T08:56:48Z",
   "description": "[OntoReMa] Percorso turistico che collega varie tappe significative all\u0027interno di una destinazione.",
   "description_i18n": null,
-  "externalReferenceCode": "a8853197-26b8-4e2d-8557-ec387fd638cd",
+  "externalReferenceCode": "e6375a9f-4a54-4f37-a6f0-e8e5e508a26c",
   "friendlyUrlPath": "itinerario-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
   "priority": 0,
   "taxonomyCategoryIds": [
     10207170,
+    20006228,
     11036593,
     5697890,
     5698590
