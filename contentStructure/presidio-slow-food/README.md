@@ -6,7 +6,7 @@ Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 - **ID**: 8272834
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:31
-- **Last Modified**: 17-02-2025 08:58
+- **Last Modified**: 13-03-2025 09:11
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -72,19 +72,31 @@ Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 ### 14. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 15. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 15. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 15.1. Chiave (`chiaveField`) 
+#### 15.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 15.2. Valore (`valoreField`) 
+#### 15.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 16. Area di interesse (`areaDiInteresseField`) 
+### 16. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 16.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 16.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 17. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

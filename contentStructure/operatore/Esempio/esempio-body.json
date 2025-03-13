@@ -372,6 +372,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -441,10 +471,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:57:22Z",
+  "datePublished": "2025-03-13T09:15:59Z",
   "description": "[OntoReMa] Professionista o impresa che offre servizi turistici.",
   "description_i18n": null,
-  "externalReferenceCode": "3220f58e-788e-427a-bfa2-bb8a2a20c8d2",
+  "externalReferenceCode": "41d6e139-f240-4e3e-865f-259ee6860a37",
   "friendlyUrlPath": "operatore",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

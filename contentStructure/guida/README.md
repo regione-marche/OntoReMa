@@ -6,7 +6,7 @@ Professionista o materiale informativo per supportare i visitatori nell'esploraz
 - **ID**: 8272678
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:03
-- **Last Modified**: 17-02-2025 08:56
+- **Last Modified**: 13-03-2025 09:35
 
 ## Content Structure Fields
 ### 1. Nome (`nomeField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -81,14 +81,26 @@ Professionista o materiale informativo per supportare i visitatori nell'esploraz
 - **Input Control**: text
 
 
-### 16. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 16. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 16.1. Chiave (`chiaveField`) 
+#### 16.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 16.2. Valore (`valoreField`) 
+#### 16.2. URL (`urlMediaCollegatiField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 17. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 17.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 17.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

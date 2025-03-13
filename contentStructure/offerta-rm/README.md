@@ -6,7 +6,7 @@ Pacchetto o servizio speciale proposto all'interno di una destinazione.
 - **ID**: 8272818
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:28
-- **Last Modified**: 17-02-2025 08:57
+- **Last Modified**: 13-03-2025 09:13
 
 ## Content Structure Fields
 ### 1. Nome offerta (`nomeDellOffertaField`) 
@@ -112,30 +112,42 @@ Pacchetto o servizio speciale proposto all'interno di una destinazione.
 ### 11. Longitudine (`longitudineField`) 
 - **Data Type**: double
 
-### 12. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 12. Media Collegati (`mediaCollegatiFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 12.1. Chiave (`chiaveField`) 
+#### 12.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 12.2. Valore (`valoreField`) 
+#### 12.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 13. Area di interesse (`areaDiInteresseField`) 
-- **Data Type**: string
-- **Input Control**: text
-
-### 14. Funzionalità (Evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 13. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 14.1. Id funzionalità (`idFunzionalitaField`) 
+#### 13.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 14.2. Attributo (`attributoField`) 
+#### 13.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 14. Area di interesse (`areaDiInteresseField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 15. Funzionalità (Evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 15.1. Id funzionalità (`idFunzionalitaField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 15.2. Attributo (`attributoField`) 
 - **Data Type**: string
 - **Input Control**: text
 

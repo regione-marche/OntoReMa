@@ -6,7 +6,7 @@ Occasione particolare organizzata in una determinata destinazione per promuovere
 - **ID**: 8272644
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:00
-- **Last Modified**: 17-02-2025 08:55
+- **Last Modified**: 13-03-2025 09:37
 
 ## Content Structure Fields
 ### 1. Titolo (`titoloField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -103,26 +103,38 @@ Occasione particolare organizzata in una determinata destinazione per promuovere
 ### 26. Longitudine (`longitudineField`) 
 - **Data Type**: double
 
-### 27. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 27. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 27.1. Chiave (`chiaveField`) 
+#### 27.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 27.2. Valore (`valoreField`) 
+#### 27.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 28. Servizi (`serviziEventoFieldset`) 
+### 28. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 28.1. Altri servizi (`altriServiziField`) 
+#### 28.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 28.2. Lista di servizi (`listaDiServiziField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 28.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 29. Servizi (`serviziEventoFieldset`) 
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 29.1. Altri servizi (`altriServiziField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 29.2. Lista di servizi (`listaDiServiziField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: string
 - **Input Control**: select
 ##### Options
@@ -169,139 +181,139 @@ Occasione particolare organizzata in una determinata destinazione per promuovere
 - Area fumatori: `opzione44104646`
 
 
-### 29. Codice ISTAT (`codiceIstatField`) 
+### 30. Codice ISTAT (`codiceIstatField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 30. CAP (`capField`) 
+### 31. CAP (`capField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 31. Nazione (`nazioneField`) 
+### 32. Nazione (`nazioneField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 32. Toponimo (`toponimoField`) 
+### 33. Toponimo (`toponimoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 33. Regione (`regioneField`) 
+### 34. Regione (`regioneField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 34. Provincia (`provinciaField`) 
+### 35. Provincia (`provinciaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 35. Provincia Estesa (`provinciaEstesaField`) 
+### 36. Provincia Estesa (`provinciaEstesaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 36. Città (`cittaField`) 
+### 37. Città (`cittaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 37. Nome della strada (`nomeDellaStradaField`) 
+### 38. Nome della strada (`nomeDellaStradaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 38. Numero civico (`numeroCivicoField`) 
+### 39. Numero civico (`numeroCivicoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 39. Indirizzo completo (`indirizzoCompletoField`) 
+### 40. Indirizzo completo (`indirizzoCompletoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 40. Denominazione (`denominazioneField`) 
+### 41. Denominazione (`denominazioneField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 41. Quartiere (`quartiereField`) 
+### 42. Quartiere (`quartiereField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 42. Sponsor (`sponsorEventoFieldset`) 
+### 43. Sponsor (`sponsorEventoFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 42.1. Nome dello sponsor (`nomeDelloSponsorField`) 
+#### 43.1. Nome dello sponsor (`nomeDelloSponsorField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 42.2. Url dello sponsor (`urlDelloSponsorField`) 
+#### 43.2. Url dello sponsor (`urlDelloSponsorField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 43. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 44. Destinazione (`destinazioneWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 44. Url (`urlField`) 
+### 45. Url (`urlField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 45. Paragrafo (`paragrafoFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 46. Paragrafo (`paragrafoFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 45.1. Posizione del paragrafo (`posizioneDelParagrafoField`) 
+#### 46.1. Posizione del paragrafo (`posizioneDelParagrafoField`) 
 - **Data Type**: integer
 
-#### 45.2. link (`linkParagrafoFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 46.2. link (`linkParagrafoFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 ##### 📁 Nested Fields
-##### 45.2.1. Descrizione (`descrizioneLinkField`) 
+##### 46.2.1. Descrizione (`descrizioneLinkField`) 
 - **Data Type**: string
 
-##### 45.2.2. Url esterno (`urlEsternoField`) 
-- **Data Type**: string
-- **Input Control**: text
-
-##### 45.2.3. Nome del link (`nomeDelLinkField`) 
+##### 46.2.2. Url esterno (`urlEsternoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-
-#### 45.3. Titolo del paragrafo (`titoloDelParagrafoField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+##### 46.2.3. Nome del link (`nomeDelLinkField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 45.4. Sottotitolo del paragrafo (`sottotitoloDelParagrafoField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+
+#### 46.3. Titolo del paragrafo (`titoloDelParagrafoField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: string
 - **Input Control**: text
 
-#### 45.5. Testo del paragrafo (`testoDelParagrafoField`) 
+#### 46.4. Sottotitolo del paragrafo (`sottotitoloDelParagrafoField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+#### 46.5. Testo del paragrafo (`testoDelParagrafoField`) 
 - **Data Type**: string
 
-#### 45.6. Autore (`autoreParagrafoWebContent`) 
+#### 46.6. Autore (`autoreParagrafoWebContent`) 
 - **Data Type**: structuredContent
 
-#### 45.7. Immagine (`immagineParagrafoMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 46.7. Immagine (`immagineParagrafoMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-#### 45.8. Media (`mediaParagrafoMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 46.8. Media (`mediaParagrafoMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-#### 45.9. Evento (`eventoParagrafoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 46.9. Evento (`eventoParagrafoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
     - **[Evento RM](../../contentStructure/evento-rm/README.md)**
 
 
-### 46. Funzionalità (evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 47. Funzionalità (evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 46.1. Id funzionalità (`idFunzionalitaField`) 
+#### 47.1. Id funzionalità (`idFunzionalitaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 46.2. Attributo (`attributoField`) 
+#### 47.2. Attributo (`attributoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 47. ID Esterno (`idEsternoField`) 
+### 48. ID Esterno (`idEsternoField`) 
 - **Data Type**: string
 - **Input Control**: text
 

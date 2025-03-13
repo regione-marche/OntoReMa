@@ -6,7 +6,7 @@ Elemento enogastronomico rappresentativo del territorio.
 - **ID**: 8272864
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:33
-- **Last Modified**: 17-02-2025 08:58
+- **Last Modified**: 13-03-2025 09:08
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -89,14 +89,26 @@ Elemento enogastronomico rappresentativo del territorio.
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 19. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 19. Media Collegati (`mediaCollegatiFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 19.1. Chiave (`chiaveField`) 
+#### 19.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 19.2. Valore (`valoreField`) 
+#### 19.2. URL (`urlMediaCollegatiField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 20. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 20.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 20.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

@@ -364,6 +364,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -433,10 +463,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T09:00:12Z",
+  "datePublished": "2025-03-13T08:55:08Z",
   "description": "[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.",
   "description_i18n": null,
-  "externalReferenceCode": "89116328-3af4-4285-886d-2327498a1457",
+  "externalReferenceCode": "e32aa6d7-f34f-4177-a4f6-478fa635342d",
   "friendlyUrlPath": "servizio-pubblico",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

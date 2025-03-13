@@ -224,6 +224,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -305,10 +335,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T09:01:19Z",
+  "datePublished": "2025-03-13T08:50:24Z",
   "description": "[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.",
   "description_i18n": null,
-  "externalReferenceCode": "bbaa1590-4435-449a-899f-63125771e4bb",
+  "externalReferenceCode": "5dd02976-547f-4f88-8157-185349e8920f",
   "friendlyUrlPath": "vini-e-distillati",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

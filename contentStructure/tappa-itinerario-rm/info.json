@@ -297,6 +297,59 @@
           "showLabel": true,
           "inputControl": "text",
           "predefinedValue": null
+        },
+        {
+          "dataType": "",
+          "label": "Media Collegati",
+          "localizable": false,
+          "multiple": false,
+          "name": "mediaCollegatiFieldset",
+          "nestedContentStructureFields": [
+            {
+              "dataType": "string",
+              "label": "Titolo",
+              "localizable": true,
+              "multiple": false,
+              "name": "titoloMediaCollegatiField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione70142404"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": ""
+            },
+            {
+              "dataType": "string",
+              "label": "URL",
+              "localizable": true,
+              "multiple": false,
+              "name": "urlMediaCollegatiField",
+              "nestedContentStructureFields": [],
+              "options": [
+                {
+                  "label": "opzione",
+                  "value": "opzione70142404"
+                }
+              ],
+              "repeatable": false,
+              "required": false,
+              "showLabel": true,
+              "inputControl": "text",
+              "predefinedValue": ""
+            }
+          ],
+          "options": [],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": null,
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -492,14 +545,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "CAPPELLETTI",
-    "givenName": "DARIS",
-    "id": 4891450,
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
     "image": null,
-    "name": "DARIS CAPPELLETTI"
+    "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:54:21Z",
-  "dateModified": "2025-02-17T09:00:29Z",
+  "dateModified": "2025-03-13T08:53:18Z",
   "description": "[OntoReMa] Punto o sotto-itinerario significativo all\u0027interno di un itinerario turistico.",
   "id": 8273166,
   "name": "Tappa itinerario RM",

@@ -724,6 +724,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -805,10 +835,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:52:56Z",
+  "datePublished": "2025-03-13T09:47:40Z",
   "description": "[OntoReMa] Struttura per il pernottamento.",
   "description_i18n": null,
-  "externalReferenceCode": "e049e859-c30e-416f-b239-cd607fb6cbb2",
+  "externalReferenceCode": "6b5205a2-85b9-4e03-a1c7-24aa5d3d523a",
   "friendlyUrlPath": "alloggio-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

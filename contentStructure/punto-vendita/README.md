@@ -6,7 +6,7 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
 - **ID**: 8272896
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:42
-- **Last Modified**: 17-02-2025 08:58
+- **Last Modified**: 13-03-2025 09:09
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -110,19 +110,31 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
 ### 23. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 24. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 24. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 24.1. Chiave (`chiaveField`) 
+#### 24.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 24.2. Valore (`valoreField`) 
+#### 24.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 25. Area di interesse (`areaDiInteresseField`) 
+### 25. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 25.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 25.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 26. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

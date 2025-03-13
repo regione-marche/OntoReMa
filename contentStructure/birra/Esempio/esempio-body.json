@@ -236,6 +236,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -317,10 +347,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:53:18Z",
+  "datePublished": "2025-03-13T09:45:07Z",
   "description": "[OntoReMa] Prodotto tipico spesso legato alla gastronomia locale e tradizionale.",
   "description_i18n": null,
-  "externalReferenceCode": "06039413-37f0-4fe2-be8f-27995c43fba6",
+  "externalReferenceCode": "b8dda111-ed26-47de-a953-c9ec6aa54c85",
   "friendlyUrlPath": "birra",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

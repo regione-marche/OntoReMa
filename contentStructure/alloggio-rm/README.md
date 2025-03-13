@@ -6,7 +6,7 @@ Struttura per il pernottamento.
 - **ID**: 8272153
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:43
-- **Last Modified**: 17-02-2025 08:52
+- **Last Modified**: 13-03-2025 09:47
 
 ## Content Structure Fields
 ### 1. Nome della struttura (`nomeDellaStrutturaField`) 
@@ -254,19 +254,31 @@ Struttura per il pernottamento.
 - **Input Control**: text
 
 
-### 59. META (`metaFieldset`) 
+### 59. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 59.1. Chiave (`chiaveField`) 
+#### 59.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 59.2. Valore (`valoreField`) 
+#### 59.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 60. Area di interesse (`areaDiInteresseField`) 
+### 60. META (`metaFieldset`) 
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 60.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 60.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 61. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

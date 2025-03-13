@@ -359,6 +359,59 @@
     },
     {
       "dataType": "",
+      "label": "Media Collegati",
+      "localizable": false,
+      "multiple": false,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentStructureFields": [
+        {
+          "dataType": "string",
+          "label": "Titolo",
+          "localizable": true,
+          "multiple": false,
+          "name": "titoloMediaCollegatiField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione34765471"
+            }
+          ],
+          "repeatable": false,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": ""
+        },
+        {
+          "dataType": "string",
+          "label": "URL",
+          "localizable": true,
+          "multiple": false,
+          "name": "urlMediaCollegatiField",
+          "nestedContentStructureFields": [],
+          "options": [
+            {
+              "label": "opzione",
+              "value": "opzione34765471"
+            }
+          ],
+          "repeatable": true,
+          "required": false,
+          "showLabel": true,
+          "inputControl": "text",
+          "predefinedValue": ""
+        }
+      ],
+      "options": [],
+      "repeatable": false,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
+      "dataType": "",
       "label": "META",
       "localizable": false,
       "multiple": false,
@@ -414,14 +467,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "CAPPELLETTI",
-    "givenName": "DARIS",
-    "id": 4891450,
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
     "image": null,
-    "name": "DARIS CAPPELLETTI"
+    "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:33:44Z",
-  "dateModified": "2025-02-17T08:58:26Z",
+  "dateModified": "2025-03-13T09:08:34Z",
   "description": "[OntoReMa] Elemento enogastronomico rappresentativo del territorio.",
   "id": 8272864,
   "name": "Prodotto tipico",

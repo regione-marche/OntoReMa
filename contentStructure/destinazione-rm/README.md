@@ -6,7 +6,7 @@ Località di interesse turistico che offre una serie di servizi ed esperienze pe
 - **ID**: 8272607
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:57
-- **Last Modified**: 17-02-2025 08:54
+- **Last Modified**: 13-03-2025 09:39
 
 ## Content Structure Fields
 ### 1. Nome destinazione (`nomeDestinazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -308,19 +308,31 @@ Località di interesse turistico che offre una serie di servizi ed esperienze pe
 - **Input Control**: text
 
 
-### 31. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 31. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 31.1. Valore (`valoreField`) 
+#### 31.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 31.2. Chiave (`chiaveField`) 
+#### 31.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 32. Area di interesse (`areaDiInteresseField`) 
+### 32. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 32.1. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 32.2. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 33. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

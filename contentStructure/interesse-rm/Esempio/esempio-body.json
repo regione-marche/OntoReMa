@@ -90,6 +90,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -621,10 +651,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:56:28Z",
+  "datePublished": "2025-03-13T09:31:38Z",
   "description": "[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.",
   "description_i18n": null,
-  "externalReferenceCode": "f16dfe37-17a7-444a-86d3-5ecfd60e54b9",
+  "externalReferenceCode": "24901b8d-adc7-4b90-b82f-9eab6b87d534",
   "friendlyUrlPath": "interesse-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

@@ -356,6 +356,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -437,10 +467,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:58:45Z",
+  "datePublished": "2025-03-13T09:09:05Z",
   "description": "[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.",
   "description_i18n": null,
-  "externalReferenceCode": "f4039c72-c486-4541-a3a9-e3d9a2d12872",
+  "externalReferenceCode": "ea8da93a-18d6-4322-be5b-1f0b9381481c",
   "friendlyUrlPath": "punto-vendita",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

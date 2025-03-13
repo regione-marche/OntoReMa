@@ -304,6 +304,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -415,10 +445,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:57:40Z",
+  "datePublished": "2025-03-13T09:13:18Z",
   "description": "[OntoReMa] Pacchetto o servizio speciale proposto all\u0027interno di una destinazione.",
   "description_i18n": null,
-  "externalReferenceCode": "cea3a4ba-1ba1-4cc2-b7c1-617fce21d4c3",
+  "externalReferenceCode": "626da7bc-d161-4277-b4c4-f839d54c0a76",
   "friendlyUrlPath": "offerta-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

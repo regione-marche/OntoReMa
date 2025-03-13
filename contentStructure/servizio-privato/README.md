@@ -6,7 +6,7 @@ Servizio offerto da privati per supportare i turisti nelle loro esperienze.
 - **ID**: 8272981
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:50
-- **Last Modified**: 17-02-2025 08:59
+- **Last Modified**: 13-03-2025 08:58
 
 ## Content Structure Fields
 ### 1. Nome (`nomeField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -118,14 +118,26 @@ Servizio offerto da privati per supportare i turisti nelle loro esperienze.
 - **Possible structures**:
   - **[Operatore](../../contentStructure/operatore/README.md)**
 
-### 27. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 27. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 27.1. Chiave (`chiaveField`) 
+#### 27.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 27.2. Valore (`valoreField`) 
+#### 27.2. URL (`urlMediaCollegatiField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 28. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 28.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 28.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

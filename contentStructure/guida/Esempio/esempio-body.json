@@ -220,6 +220,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -289,10 +319,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:56:09Z",
+  "datePublished": "2025-03-13T09:35:03Z",
   "description": "[OntoReMa] Professionista o materiale informativo per supportare i visitatori nell\u0027esplorazione delle destinazioni.",
   "description_i18n": null,
-  "externalReferenceCode": "2f546103-c5ed-4f2a-89cb-e46d9b4a74f9",
+  "externalReferenceCode": "62c9d12f-6360-4d1d-a479-929623b86f9f",
   "friendlyUrlPath": "guida",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

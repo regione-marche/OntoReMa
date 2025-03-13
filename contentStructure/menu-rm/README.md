@@ -6,7 +6,7 @@ Lista di piatti e bevande offerti da un ristorante o agriturismo.
 - **ID**: 8272763
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:22
-- **Last Modified**: 17-02-2025 08:57
+- **Last Modified**: 13-03-2025 09:17
 
 ## Content Structure Fields
 ### 1. Descrizione (`descrizioneField`) 
@@ -69,30 +69,42 @@ Lista di piatti e bevande offerti da un ristorante o agriturismo.
 ### 9. Longitudine (`longitudineField`) 
 - **Data Type**: double
 
-### 10. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 10. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 10.1. Chiave (`chiaveFieldset`) 
+#### 10.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 10.2. Valore (`valoreFieldset`) 
+#### 10.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 11. Funzionalità (Evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 11. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 11.1. Id funzionalità (`idFunzionalitaField`) 
+#### 11.1. Chiave (`chiaveFieldset`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 11.2. Attributo (`attributoField`) 
+#### 11.2. Valore (`valoreFieldset`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 11.3. Area di interesse (`areaDiInteresseField`) 
+
+### 12. Funzionalità (Evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 12.1. Id funzionalità (`idFunzionalitaField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 12.2. Attributo (`attributoField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 12.3. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

@@ -388,6 +388,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -457,10 +487,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:59:22Z",
+  "datePublished": "2025-03-13T09:00:18Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "description_i18n": null,
-  "externalReferenceCode": "41f85bdf-860c-4730-80a8-2f7167b31b7e",
+  "externalReferenceCode": "d74c80b2-081c-45e3-a145-3eab5fe2784a",
   "friendlyUrlPath": "ristorante",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

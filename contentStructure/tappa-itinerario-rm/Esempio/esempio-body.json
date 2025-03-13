@@ -245,6 +245,36 @@
           },
           "name": "urlEsternoDelLikField",
           "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": null,
+          "name": "mediaCollegatiFieldset",
+          "nestedContentFields": [
+            {
+              "contentFieldValue": {
+                "data": "esempio testo",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "titoloMediaCollegatiField",
+              "nestedContentFields": null
+            },
+            {
+              "contentFieldValue": {
+                "data": "esempio testo",
+                "document": null,
+                "geo": null,
+                "image": null,
+                "link": null,
+                "structuredContentLink": null
+              },
+              "name": "urlMediaCollegatiField",
+              "nestedContentFields": null
+            }
+          ]
         }
       ]
     },
@@ -497,10 +527,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T09:00:29Z",
+  "datePublished": "2025-03-13T08:53:18Z",
   "description": "[OntoReMa] Punto o sotto-itinerario significativo all\u0027interno di un itinerario turistico.",
   "description_i18n": null,
-  "externalReferenceCode": "43ee053f-0ea9-4f25-891b-b41d3d083148",
+  "externalReferenceCode": "a3f13f83-1b9c-403b-a703-9f32efb0e4a9",
   "friendlyUrlPath": "tappa-itinerario-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

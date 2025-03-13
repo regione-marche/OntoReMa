@@ -6,7 +6,7 @@ Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 - **ID**: 8272580
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:54
-- **Last Modified**: 17-02-2025 08:54
+- **Last Modified**: 13-03-2025 09:40
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -101,19 +101,31 @@ Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 ### 21. Longitudine (`longitudineField`) 
 - **Data Type**: double
 
-### 22. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 22. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 22.1. Chiave (`chiaveField`) 
+#### 22.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 22.2. Valore (`valoreField`) 
+#### 22.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 23. Area di interesse (`areaDiInteresseField`) 
+### 23. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 23.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 23.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 24. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

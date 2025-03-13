@@ -6,7 +6,7 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **ID**: 8272952
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:48
-- **Last Modified**: 17-02-2025 08:59
+- **Last Modified**: 13-03-2025 09:00
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -115,14 +115,26 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **Input Control**: text
 
 
-### 26. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 26. Media Collegati (`mediaCollegatiFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 26.1. Chiave (`chiaveField`) 
+#### 26.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 26.2. Valore (`valoreField`) 
+#### 26.2. URL (`urlMediaCollegatiField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 27. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 27.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 27.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

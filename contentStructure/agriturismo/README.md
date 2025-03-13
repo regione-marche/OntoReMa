@@ -6,7 +6,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 19-02-2025 15:10
+- **Last Modified**: 13-03-2025 08:50
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -117,14 +117,26 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **Data Type**: string
 - **Input Control**: text
 
-### 27. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 27. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 27.1. Chiave (`chiaveField`) 
+#### 27.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 27.2. Valore (`valoreField`) 
+#### 27.2. URL (`urlMediaCollegatiField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 28. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 28.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 28.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

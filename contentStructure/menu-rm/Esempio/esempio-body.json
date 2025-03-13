@@ -222,6 +222,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -333,10 +363,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:57:05Z",
+  "datePublished": "2025-03-13T09:17:17Z",
   "description": "[OntoReMa] Lista di piatti e bevande offerti da un ristorante o agriturismo.",
   "description_i18n": null,
-  "externalReferenceCode": "fe245e27-2b57-4487-bf94-1113123d5e81",
+  "externalReferenceCode": "068a7d00-0502-4690-a809-6915fa5e82c9",
   "friendlyUrlPath": "menu-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

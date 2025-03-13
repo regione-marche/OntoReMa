@@ -400,6 +400,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -469,10 +499,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-19T15:10:34Z",
+  "datePublished": "2025-03-13T08:50:33Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "description_i18n": null,
-  "externalReferenceCode": "2dacf85a-548f-492a-ab8d-d3e6909cc0c4",
+  "externalReferenceCode": "804ee291-85d4-4d12-8cca-d105ced44d4a",
   "friendlyUrlPath": "agriturismo",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

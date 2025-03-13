@@ -354,6 +354,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -877,10 +907,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:55:49Z",
+  "datePublished": "2025-03-13T09:37:19Z",
   "description": "[OntoReMa] Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.",
   "description_i18n": null,
-  "externalReferenceCode": "d945d56f-4305-4b6b-a2d0-1551fd6fc52d",
+  "externalReferenceCode": "0de13254-6518-40c5-b86f-8c368f52a693",
   "friendlyUrlPath": "evento-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

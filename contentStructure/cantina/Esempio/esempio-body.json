@@ -340,6 +340,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -421,10 +451,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:54:09Z",
+  "datePublished": "2025-03-13T09:40:34Z",
   "description": "[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.",
   "description_i18n": null,
-  "externalReferenceCode": "cd59fc6c-e726-4cbb-a69e-53c4d272d7d9",
+  "externalReferenceCode": "3117b875-4f0d-4bce-94f5-24c13c73ddb5",
   "friendlyUrlPath": "cantina",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

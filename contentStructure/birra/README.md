@@ -6,7 +6,7 @@ Prodotto tipico spesso legato alla gastronomia locale e tradizionale.
 - **ID**: 8272522
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:50
-- **Last Modified**: 17-02-2025 08:53
+- **Last Modified**: 13-03-2025 09:45
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -82,19 +82,31 @@ Prodotto tipico spesso legato alla gastronomia locale e tradizionale.
 ### 16. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 17. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 17. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 17.1. Chiave (`chiaveField`) 
+#### 17.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 17.2. Valore (`valoreField`) 
+#### 17.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 18. Area di interesse (`areaDiInteresseField`) 
+### 18. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 18.1. Chiave (`chiaveField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 18.2. Valore (`valoreField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 19. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

@@ -734,6 +734,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -815,10 +845,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:54:36Z",
+  "datePublished": "2025-03-13T09:39:27Z",
   "description": "[OntoReMa] Localit\u00E0 di interesse turistico che offre una serie di servizi ed esperienze per i visitatori.",
   "description_i18n": null,
-  "externalReferenceCode": "9f4ca427-d1da-4b16-b905-f499bf3b15f1",
+  "externalReferenceCode": "68eae7c7-fb22-49d1-844b-e096ab5ee086",
   "friendlyUrlPath": "destinazione-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

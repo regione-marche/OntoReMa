@@ -356,6 +356,36 @@
     },
     {
       "contentFieldValue": null,
+      "name": "mediaCollegatiFieldset",
+      "nestedContentFields": [
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "titoloMediaCollegatiField",
+          "nestedContentFields": null
+        },
+        {
+          "contentFieldValue": {
+            "data": "esempio testo",
+            "document": null,
+            "geo": null,
+            "image": null,
+            "link": null,
+            "structuredContentLink": null
+          },
+          "name": "urlMediaCollegatiField",
+          "nestedContentFields": null
+        }
+      ]
+    },
+    {
+      "contentFieldValue": null,
       "name": "metaFieldset",
       "nestedContentFields": [
         {
@@ -425,10 +455,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-02-17T08:59:51Z",
+  "datePublished": "2025-03-13T08:58:35Z",
   "description": "[OntoReMa] Servizio offerto da privati per supportare i turisti nelle loro esperienze.",
   "description_i18n": null,
-  "externalReferenceCode": "9573c749-4a77-4de5-9278-4301b1202cfc",
+  "externalReferenceCode": "24054241-1259-4b6a-b0d9-9d3469efb613",
   "friendlyUrlPath": "servizio-privato",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

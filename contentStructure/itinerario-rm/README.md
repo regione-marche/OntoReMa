@@ -6,7 +6,7 @@ Percorso turistico che collega varie tappe significative all'interno di una dest
 - **ID**: 8272728
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:10
-- **Last Modified**: 17-02-2025 08:56
+- **Last Modified**: 13-03-2025 09:24
 
 ## Content Structure Fields
 ### 1. Titolo dell'itinerario (`titoloDellItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -72,72 +72,84 @@ Percorso turistico che collega varie tappe significative all'interno di una dest
 ### 18. Longitudine (`longitudineField`) 
 - **Data Type**: integer
 
-### 19. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 19. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 19.1. Chiave (`chiaveField`) 
+#### 19.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 19.2. Valore (`valoreField`) 
+#### 19.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 20. Area di interesse (`areaDiInteresseField`) 
-- **Data Type**: string
-- **Input Control**: text
-
-### 21. Sponsor (`sponsorItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 20. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 21.1. Url dello sponsor (`urlDelloSponsorField`) 
+#### 20.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 21.2. Nome dello sponsor (`nomeDelloSponsorField`) 
+#### 20.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 22. Risorsa (`risorsaItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 21. Area di interesse (`areaDiInteresseField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+### 22. Sponsor (`sponsorItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 22.1. Nome risorsa (`nomeDellaRisorsaField`) 
+#### 22.1. Url dello sponsor (`urlDelloSponsorField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 22.2. Descrizione (`descrizioneRisorsaField`) 
-- **Data Type**: string
-
-#### 22.3. URL esterno della risorsa (`urlDellaRisorsaField`) 
+#### 22.2. Nome dello sponsor (`nomeDelloSponsorField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 23. Link (`linkItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 23. Risorsa (`risorsaItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 23.1. Nome del link (`nomeDelLinkField`) 
+#### 23.1. Nome risorsa (`nomeDellaRisorsaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 23.2. Descrizione (`descrizioneLinkField`) 
+#### 23.2. Descrizione (`descrizioneRisorsaField`) 
 - **Data Type**: string
 
-#### 23.3. URL esterno (`urlEsternoField`) 
+#### 23.3. URL esterno della risorsa (`urlDellaRisorsaField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+
+### 24. Link (`linkItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: 
+#### 📁 Nested Fields
+#### 24.1. Nome del link (`nomeDelLinkField`) 
+- **Data Type**: string
+- **Input Control**: text
+
+#### 24.2. Descrizione (`descrizioneLinkField`) 
+- **Data Type**: string
+
+#### 24.3. URL esterno (`urlEsternoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 24. Url (`urlField`) 
+### 25. Url (`urlField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 25. File GPX itinerario (`fileGpxItinerarioMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 26. File GPX itinerario (`fileGpxItinerarioMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-### 26. File KML itinerario (`fileKmlItinerarioMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 27. File KML itinerario (`fileKmlItinerarioMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
 ## Categories
