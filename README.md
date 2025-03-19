@@ -6,8 +6,8 @@
 Questo repository contiene documentazione, ontologie e materiali utili relativi alla Regione Marche. L'obiettivo è fornire un punto di riferimento per chiunque abbia bisogno di accedere a informazioni organizzate secondo un modello semantico.
 
 ## 📂 Struttura del Repository
-- **/categories**: Documentazione ufficiale delle cateogie.
-- **/customFields**: Documentazione dei campi personalizzati del cotenuto web.
+- **/categories**: Documentazione ufficiale delle categorie.
+- **/customFields**: Documentazione dei campi personalizzati del contenuto web.
 - **/contentStructure**: Ontologie e schemi delle strutture.
   - **/{{cartella della struttura}}**: cartella della struttura.
     - **/README.md**: elenco dei dati della struttura.
