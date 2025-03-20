@@ -179,7 +179,7 @@
     },
     {
       "dataType": "string",
-      "label": "ID hotel",
+      "label": "ID hotel (deprecato)",
       "localizable": true,
       "multiple": false,
       "name": "idHotelField",
@@ -262,7 +262,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -281,7 +281,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -427,7 +427,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T09:52:40Z",
-  "dateModified": "2025-03-13T09:44:03Z",
+  "dateModified": "2025-03-19T13:24:05Z",
   "description": "[OntoReMa] Unit\u00E0 abitativa all\u0027interno di una struttura ricettiva.",
   "id": 8272552,
   "name": "Camera RM",

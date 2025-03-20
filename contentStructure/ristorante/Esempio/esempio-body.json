@@ -277,7 +277,23 @@
         "link": null,
         "structuredContentLink": null
       },
-      "name": "vinoWebcontent",
+      "name": "vinoWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "birraWebContent",
       "nestedContentFields": null
     },
     {
@@ -487,10 +503,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T09:00:18Z",
+  "datePublished": "2025-03-19T11:34:40Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "description_i18n": null,
-  "externalReferenceCode": "c0fb9711-1d4b-4d9c-b290-674f8a906514",
+  "externalReferenceCode": "4bc68c5f-e101-4e93-a51e-df1ba8755fc5",
   "friendlyUrlPath": "ristorante",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

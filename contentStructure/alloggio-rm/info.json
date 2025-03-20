@@ -944,6 +944,20 @@
       "predefinedValue": null
     },
     {
+      "dataType": "structuredContent",
+      "label": "Camera",
+      "localizable": true,
+      "multiple": false,
+      "name": "cameraWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
       "dataType": "",
       "label": "Funzionalit\u00E0 (evolutive)",
       "localizable": false,
@@ -1020,7 +1034,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -1039,7 +1053,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -1132,7 +1146,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T09:43:04Z",
-  "dateModified": "2025-03-13T09:47:40Z",
+  "dateModified": "2025-03-19T11:39:21Z",
   "description": "[OntoReMa] Struttura per il pernottamento.",
   "id": 8272153,
   "name": "Alloggio RM",

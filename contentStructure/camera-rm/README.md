@@ -6,7 +6,7 @@ Unità abitativa all'interno di una struttura ricettiva.
 - **ID**: 8272552
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:52
-- **Last Modified**: 13-03-2025 09:44
+- **Last Modified**: 19-03-2025 13:24
 
 ## Content Structure Fields
 ### 1. Tipologia di camera (`tipologiaDiCameraField`) 
@@ -50,7 +50,7 @@ Unità abitativa all'interno di una struttura ricettiva.
 - **Data Type**: boolean
 - **Input Control**: checkbox
 
-### 12. ID hotel (`idHotelField`) 
+### 12. ID hotel (deprecato) (`idHotelField`) 
 - **Data Type**: string
 - **Input Control**: text
 

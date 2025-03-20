@@ -27,5 +27,6 @@
   - **Riunione d'affari** (`22363604`)
   - **Evento stagionale commerciale** (`22363608`)
 - **Evento sportivo** (`11098800`)
+  - **Manifestazione sportiva** (`22363636`)
 ## Asset Types
 - **[Evento RM](../contentStructure/evento-rm/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)

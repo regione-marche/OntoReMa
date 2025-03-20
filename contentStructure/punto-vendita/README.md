@@ -6,7 +6,7 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
 - **ID**: 8272896
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:42
-- **Last Modified**: 13-03-2025 09:09
+- **Last Modified**: 19-03-2025 11:33
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -98,43 +98,48 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
 ### 19. Vino (`vinoWebcontent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-### 20. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 20. Birra (`birraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Birra](../../contentStructure/birra/README.md)**
+
+### 21. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-### 21. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 22. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-### 22. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 23. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 23. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 24. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 24. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 25. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 24.1. Titolo (`titoloMediaCollegatiField`) 
+#### 25.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 24.2. URL (`urlMediaCollegatiField`) 
+#### 25.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 25. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 26. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 25.1. Chiave (`chiaveField`) 
+#### 26.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 25.2. Valore (`valoreField`) 
+#### 26.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 26. Area di interesse (`areaDiInteresseField`) 
+### 27. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

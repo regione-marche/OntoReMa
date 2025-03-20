@@ -293,6 +293,22 @@
     {
       "contentFieldValue": {
         "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "birraWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
         "document": {
           "contentType": null,
           "contentUrl": "upload the image in order to get the ID and the ContentUrl",
@@ -467,10 +483,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T09:09:05Z",
+  "datePublished": "2025-03-19T11:33:02Z",
   "description": "[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.",
   "description_i18n": null,
-  "externalReferenceCode": "94b82989-5920-4136-9d59-3a54ad3600d3",
+  "externalReferenceCode": "93c08ca5-9f47-41af-9782-198c37789ff7",
   "friendlyUrlPath": "punto-vendita",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

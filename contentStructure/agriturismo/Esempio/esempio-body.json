@@ -229,6 +229,22 @@
     {
       "contentFieldValue": {
         "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "birraWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
         "document": {
           "contentType": null,
           "contentUrl": "upload the image in order to get the ID and the ContentUrl",
@@ -499,10 +515,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T08:50:33Z",
+  "datePublished": "2025-03-19T11:32:32Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "description_i18n": null,
-  "externalReferenceCode": "e8bb205c-1a94-4db9-88f4-f05f89073c27",
+  "externalReferenceCode": "68377978-10e5-4b63-8185-db29c90914a4",
   "friendlyUrlPath": "agriturismo",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

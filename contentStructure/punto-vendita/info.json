@@ -362,6 +362,20 @@
       "predefinedValue": null
     },
     {
+      "dataType": "structuredContent",
+      "label": "Birra",
+      "localizable": true,
+      "multiple": false,
+      "name": "birraWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
       "dataType": "document",
       "label": "Presidio Slow Food",
       "localizable": true,
@@ -553,7 +567,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:42:52Z",
-  "dateModified": "2025-03-13T09:09:05Z",
+  "dateModified": "2025-03-19T11:33:02Z",
   "description": "[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.",
   "id": 8272896,
   "name": "Punto Vendita",

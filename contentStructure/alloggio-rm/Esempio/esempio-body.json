@@ -693,6 +693,22 @@
       "nestedContentFields": null
     },
     {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "cameraWebContent",
+      "nestedContentFields": null
+    },
+    {
       "contentFieldValue": null,
       "name": "funzionalitaEvolutiveFieldset",
       "nestedContentFields": [
@@ -835,10 +851,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T09:47:40Z",
+  "datePublished": "2025-03-19T11:39:21Z",
   "description": "[OntoReMa] Struttura per il pernottamento.",
   "description_i18n": null,
-  "externalReferenceCode": "e9ca6b0f-1163-4c9c-9a56-7b7f49de6d4c",
+  "externalReferenceCode": "83c7e66e-bf81-459b-b97a-764a29fc3a45",
   "friendlyUrlPath": "alloggio-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

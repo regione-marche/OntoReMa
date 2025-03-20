@@ -305,7 +305,7 @@
       "label": "Vino",
       "localizable": true,
       "multiple": false,
-      "name": "vinoWebcontent",
+      "name": "vinoWebContent",
       "nestedContentStructureFields": [],
       "options": [],
       "repeatable": true,
@@ -313,6 +313,20 @@
       "showLabel": true,
       "inputControl": null,
       "predefinedValue": null
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Birra",
+      "localizable": true,
+      "multiple": false,
+      "name": "birraWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
     },
     {
       "dataType": "document",
@@ -474,7 +488,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -493,7 +507,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -567,7 +581,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:48:19Z",
-  "dateModified": "2025-03-13T09:00:18Z",
+  "dateModified": "2025-03-19T11:34:40Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "id": 8272952,
   "name": "Ristorante",

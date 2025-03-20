@@ -6,7 +6,7 @@ Struttura per il pernottamento.
 - **ID**: 8272153
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:43
-- **Last Modified**: 13-03-2025 09:47
+- **Last Modified**: 19-03-2025 11:39
 
 ## Content Structure Fields
 ### 1. Nome della struttura (`nomeDellaStrutturaField`) 
@@ -242,43 +242,48 @@ Struttura per il pernottamento.
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 58. Funzionalità (evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 58. Camera (`cameraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Camera RM](../../contentStructure/camera-rm/README.md)**
+
+### 59. Funzionalità (evolutive) (`funzionalitaEvolutiveFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 58.1. Id funzionalità (`idFunzionalitaField`) 
+#### 59.1. Id funzionalità (`idFunzionalitaField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 58.2. Attributo (`attributoField`) 
+#### 59.2. Attributo (`attributoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 59. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 60. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 59.1. Titolo (`titoloMediaCollegatiField`) 
+#### 60.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 59.2. URL (`urlMediaCollegatiField`) 
+#### 60.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 60. META (`metaFieldset`) 
+### 61. META (`metaFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 60.1. Chiave (`chiaveField`) 
+#### 61.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 60.2. Valore (`valoreField`) 
+#### 61.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 61. Area di interesse (`areaDiInteresseField`) 
+### 62. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 
