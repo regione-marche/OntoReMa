@@ -654,7 +654,7 @@
   "datePublished": "2025-03-13T09:31:38Z",
   "description": "[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.",
   "description_i18n": null,
-  "externalReferenceCode": "0cb2a218-ded5-4d39-af58-f19d1a807cdb",
+  "externalReferenceCode": "968cb9b4-8a5c-435b-a30a-168c359e03fa",
   "friendlyUrlPath": "interesse-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
@@ -664,7 +664,7 @@
     11044567,
     11036593,
     20006208,
-    5697890,
+    22885686,
     5698590
   ],
   "title": "Interesse RM",

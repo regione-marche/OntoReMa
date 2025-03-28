@@ -448,7 +448,7 @@
   "datePublished": "2025-03-13T09:13:18Z",
   "description": "[OntoReMa] Pacchetto o servizio speciale proposto all\u0027interno di una destinazione.",
   "description_i18n": null,
-  "externalReferenceCode": "cf89ef05-1bee-4286-839d-3c3be4cdcb85",
+  "externalReferenceCode": "27f39296-35a2-434e-93b3-4a5cbda88a7e",
   "friendlyUrlPath": "offerta-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
@@ -456,7 +456,7 @@
   "taxonomyCategoryIds": [
     10207170,
     20006298,
-    5697890,
+    22885686,
     5698590
   ],
   "title": "Offerta RM",

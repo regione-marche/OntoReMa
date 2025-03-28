@@ -9,6 +9,7 @@
 - **Last Modified**: 24-02-2025 17:26
 
 ## Categories
+- **Fuori regione** (`22885686`)
 - **Fermo** (`5697890`)
   - **Altidona** (`5698145`)
   - **Amandola** (`5698148`)

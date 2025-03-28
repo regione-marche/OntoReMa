@@ -330,7 +330,7 @@
   "datePublished": "2025-03-19T13:24:05Z",
   "description": "[OntoReMa] Unit\u00E0 abitativa all\u0027interno di una struttura ricettiva.",
   "description_i18n": null,
-  "externalReferenceCode": "27cce3c5-0e3b-43a4-bc4e-9506c429dfe2",
+  "externalReferenceCode": "07402cc4-4fa9-4a83-b9b7-45809e070542",
   "friendlyUrlPath": "camera-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
@@ -338,7 +338,7 @@
   "taxonomyCategoryIds": [
     10207170,
     20006139,
-    5697890,
+    22885686,
     5698590
   ],
   "title": "Camera RM",
