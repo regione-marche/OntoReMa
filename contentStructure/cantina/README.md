@@ -6,7 +6,7 @@ Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 - **ID**: 8272580
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:54
-- **Last Modified**: 13-03-2025 09:40
+- **Last Modified**: 28-03-2025 14:06
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -67,65 +67,68 @@ Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 - **Possible structures**:
   - **[Servizio Pubblico](../../contentStructure/servizio-pubblico/README.md)**
 
-### 12. Prodotto Tipico (`prodottoTipicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 12. Prodotto Tipico (`prodottoTipicoWebContent`) 
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Prodotto tipico](../../contentStructure/prodotto-tipico/README.md)**
+
+### 13. Presidio Slow Food (`presidioSlowFoodWebContent`) 
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Presidio Slow Food](../../contentStructure/presidio-slow-food/README.md)**
+
+### 14. Ricetta (`ricettaWebContent`) 
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Ricetta](../../contentStructure/ricetta/README.md)**
+
+### 15. Immagine principale (`immaginePrincipaleMedia`) 
 - **Data Type**: document
 
-### 13. Vino (`vinoWebcontent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 16. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-### 14. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
-
-### 15. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
-
-### 16. Immagine principale (`immaginePrincipaleMedia`) 
-- **Data Type**: document
-
-### 17. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
-
-### 18. Operatore (`operatoreWebContent`) 
+### 17. Operatore (`operatoreWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Operatore](../../contentStructure/operatore/README.md)**
 
-### 19. Destinazione (`destinazioneWebContent`) 
+### 18. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 20. Latitudine (`latitudineField`) 
+### 19. Latitudine (`latitudineField`) 
 - **Data Type**: double
 
-### 21. Longitudine (`longitudineField`) 
+### 20. Longitudine (`longitudineField`) 
 - **Data Type**: double
 
-### 22. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 21. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 22.1. Titolo (`titoloMediaCollegatiField`) 
+#### 21.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 22.2. URL (`urlMediaCollegatiField`) 
+#### 21.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 23. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 22. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 23.1. Chiave (`chiaveField`) 
+#### 22.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 23.2. Valore (`valoreField`) 
+#### 22.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 24. Area di interesse (`areaDiInteresseField`) 
+### 23. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

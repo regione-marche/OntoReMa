@@ -235,60 +235,46 @@
       "predefinedValue": null
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Prodotto Tipico",
       "localizable": true,
       "multiple": false,
       "name": "prodottoTipicoWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": true,
+      "repeatable": false,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": null
+      "predefinedValue": ""
     },
     {
-      "dataType": "document",
-      "label": "Vino",
-      "localizable": true,
-      "multiple": false,
-      "name": "vinoWebcontent",
-      "nestedContentStructureFields": [],
-      "options": [],
-      "repeatable": true,
-      "required": false,
-      "showLabel": true,
-      "inputControl": null,
-      "predefinedValue": null
-    },
-    {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Presidio Slow Food",
       "localizable": true,
       "multiple": false,
       "name": "presidioSlowFoodWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": true,
+      "repeatable": false,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": null
+      "predefinedValue": ""
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Ricetta",
       "localizable": true,
       "multiple": false,
       "name": "ricettaWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": true,
+      "repeatable": false,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": null
+      "predefinedValue": ""
     },
     {
       "dataType": "document",
@@ -398,7 +384,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -417,7 +403,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -510,7 +496,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T09:54:51Z",
-  "dateModified": "2025-03-13T09:40:34Z",
+  "dateModified": "2025-03-28T14:06:14Z",
   "description": "[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.",
   "id": 8272580,
   "name": "Cantina",

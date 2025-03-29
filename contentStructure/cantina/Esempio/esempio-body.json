@@ -165,19 +165,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "prodottoTipicoWebContent",
       "nestedContentFields": null
@@ -185,39 +181,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
-      },
-      "name": "vinoWebcontent",
-      "nestedContentFields": null
-    },
-    {
-      "contentFieldValue": {
-        "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
-        "geo": null,
-        "image": null,
-        "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "presidioSlowFoodWebContent",
       "nestedContentFields": null
@@ -225,19 +197,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "ricettaWebContent",
       "nestedContentFields": null
@@ -451,10 +419,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T09:40:34Z",
+  "datePublished": "2025-03-28T14:06:14Z",
   "description": "[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.",
   "description_i18n": null,
-  "externalReferenceCode": "6f7fe4e1-41ff-4491-a479-5ebd625f2e1b",
+  "externalReferenceCode": "beb9e79b-0762-4dd6-bf67-0200af12c49e",
   "friendlyUrlPath": "cantina",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
