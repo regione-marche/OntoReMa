@@ -338,7 +338,7 @@
   "datePublished": "2025-03-13T08:50:24Z",
   "description": "[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.",
   "description_i18n": null,
-  "externalReferenceCode": "75d9f4e3-d54f-4edd-ab32-5884f40e9156",
+  "externalReferenceCode": "b9eaa8b6-5b90-4d3e-9ac6-6b345a642c26",
   "friendlyUrlPath": "vini-e-distillati",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
@@ -347,6 +347,7 @@
     10207170,
     10339850,
     11036593,
+    10346793,
     22885686,
     5698590
   ],

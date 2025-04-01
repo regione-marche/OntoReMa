@@ -350,7 +350,7 @@
   "datePublished": "2025-03-13T09:08:34Z",
   "description": "[OntoReMa] Elemento enogastronomico rappresentativo del territorio.",
   "description_i18n": null,
-  "externalReferenceCode": "2f3a191d-ea7c-4e0e-a749-97d0d70efd85",
+  "externalReferenceCode": "9e0ee5c4-4325-448c-8c0e-b8afbbe24c81",
   "friendlyUrlPath": "prodotto-tipico",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
@@ -359,6 +359,7 @@
     10207170,
     10207267,
     11036593,
+    10346793,
     22885686,
     5698590
   ],
