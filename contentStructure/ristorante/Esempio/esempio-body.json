@@ -237,45 +237,21 @@
           "title": "create or select the structuredContent in order to get the ID"
         }
       },
-      "name": "servizioPubblicoWebContent",
-      "nestedContentFields": null
-    },
-    {
-      "contentFieldValue": {
-        "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
-        "geo": null,
-        "image": null,
-        "link": null,
-        "structuredContentLink": null
-      },
       "name": "prodottoTipicoWebContent",
       "nestedContentFields": null
     },
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "vinoWebContent",
       "nestedContentFields": null
@@ -299,19 +275,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "presidioSlowFoodWebContent",
       "nestedContentFields": null
@@ -319,19 +291,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "ricettaWebContent",
       "nestedContentFields": null
@@ -503,10 +471,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-19T11:34:40Z",
+  "datePublished": "2025-04-03T11:09:23Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "description_i18n": null,
-  "externalReferenceCode": "d7122bf0-5be1-42fd-af37-78ae8b4a581c",
+  "externalReferenceCode": "57c53194-13d9-413c-ab1f-014e564e48a4",
   "friendlyUrlPath": "ristorante",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

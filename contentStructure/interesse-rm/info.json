@@ -89,6 +89,34 @@
       "predefinedValue": null
     },
     {
+      "dataType": "structuredContent",
+      "label": "Evento",
+      "localizable": true,
+      "multiple": false,
+      "name": "eventoWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
+      "dataType": "structuredContent",
+      "label": "Itinerario",
+      "localizable": true,
+      "multiple": false,
+      "name": "itinerarioWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
       "dataType": "double",
       "label": "Latitudine",
       "localizable": true,
@@ -140,7 +168,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -159,7 +187,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -847,8 +875,8 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:06:43Z",
-  "dateModified": "2025-03-13T09:31:38Z",
-  "description": "[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.",
+  "dateModified": "2025-04-03T11:03:44Z",
+  "description": "[OntoReMa] Approfondimento su un contenuto gi\u00E0 presente, come una o pi\u00F9 destinazioni (es: le 10 migliori destinazioni del comune di XXXX)",
   "id": 8272700,
   "name": "Interesse RM",
   "siteId": 52189

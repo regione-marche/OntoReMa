@@ -6,7 +6,7 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **ID**: 8272952
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:48
-- **Last Modified**: 19-03-2025 11:34
+- **Last Modified**: 03-04-2025 11:09
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -32,11 +32,11 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **Data Type**: string
 - **Input Control**: text
 
-### 7. Email (`emailField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 7. Email (`emailField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 8. Sito Web (`sitoWebField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 8. Sito Web (`sitoWebField`) 
 - **Data Type**: string
 - **Input Control**: text
 
@@ -72,42 +72,41 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **Possible structures**:
   - **[Servizio Privato](../../contentStructure/servizio-privato/README.md)**
 
-### 17. Servizio Pubblico (`servizioPubblicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 17. Prodotto Tipico (`prodottoTipicoWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
-  - **[Servizio Pubblico](../../contentStructure/servizio-pubblico/README.md)**
+  - **[Prodotto tipico](../../contentStructure/prodotto-tipico/README.md)**
 
-### 18. Prodotto Tipico (`prodottoTipicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+### 18. Vino (`vinoWebContent`) 
+- **Data Type**: structuredContent
 
-### 19. Vino (`vinoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
-
-### 20. Birra (`birraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 19. Birra (`birraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Birra](../../contentStructure/birra/README.md)**
 
-### 21. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+### 20. Presidio SlowFood (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
 
-### 22. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+### 21. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Ricetta](../../contentStructure/ricetta/README.md)**
 
-### 23. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 22. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 24. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 23. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 25. Area di interesse (`areaDiInteresseField`) 
+### 24. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 26. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 25. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 26.1. Nome social (`nomeSocialField`) 
+#### 25.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
 ##### Options
@@ -115,31 +114,31 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - X: `opzione90797153`
 - Instagram: `opzione98037736`
 
-#### 26.2. URL (`urlSocialField`) 
+#### 25.2. URL (`urlSocialField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 27. Media Collegati (`mediaCollegatiFieldset`) 
+### 26. Media Collegati (`mediaCollegatiFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 27.1. Titolo (`titoloMediaCollegatiField`) 
+#### 26.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 27.2. URL (`urlMediaCollegatiField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 26.2. URL (`urlMediaCollegatiField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 28. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 27. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 28.1. Chiave (`chiaveField`) 
+#### 27.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 28.2. Valore (`valoreField`) 
+#### 27.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

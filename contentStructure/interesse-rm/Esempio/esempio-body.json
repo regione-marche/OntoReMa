@@ -66,6 +66,38 @@
     },
     {
       "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "eventoWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "itinerarioWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
         "data": "123.45",
         "document": null,
         "geo": null,
@@ -651,10 +683,10 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T09:31:38Z",
-  "description": "[OntoReMa] Attrazione o punto di interesse in una destinazione turistica.",
+  "datePublished": "2025-04-03T11:03:44Z",
+  "description": "[OntoReMa] Approfondimento su un contenuto gi\u00E0 presente, come una o pi\u00F9 destinazioni (es: le 10 migliori destinazioni del comune di XXXX)",
   "description_i18n": null,
-  "externalReferenceCode": "aa390ea8-0722-44c8-bde9-21d28c8ef3ac",
+  "externalReferenceCode": "bbe7b980-1fbd-4b28-9bb6-bd69aa713812",
   "friendlyUrlPath": "interesse-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

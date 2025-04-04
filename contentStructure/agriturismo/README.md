@@ -6,7 +6,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 19-03-2025 11:32
+- **Last Modified**: 03-04-2025 11:05
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -32,11 +32,11 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **Data Type**: string
 - **Input Control**: text
 
-### 7. Email (`emailField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 7. Email (`emailField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 8. Sito web (`sitoWebField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 8. Sito web (`sitoWebField`) 
 - **Data Type**: string
 - **Input Control**: text
 

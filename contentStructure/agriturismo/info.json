@@ -126,7 +126,7 @@
         }
       ],
       "repeatable": false,
-      "required": true,
+      "required": false,
       "showLabel": true,
       "inputControl": "text",
       "predefinedValue": null
@@ -145,7 +145,7 @@
         }
       ],
       "repeatable": false,
-      "required": true,
+      "required": false,
       "showLabel": true,
       "inputControl": "text",
       "predefinedValue": null
@@ -312,7 +312,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -600,7 +600,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T08:31:16Z",
-  "dateModified": "2025-03-19T11:32:32Z",
+  "dateModified": "2025-04-03T11:05:26Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "id": 8272118,
   "name": "Agriturismo",

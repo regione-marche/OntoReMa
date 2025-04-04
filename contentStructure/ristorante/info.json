@@ -126,7 +126,7 @@
         }
       ],
       "repeatable": false,
-      "required": true,
+      "required": false,
       "showLabel": true,
       "inputControl": "text",
       "predefinedValue": null
@@ -145,7 +145,7 @@
         }
       ],
       "repeatable": false,
-      "required": true,
+      "required": false,
       "showLabel": true,
       "inputControl": "text",
       "predefinedValue": null
@@ -274,45 +274,31 @@
     },
     {
       "dataType": "structuredContent",
-      "label": "Servizio Pubblico",
-      "localizable": true,
-      "multiple": false,
-      "name": "servizioPubblicoWebContent",
-      "nestedContentStructureFields": [],
-      "options": [],
-      "repeatable": true,
-      "required": false,
-      "showLabel": true,
-      "inputControl": null,
-      "predefinedValue": null
-    },
-    {
-      "dataType": "document",
       "label": "Prodotto Tipico",
       "localizable": true,
       "multiple": false,
       "name": "prodottoTipicoWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": true,
+      "repeatable": false,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": null
+      "predefinedValue": ""
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Vino",
       "localizable": true,
       "multiple": false,
       "name": "vinoWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": true,
+      "repeatable": false,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": null
+      "predefinedValue": ""
     },
     {
       "dataType": "structuredContent",
@@ -326,11 +312,11 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
-      "dataType": "document",
-      "label": "Presidio Slow Food",
+      "dataType": "structuredContent",
+      "label": "Presidio SlowFood",
       "localizable": true,
       "multiple": false,
       "name": "presidioSlowFoodWebContent",
@@ -343,7 +329,7 @@
       "predefinedValue": null
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Ricetta",
       "localizable": true,
       "multiple": false,
@@ -581,7 +567,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:48:19Z",
-  "dateModified": "2025-03-19T11:34:40Z",
+  "dateModified": "2025-04-03T11:09:23Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "id": 8272952,
   "name": "Ristorante",
