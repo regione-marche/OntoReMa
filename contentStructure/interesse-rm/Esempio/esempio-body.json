@@ -650,19 +650,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -686,7 +686,7 @@
   "datePublished": "2025-04-03T11:03:44Z",
   "description": "[OntoReMa] Approfondimento su un contenuto gi\u00E0 presente, come una o pi\u00F9 destinazioni (es: le 10 migliori destinazioni del comune di XXXX)",
   "description_i18n": null,
-  "externalReferenceCode": "4b88c2dc-3c03-47fa-bf12-03dd58637b18",
+  "externalReferenceCode": "acd5097c-56e4-4070-b3c0-4ee50d9989e4",
   "friendlyUrlPath": "interesse-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

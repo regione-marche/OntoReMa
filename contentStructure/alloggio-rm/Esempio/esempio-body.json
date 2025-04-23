@@ -818,19 +818,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -854,7 +854,7 @@
   "datePublished": "2025-03-19T11:39:21Z",
   "description": "[OntoReMa] Struttura per il pernottamento.",
   "description_i18n": null,
-  "externalReferenceCode": "4bba3dd8-e260-47b3-a8cc-6c0336dc7178",
+  "externalReferenceCode": "febfec7b-8359-4fbd-9576-f32a17af2ce1",
   "friendlyUrlPath": "alloggio-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

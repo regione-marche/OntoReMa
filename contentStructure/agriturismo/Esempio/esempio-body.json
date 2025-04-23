@@ -482,19 +482,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -518,7 +518,7 @@
   "datePublished": "2025-04-03T11:05:26Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "description_i18n": null,
-  "externalReferenceCode": "c8e1a223-bf4f-4bce-b05d-247002608d3e",
+  "externalReferenceCode": "c86292a7-a058-4b10-81ef-f23bb6010d8c",
   "friendlyUrlPath": "agriturismo",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

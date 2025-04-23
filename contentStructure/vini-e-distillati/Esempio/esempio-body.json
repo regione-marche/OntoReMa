@@ -302,19 +302,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -338,7 +338,7 @@
   "datePublished": "2025-03-13T08:50:24Z",
   "description": "[OntoReMa] Prodotti alcolici legati alla tradizione enologica di una regione.",
   "description_i18n": null,
-  "externalReferenceCode": "fbe19ae8-f1d7-4976-8f9e-d6ccbcf8e6a4",
+  "externalReferenceCode": "d5ca6f17-2e3e-4b38-adf9-753356c33b89",
   "friendlyUrlPath": "vini-e-distillati",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

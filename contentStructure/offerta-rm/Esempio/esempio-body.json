@@ -412,19 +412,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -448,7 +448,7 @@
   "datePublished": "2025-03-13T09:13:18Z",
   "description": "[OntoReMa] Pacchetto o servizio speciale proposto all\u0027interno di una destinazione.",
   "description_i18n": null,
-  "externalReferenceCode": "f485c4a6-f23f-4c09-a970-18457f878ea9",
+  "externalReferenceCode": "4836d228-51d9-4907-b0ce-79985650ee10",
   "friendlyUrlPath": "offerta-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

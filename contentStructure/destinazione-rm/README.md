@@ -344,9 +344,9 @@ Località di interesse turistico che offre una serie di servizi ed esperienze pe
 - **[Riferimento geografico](../../categories/riferimento-geografico.md)** (`5697889`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Licenza](../../categories/licenza.md)** (`5698589`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 ## Custom fields
-- **[ipa_code contenuto](../../customFields/ipa-code-contenuto.md)**
-- **[external ref](../../customFields/external-ref.md)**
+- **[ipa_code_contenuto](../../customFields/ipa-code-contenuto.md)**
 - **[credits](../../customFields/credits.md)**
+- **[external_ref](../../customFields/external-ref.md)**
 - **[srcId](../../customFields/srcid.md)**
 - **[channel](../../customFields/channel.md)**
 - **[parentId](../../customFields/parentid.md)**

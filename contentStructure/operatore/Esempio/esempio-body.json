@@ -438,19 +438,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -474,7 +474,7 @@
   "datePublished": "2025-03-13T09:15:59Z",
   "description": "[OntoReMa] Professionista o impresa che offre servizi turistici.",
   "description_i18n": null,
-  "externalReferenceCode": "77da3f3f-3271-444c-8a2d-3d51ea5813cd",
+  "externalReferenceCode": "751f6061-4890-4707-85a2-be716bb590b8",
   "friendlyUrlPath": "operatore",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

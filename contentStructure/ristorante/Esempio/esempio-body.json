@@ -438,19 +438,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -474,7 +474,7 @@
   "datePublished": "2025-04-03T11:09:23Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "description_i18n": null,
-  "externalReferenceCode": "936b9135-d278-4bcf-9762-22555d349e50",
+  "externalReferenceCode": "e34a2f92-2c3d-4092-8890-9d743a521edf",
   "friendlyUrlPath": "ristorante",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

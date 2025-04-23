@@ -286,19 +286,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -322,7 +322,7 @@
   "datePublished": "2025-03-13T09:35:03Z",
   "description": "[OntoReMa] Professionista o materiale informativo per supportare i visitatori nell\u0027esplorazione delle destinazioni.",
   "description_i18n": null,
-  "externalReferenceCode": "7c28b6c5-5f59-4a69-b27e-6943e02c1025",
+  "externalReferenceCode": "df863f41-86ff-4218-881f-434e4ca92a61",
   "friendlyUrlPath": "guida",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

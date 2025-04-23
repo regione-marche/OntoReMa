@@ -486,19 +486,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -522,7 +522,7 @@
   "datePublished": "2025-03-13T09:24:19Z",
   "description": "[OntoReMa] Percorso turistico che collega varie tappe significative all\u0027interno di una destinazione.",
   "description_i18n": null,
-  "externalReferenceCode": "71056653-f836-4879-95d2-3b2bd28bc12f",
+  "externalReferenceCode": "af496f3a-4095-427c-9829-5cc7e65115b0",
   "friendlyUrlPath": "itinerario-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

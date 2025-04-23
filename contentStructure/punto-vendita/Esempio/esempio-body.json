@@ -450,19 +450,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -486,7 +486,7 @@
   "datePublished": "2025-03-19T11:33:02Z",
   "description": "[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.",
   "description_i18n": null,
-  "externalReferenceCode": "fe891c57-7f88-49e3-b8d1-0aa5eb471240",
+  "externalReferenceCode": "e6c79d83-0e8b-4907-b0c7-8e6d9a51d4f4",
   "friendlyUrlPath": "punto-vendita",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

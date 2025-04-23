@@ -422,19 +422,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -458,7 +458,7 @@
   "datePublished": "2025-03-13T08:58:35Z",
   "description": "[OntoReMa] Servizio offerto da privati per supportare i turisti nelle loro esperienze.",
   "description_i18n": null,
-  "externalReferenceCode": "7fed50a6-86b0-43e0-b24a-fd48e44865c4",
+  "externalReferenceCode": "7a0a2cdf-1a5a-48f5-af9a-0e943ed595be",
   "friendlyUrlPath": "servizio-privato",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

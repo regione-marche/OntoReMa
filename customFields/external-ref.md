@@ -1,4 +1,4 @@
-# external ref
+# external_ref
 
 ## General Information
 - **Type**: Text

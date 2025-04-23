@@ -494,19 +494,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -530,7 +530,7 @@
   "datePublished": "2025-03-13T08:53:18Z",
   "description": "[OntoReMa] Punto o sotto-itinerario significativo all\u0027interno di un itinerario turistico.",
   "description_i18n": null,
-  "externalReferenceCode": "1b1396b6-7ace-4d37-bb4e-a3f59c7faad3",
+  "externalReferenceCode": "de4bf927-73c9-417c-b943-92d75fb64417",
   "friendlyUrlPath": "tappa-itinerario-rm",
   "friendlyUrlPath_i18n": null,
   "keywords": [],

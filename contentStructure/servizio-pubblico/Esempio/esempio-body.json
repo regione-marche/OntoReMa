@@ -430,19 +430,19 @@
       "customValue": {
         "data": ""
       },
-      "name": "ipa_code contenuto"
-    },
-    {
-      "customValue": {
-        "data": ""
-      },
-      "name": "external ref"
+      "name": "ipa_code_contenuto"
     },
     {
       "customValue": {
         "data": ""
       },
       "name": "credits"
+    },
+    {
+      "customValue": {
+        "data": ""
+      },
+      "name": "external_ref"
     },
     {
       "customValue": {
@@ -466,7 +466,7 @@
   "datePublished": "2025-03-13T08:55:08Z",
   "description": "[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.",
   "description_i18n": null,
-  "externalReferenceCode": "88f67b89-2a53-4f6e-b78d-20a78ede928f",
+  "externalReferenceCode": "ae497d34-ac71-41a2-94fa-0be5aa9d02bc",
   "friendlyUrlPath": "servizio-pubblico",
   "friendlyUrlPath_i18n": null,
   "keywords": [],
