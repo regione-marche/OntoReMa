@@ -21,7 +21,7 @@ Questo repository contiene documentazione, ontologie e materiali utili relativi 
       - **/README.md**: Guida alla personalizzazione di una chiamata di inserimento del dato.
 
 
-## Authors
+## 👥 Authors
 
 - [@dariscappelletti](https://github.com/DarisCappelletti)
 - [@saveriodelpriori](https://github.com/xavbeta)
