@@ -16,7 +16,7 @@ Questa chiamata andrà ad inserire il nostro Structured content all'interno di u
 
 - **contentStructureId**: Id della struttura che si sta inserendo
 
-- **externalReferenceCode**: un codice univoco, si suggerisce l'utilizzo di una sintassi univoca in modo da evitare dei "conflict" oppure di usare guida
+- **externalReferenceCode**: un codice univoco, si suggerisce l'utilizzo di una sintassi univoca in modo da evitare dei "conflict"
 
 - **title**: il titolo dello Structured content
 
