@@ -1,5 +1,9 @@
 # OntoReMa
 
+![.NET](https://img.shields.io/badge/.NET-8.0-blue)
+![Auto-Generated](https://img.shields.io/badge/docs-auto--generated-brightgreen)
+![Schedule](https://img.shields.io/badge/Update%20Schedule-Daily-blue)
+
 **OntoReMa** è una raccolta di documentazione della Regione Marche, progettata per organizzare e centralizzare informazioni in modo strutturato e facilmente accessibile.
 
 ## 📌 Descrizione
@@ -17,3 +21,8 @@ Questo repository contiene documentazione, ontologie e materiali utili relativi 
       - **/README.md**: Guida alla personalizzazione di una chiamata di inserimento del dato.
 
 
+## Authors
+
+- [@dariscappelletti](https://github.com/DarisCappelletti)
+- [@saveriodelpriori](https://github.com/xavbeta)
+- [@paolotesei](https://github.com/PaoloTesei)
