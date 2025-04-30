@@ -1,28 +1,51 @@
-# OntoReMa
+# 🧠 OntoReMa
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Auto-Generated](https://img.shields.io/badge/docs-auto--generated-brightgreen)
 ![Schedule](https://img.shields.io/badge/Update%20Schedule-Daily-blue)
 
-**OntoReMa** è una raccolta di documentazione della Regione Marche, progettata per organizzare e centralizzare informazioni in modo strutturato e facilmente accessibile.
+**OntoReMa** è un'iniziativa della Regione Marche per organizzare e centralizzare la documentazione tecnica, ontologie e contenuti informativi in maniera strutturata e facilmente accessibile.
+
+---
 
 ## 📌 Descrizione
-Questo repository contiene documentazione, ontologie e materiali utili relativi alla Regione Marche. L'obiettivo è fornire un punto di riferimento per chiunque abbia bisogno di accedere a informazioni organizzate secondo un modello semantico.
 
-## 📂 Struttura del Repository
-- **/categories**: Documentazione ufficiale delle categorie.
-- **/customFields**: Documentazione dei campi personalizzati del contenuto web.
-- **/contentStructure**: Ontologie e schemi delle strutture.
-  - **/{{cartella della struttura}}**: cartella della struttura.
-    - **/README.md**: elenco dei dati della struttura.
-    - **/info.json**: json di chiamata GET della struttura tramite Headless API.
-    - **/Esempio**: cartella che contiene una guida ed un esempio di body per una chiamata POST.
-      - **/esempio-body.json**: esempio di body per effettuare un inserimento tramite Headless API.
-      - **/README.md**: Guida alla personalizzazione di una chiamata di inserimento del dato.
+Questo repository raccoglie:
 
+- Documentazione tecnica
+- Ontologie semantiche
+- Schemi delle strutture di contenuto
+- Esempi pratici di utilizzo delle Headless API
 
-## 👥 Authors
+L’obiettivo è creare un punto di riferimento centralizzato per sviluppatori, redattori e stakeholder istituzionali interessati a interoperabilità e gestione semantica dei contenuti.
+
+---
+
+## 📁 Struttura del Repository
+
+```
+/
+├── categories/          → Documentazione ufficiale delle categorie tassonomiche
+├── customFields/        → Campi personalizzati dei contenuti web
+└── contentStructure/    → Schemi, ontologie e dettagli delle strutture
+    └── {nome-struttura}/
+        ├── README.md         → Elenco dei campi e spiegazione struttura
+        ├── info.json         → JSON di esempio per chiamata GET (Headless API)
+        └── Esempio/
+            ├── esempio-body.json → Esempio di body per POST
+            └── README.md         → Guida alla personalizzazione della chiamata
+```
+
+---
+
+## 👨‍💻 Autori
 
 - [@dariscappelletti](https://github.com/DarisCappelletti)
 - [@saveriodelpriori](https://github.com/xavbeta)
 - [@paolotesei](https://github.com/PaoloTesei)
+
+---
+
+## 📣 Contribuire
+
+Vuoi contribuire o segnalare miglioramenti? Sentiti libero di aprire una [Issue](https://github.com/regione-marche/OntoReMa/issues)!
