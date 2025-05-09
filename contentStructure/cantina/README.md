@@ -6,7 +6,7 @@ Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.
 - **ID**: 8272580
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:54
-- **Last Modified**: 28-03-2025 14:06
+- **Last Modified**: 08-05-2025 15:39
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

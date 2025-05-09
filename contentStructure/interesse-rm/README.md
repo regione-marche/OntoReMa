@@ -6,7 +6,7 @@ Approfondimento su un contenuto già presente, come una o più destinazioni (es:
 - **ID**: 8272700
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:06
-- **Last Modified**: 03-04-2025 11:03
+- **Last Modified**: 08-05-2025 15:39
 
 ## Content Structure Fields
 ### 1. Titolo dell'interesse (`titoloDellInteresseField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

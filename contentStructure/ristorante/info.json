@@ -280,11 +280,11 @@
       "name": "prodottoTipicoWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": false,
+      "repeatable": true,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -294,11 +294,11 @@
       "name": "vinoWebContent",
       "nestedContentStructureFields": [],
       "options": [],
-      "repeatable": false,
+      "repeatable": true,
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -560,14 +560,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1746745201687",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T10:48:19Z",
-  "dateModified": "2025-04-03T11:09:23Z",
+  "dateModified": "2025-05-08T15:39:17Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "id": 8272952,
   "name": "Ristorante",

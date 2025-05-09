@@ -246,7 +246,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -260,7 +260,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "structuredContent",
@@ -274,7 +274,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "document",
@@ -489,14 +489,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1746745201687",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T09:54:51Z",
-  "dateModified": "2025-03-28T14:06:14Z",
+  "dateModified": "2025-05-08T15:39:33Z",
   "description": "[OntoReMa] Struttura dedicata alla produzione, degustazione e vendita di vini e distillati.",
   "id": 8272580,
   "name": "Cantina",

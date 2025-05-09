@@ -6,7 +6,7 @@ Unità abitativa all'interno di una struttura ricettiva.
 - **ID**: 8272552
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:52
-- **Last Modified**: 19-03-2025 13:24
+- **Last Modified**: 08-05-2025 15:39
 
 ## Content Structure Fields
 ### 1. Tipologia di camera (`tipologiaDiCameraField`) 

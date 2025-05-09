@@ -6,7 +6,7 @@ Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 - **ID**: 8272834
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:31
-- **Last Modified**: 13-03-2025 09:11
+- **Last Modified**: 08-05-2025 12:48
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -16,87 +16,92 @@ Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 ### 2. Presentazione (`presentazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: string
 
-### 3. Contatto - Nominativo (`contattoNominativoField`) 
+### 3. Operatore (`operatoreWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Operatore](../../contentStructure/operatore/README.md)**
+
+### 4. Contatto - Nominativo (`contattoNominativoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 4. Telefono (`telefonoField`) 
+### 5. Telefono (`telefonoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 5. Cellulare (`cellulareField`) 
+### 6. Cellulare (`cellulareField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 6. Email (`emailField`) 
+### 7. Email (`emailField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 7. Sito Web (`sitoWebField`) 
+### 8. Sito Web (`sitoWebField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 8. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 9. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 8.1. Nome social (`nomeSocialField`) 
+#### 9.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
 ##### Options
 - Instagram: `opzione42267009`
 - Facebook: `opzione83270620`
 
-#### 8.2. URL (`urlSocialField`) 
+#### 9.2. URL (`urlSocialField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 9. Prezzo (`prezzoField`) 
+### 10. Prezzo (`prezzoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 10. Immagine principale (`immaginePrincipaleMedia`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 11. Immagine principale (`immaginePrincipaleMedia`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: document
 
-### 11. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 12. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: document
 
-### 12. Destinazione (`destinazioneWebContent`) 
+### 13. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 13. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 14. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 14. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 15. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double
 
-### 15. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 16. Media Collegati (`mediaCollegatiFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 15.1. Titolo (`titoloMediaCollegatiField`) 
+#### 16.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 15.2. URL (`urlMediaCollegatiField`) 
+#### 16.2. URL (`urlMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 16. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 17. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 16.1. Chiave (`chiaveField`) 
+#### 17.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 16.2. Valore (`valoreField`) 
+#### 17.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 17. Area di interesse (`areaDiInteresseField`) 
+### 18. Area di interesse (`areaDiInteresseField`) 
 - **Data Type**: string
 - **Input Control**: text
 

@@ -37,6 +37,20 @@
       "predefinedValue": null
     },
     {
+      "dataType": "structuredContent",
+      "label": "Operatore",
+      "localizable": true,
+      "multiple": false,
+      "name": "operatoreWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": ""
+    },
+    {
       "dataType": "string",
       "label": "Contatto - Nominativo",
       "localizable": true,
@@ -301,7 +315,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -320,7 +334,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -413,7 +427,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:31:21Z",
-  "dateModified": "2025-03-13T09:11:27Z",
+  "dateModified": "2025-05-08T12:48:30Z",
   "description": "[OntoReMa] Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.",
   "id": 8272834,
   "name": "Presidio Slow Food",

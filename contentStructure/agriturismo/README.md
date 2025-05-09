@@ -6,7 +6,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 03-04-2025 11:05
+- **Last Modified**: 08-05-2025 15:39
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

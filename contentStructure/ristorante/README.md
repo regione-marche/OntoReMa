@@ -6,7 +6,7 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **ID**: 8272952
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:48
-- **Last Modified**: 03-04-2025 11:09
+- **Last Modified**: 08-05-2025 15:39
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -72,12 +72,12 @@ Struttura ristorativa che offre piatti e bevande al pubblico.
 - **Possible structures**:
   - **[Servizio Privato](../../contentStructure/servizio-privato/README.md)**
 
-### 17. Prodotto Tipico (`prodottoTipicoWebContent`) 
+### 17. Prodotto Tipico (`prodottoTipicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Prodotto tipico](../../contentStructure/prodotto-tipico/README.md)**
 
-### 18. Vino (`vinoWebContent`) 
+### 18. Vino (`vinoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
 
 ### 19. Birra (`birraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)

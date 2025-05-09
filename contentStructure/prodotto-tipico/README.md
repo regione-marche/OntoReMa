@@ -6,7 +6,7 @@ Elemento enogastronomico rappresentativo del territorio.
 - **ID**: 8272864
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:33
-- **Last Modified**: 13-03-2025 09:08
+- **Last Modified**: 08-05-2025 12:50
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -30,30 +30,35 @@ Elemento enogastronomico rappresentativo del territorio.
 - **Data Type**: string
 - **Input Control**: text
 
-### 7. Contatto - Nominativo (`contattoNominativoField`) 
+### 7. Operatore (`operatoreWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Operatore](../../contentStructure/operatore/README.md)**
+
+### 8. Contatto - Nominativo (`contattoNominativoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 8. Telefono (`telefonoField`) 
+### 9. Telefono (`telefonoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 9. Cellulare (`cellulareField`) 
+### 10. Cellulare (`cellulareField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 10. Email (`emailField`) 
+### 11. Email (`emailField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 11. Sito web (`sitoWebField`) 
+### 12. Sito web (`sitoWebField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 12. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 13. SOCIAL (`socialFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 12.1. Nome social (`nomeSocialField`) 
+#### 13.1. Nome social (`nomeSocialField`) 
 - **Data Type**: string
 - **Input Control**: select
 ##### Options
@@ -61,54 +66,54 @@ Elemento enogastronomico rappresentativo del territorio.
 - X: `opzione08405189`
 - Instagram: `opzione09229741`
 
-#### 12.2. URL (`urlSocialField`) 
+#### 13.2. URL (`urlSocialField`) 
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 13. Fascia di Prezzo (`fasciaDiPrezzoField`) 
+### 14. Fascia di Prezzo (`fasciaDiPrezzoField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 14. Immagine principale (`immaginePrincipaleMedia`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+### 15. Immagine principale (`immaginePrincipaleMedia`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: document
 
-### 15. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 16. Altra immagine (`altraImmagineMedia`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: image
 
-### 16. Materie prime (`materiePrimeField`) 
+### 17. Materie prime (`materiePrimeField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 17. Luogo di produzione (`luogoDiProduzioneField`) 
+### 18. Luogo di produzione (`luogoDiProduzioneField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-### 18. Destinazione (`destinazioneWebContent`) 
+### 19. Destinazione (`destinazioneWebContent`) 
 - **Data Type**: structuredContent
 - **Possible structures**:
   - **[Destinazione RM](../../contentStructure/destinazione-rm/README.md)**
 
-### 19. Media Collegati (`mediaCollegatiFieldset`) 
+### 20. Media Collegati (`mediaCollegatiFieldset`) 
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 19.1. Titolo (`titoloMediaCollegatiField`) 
+#### 20.1. Titolo (`titoloMediaCollegatiField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 19.2. URL (`urlMediaCollegatiField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+#### 20.2. URL (`urlMediaCollegatiField`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: string
 - **Input Control**: text
 
 
-### 20. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
+### 21. META (`metaFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
-#### 20.1. Chiave (`chiaveField`) 
+#### 21.1. Chiave (`chiaveField`) 
 - **Data Type**: string
 - **Input Control**: text
 
-#### 20.2. Valore (`valoreField`) 
+#### 21.2. Valore (`valoreField`) 
 - **Data Type**: string
 - **Input Control**: text
 

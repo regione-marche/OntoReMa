@@ -74,6 +74,22 @@
     },
     {
       "contentFieldValue": {
+        "data": null,
+        "document": null,
+        "geo": null,
+        "image": null,
+        "link": null,
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
+      },
+      "name": "operatoreWebContent",
+      "nestedContentFields": null
+    },
+    {
+      "contentFieldValue": {
         "data": "esempio testo",
         "document": null,
         "geo": null,
@@ -347,7 +363,7 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-03-13T09:08:34Z",
+  "datePublished": "2025-05-08T12:50:08Z",
   "description": "[OntoReMa] Elemento enogastronomico rappresentativo del territorio.",
   "description_i18n": null,
   "externalReferenceCode": null,

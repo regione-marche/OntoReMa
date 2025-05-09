@@ -32,5 +32,10 @@
 - **Laboratori con Vendita Diretta** (`20006464`)
 - **Negozio di Spezie ed Erbe Aromatiche** (`20006467`)
 - **Pasticceria o Dolci Tipici** (`20006470`)
+- **Negozio di Calzature** (`23198197`)
+- **Ottico** (`23198200`)
+- **Agenzia di Viaggi** (`23198303`)
+- **Gioielleria** (`23198306`)
+- **Erboristeria** (`23198309`)
 ## Asset Types
 - **[Punto Vendita](../contentStructure/punto-vendita/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)

@@ -593,14 +593,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1746745201687",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T08:31:16Z",
-  "dateModified": "2025-04-03T11:05:26Z",
+  "dateModified": "2025-05-08T15:39:22Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "id": 8272118,
   "name": "Agriturismo",

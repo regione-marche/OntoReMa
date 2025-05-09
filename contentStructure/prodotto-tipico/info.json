@@ -103,6 +103,20 @@
       "predefinedValue": null
     },
     {
+      "dataType": "structuredContent",
+      "label": "Operatore",
+      "localizable": true,
+      "multiple": false,
+      "name": "operatoreWebContent",
+      "nestedContentStructureFields": [],
+      "options": [],
+      "repeatable": true,
+      "required": false,
+      "showLabel": true,
+      "inputControl": null,
+      "predefinedValue": null
+    },
+    {
       "dataType": "string",
       "label": "Contatto - Nominativo",
       "localizable": true,
@@ -381,7 +395,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -400,7 +414,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -474,7 +488,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:33:44Z",
-  "dateModified": "2025-03-13T09:08:34Z",
+  "dateModified": "2025-05-08T12:50:08Z",
   "description": "[OntoReMa] Elemento enogastronomico rappresentativo del territorio.",
   "id": 8272864,
   "name": "Prodotto tipico",
