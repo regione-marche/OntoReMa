@@ -6,7 +6,7 @@ Località di interesse turistico che offre una serie di servizi ed esperienze pe
 - **ID**: 8272607
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:57
-- **Last Modified**: 13-03-2025 09:39
+- **Last Modified**: 09-05-2025 07:08
 
 ## Content Structure Fields
 ### 1. Nome destinazione (`nomeDestinazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

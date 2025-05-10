@@ -6,7 +6,7 @@ Occasione particolare organizzata in una determinata destinazione per promuovere
 - **ID**: 8272644
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:00
-- **Last Modified**: 13-03-2025 09:37
+- **Last Modified**: 09-05-2025 14:22
 
 ## Content Structure Fields
 ### 1. Titolo (`titoloField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

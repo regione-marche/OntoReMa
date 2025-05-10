@@ -6,7 +6,7 @@ Prodotto tipico spesso legato alla gastronomia locale e tradizionale.
 - **ID**: 8272522
 - **Site ID**: 52189
 - **Created**: 17-04-2024 09:50
-- **Last Modified**: 13-03-2025 09:45
+- **Last Modified**: 09-05-2025 07:08
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
