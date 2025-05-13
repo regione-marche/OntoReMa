@@ -507,7 +507,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -526,7 +526,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -593,14 +593,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1747090866098",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T10:50:52Z",
-  "dateModified": "2025-03-13T08:58:35Z",
+  "dateModified": "2025-05-12T12:17:32Z",
   "description": "[OntoReMa] Servizio offerto da privati per supportare i turisti nelle loro esperienze.",
   "id": 8272981,
   "name": "Servizio Privato",

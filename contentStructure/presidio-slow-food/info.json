@@ -48,7 +48,7 @@
       "required": false,
       "showLabel": true,
       "inputControl": null,
-      "predefinedValue": ""
+      "predefinedValue": null
     },
     {
       "dataType": "string",
@@ -420,14 +420,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1747090866098",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T10:31:21Z",
-  "dateModified": "2025-05-08T12:48:30Z",
+  "dateModified": "2025-05-12T12:17:23Z",
   "description": "[OntoReMa] Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.",
   "id": 8272834,
   "name": "Presidio Slow Food",

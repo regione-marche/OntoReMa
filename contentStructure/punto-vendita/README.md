@@ -6,7 +6,7 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
 - **ID**: 8272896
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:42
-- **Last Modified**: 09-05-2025 07:08
+- **Last Modified**: 12-05-2025 16:03
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -96,7 +96,7 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
   - **[Prodotto tipico](../../contentStructure/prodotto-tipico/README.md)**
 
 ### 19. Vino (`vinoWebcontent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
 
 ### 20. Birra (`birraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
@@ -104,10 +104,14 @@ Luogo in cui vengono commercializzati prodotti tipici o artigianali.
   - **[Birra](../../contentStructure/birra/README.md)**
 
 ### 21. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Presidio Slow Food](../../contentStructure/presidio-slow-food/README.md)**
 
 ### 22. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Ricetta](../../contentStructure/ricetta/README.md)**
 
 ### 23. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double

@@ -6,7 +6,7 @@ Prodotto riconosciuto e tutelato per il suo valore culturale e gastronomico.
 - **ID**: 8272834
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:31
-- **Last Modified**: 08-05-2025 12:48
+- **Last Modified**: 12-05-2025 12:17
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

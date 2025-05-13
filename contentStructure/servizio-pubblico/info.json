@@ -535,7 +535,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -554,7 +554,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -621,14 +621,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1747090866098",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T10:52:26Z",
-  "dateModified": "2025-03-13T08:55:08Z",
+  "dateModified": "2025-05-12T12:17:37Z",
   "description": "[OntoReMa] Servizio offerto da enti pubblici per il supporto e la gestione del turismo.",
   "id": 8273124,
   "name": "Servizio Pubblico",

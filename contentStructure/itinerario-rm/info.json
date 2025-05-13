@@ -314,7 +314,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -333,7 +333,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -653,14 +653,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "TESEI",
-    "givenName": "PAOLO",
-    "id": 4832628,
-    "image": null,
-    "name": "PAOLO TESEI"
+    "familyName": "Test",
+    "givenName": "Test",
+    "id": 20125,
+    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1747090866098",
+    "name": "Test Test"
   },
   "dateCreated": "2024-04-17T10:10:44Z",
-  "dateModified": "2025-03-13T09:24:19Z",
+  "dateModified": "2025-05-12T10:43:15Z",
   "description": "[OntoReMa] Percorso turistico che collega varie tappe significative all\u0027interno di una destinazione.",
   "id": 8272728,
   "name": "Itinerario RM",

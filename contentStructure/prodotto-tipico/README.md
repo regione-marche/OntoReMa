@@ -6,7 +6,7 @@ Elemento enogastronomico rappresentativo del territorio.
 - **ID**: 8272864
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:33
-- **Last Modified**: 08-05-2025 12:50
+- **Last Modified**: 12-05-2025 12:17
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

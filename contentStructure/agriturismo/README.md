@@ -6,7 +6,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 08-05-2025 15:39
+- **Last Modified**: 12-05-2025 16:20
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -72,10 +72,12 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **Data Type**: structuredContent
 
 ### 14. Prodotto Tipico (`prodottoTipicoWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Prodotto tipico](../../contentStructure/prodotto-tipico/README.md)**
 
 ### 15. Vino (`vinoWebcontent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
 
 ### 16. Birra (`birraWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: structuredContent
@@ -83,10 +85,14 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
   - **[Birra](../../contentStructure/birra/README.md)**
 
 ### 17. Presidio Slow Food (`presidioSlowFoodWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Presidio Slow Food](../../contentStructure/presidio-slow-food/README.md)**
 
 ### 18. Ricetta (`ricettaWebContent`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
-- **Data Type**: document
+- **Data Type**: structuredContent
+- **Possible structures**:
+  - **[Ricetta](../../contentStructure/ricetta/README.md)**
 
 ### 19. Attività (`attivitaField`) 
 - **Data Type**: string

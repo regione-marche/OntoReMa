@@ -6,7 +6,7 @@ Pacchetto o servizio speciale proposto all'interno di una destinazione.
 - **ID**: 8272818
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:28
-- **Last Modified**: 13-03-2025 09:13
+- **Last Modified**: 12-05-2025 12:17
 
 ## Content Structure Fields
 ### 1. Nome offerta (`nomeDellOffertaField`) 

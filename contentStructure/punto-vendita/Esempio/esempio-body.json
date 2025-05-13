@@ -273,19 +273,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "vinoWebcontent",
       "nestedContentFields": null
@@ -309,19 +305,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "presidioSlowFoodWebContent",
       "nestedContentFields": null
@@ -329,19 +321,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "ricettaWebContent",
       "nestedContentFields": null
@@ -483,7 +471,7 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-05-09T07:08:45Z",
+  "datePublished": "2025-05-12T16:03:42Z",
   "description": "[OntoReMa] Luogo in cui vengono commercializzati prodotti tipici o artigianali.",
   "description_i18n": null,
   "externalReferenceCode": null,

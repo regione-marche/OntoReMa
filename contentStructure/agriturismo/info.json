@@ -273,7 +273,7 @@
       "predefinedValue": null
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Prodotto Tipico",
       "localizable": true,
       "multiple": false,
@@ -287,7 +287,7 @@
       "predefinedValue": null
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Vino",
       "localizable": true,
       "multiple": false,
@@ -315,7 +315,7 @@
       "predefinedValue": null
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Presidio Slow Food",
       "localizable": true,
       "multiple": false,
@@ -329,7 +329,7 @@
       "predefinedValue": null
     },
     {
-      "dataType": "document",
+      "dataType": "structuredContent",
       "label": "Ricetta",
       "localizable": true,
       "multiple": false,
@@ -593,14 +593,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "Test",
-    "givenName": "Test",
-    "id": 20125,
-    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1747004401347",
-    "name": "Test Test"
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T08:31:16Z",
-  "dateModified": "2025-05-08T15:39:22Z",
+  "dateModified": "2025-05-12T16:20:43Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "id": 8272118,
   "name": "Agriturismo",

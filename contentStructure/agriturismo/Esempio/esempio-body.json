@@ -189,19 +189,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "prodottoTipicoWebContent",
       "nestedContentFields": null
@@ -209,19 +205,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "vinoWebcontent",
       "nestedContentFields": null
@@ -245,19 +237,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "presidioSlowFoodWebContent",
       "nestedContentFields": null
@@ -265,19 +253,15 @@
     {
       "contentFieldValue": {
         "data": null,
-        "document": {
-          "contentType": null,
-          "contentUrl": "upload the image in order to get the ID and the ContentUrl",
-          "description": null,
-          "encodingFormat": null,
-          "fileExtension": null,
-          "id": 4104701,
-          "title": null
-        },
+        "document": null,
         "geo": null,
         "image": null,
         "link": null,
-        "structuredContentLink": null
+        "structuredContentLink": {
+          "embeddedStructuredContent": null,
+          "id": 22304517,
+          "title": "create or select the structuredContent in order to get the ID"
+        }
       },
       "name": "ricettaWebContent",
       "nestedContentFields": null
@@ -515,7 +499,7 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-05-08T15:39:22Z",
+  "datePublished": "2025-05-12T16:20:43Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "description_i18n": null,
   "externalReferenceCode": null,

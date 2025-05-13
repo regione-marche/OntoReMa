@@ -6,7 +6,7 @@ Percorso turistico che collega varie tappe significative all'interno di una dest
 - **ID**: 8272728
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:10
-- **Last Modified**: 13-03-2025 09:24
+- **Last Modified**: 12-05-2025 10:43
 
 ## Content Structure Fields
 ### 1. Titolo dell'itinerario (`titoloDellItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)

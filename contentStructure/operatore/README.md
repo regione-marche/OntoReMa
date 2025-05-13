@@ -6,7 +6,7 @@ Professionista o impresa che offre servizi turistici.
 - **ID**: 8272780
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:25
-- **Last Modified**: 13-03-2025 09:15
+- **Last Modified**: 12-05-2025 12:17
 
 ## Content Structure Fields
 ### 1. Nome (`nomeField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
