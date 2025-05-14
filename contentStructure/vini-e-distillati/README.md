@@ -6,7 +6,7 @@ Prodotti alcolici legati alla tradizione enologica di una regione.
 - **ID**: 8273202
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:57
-- **Last Modified**: 13-03-2025 08:50
+- **Last Modified**: 13-05-2025 06:57
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
