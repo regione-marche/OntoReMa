@@ -254,11 +254,11 @@
               "value": "opzione66987847"
             }
           ],
-          "repeatable": true,
+          "repeatable": false,
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         },
         {
           "dataType": "string",
@@ -277,7 +277,7 @@
           "required": false,
           "showLabel": true,
           "inputControl": "text",
-          "predefinedValue": ""
+          "predefinedValue": null
         }
       ],
       "options": [],
@@ -351,7 +351,7 @@
     "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:45:18Z",
-  "dateModified": "2025-03-13T09:04:18Z",
+  "dateModified": "2025-05-14T08:52:25Z",
   "description": "[OntoReMa] Descrizione dei procedimenti e ingredienti per la preparazione di un piatto tradizionale.",
   "id": 8272927,
   "name": "Ricetta",
