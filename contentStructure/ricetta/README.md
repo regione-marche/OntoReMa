@@ -6,7 +6,7 @@ Descrizione dei procedimenti e ingredienti per la preparazione di un piatto trad
 - **ID**: 8272927
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:45
-- **Last Modified**: 14-05-2025 08:52
+- **Last Modified**: 15-05-2025 13:42
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
