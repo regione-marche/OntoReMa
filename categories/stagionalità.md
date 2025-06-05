@@ -17,6 +17,7 @@ Periodo di attività durante l'anno.
 - **Festività natalizie** (`10207185`)
 - **Tutto l'anno** (`10207188`)
 ## Asset Types
+- **[Birrificio](../contentStructure/birrificio/README.md)** 
 - **[Agriturismo](../contentStructure/agriturismo/README.md)** 
 - **[Alloggio RM](../contentStructure/alloggio-rm/README.md)** 
 - **[Birra](../contentStructure/birra/README.md)** 

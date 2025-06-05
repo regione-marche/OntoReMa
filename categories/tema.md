@@ -6,7 +6,7 @@
 - **ID**: 10346791
 - **Site ID**: 52189
 - **Created**: 20-05-2024 14:35
-- **Last Modified**: 20-05-2024 14:35
+- **Last Modified**: 04-06-2025 13:37
 
 ## Categories
 - **Cultura** (`11036593`)
@@ -44,3 +44,4 @@
 - **[Cantina](../contentStructure/cantina/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Ristorante](../contentStructure/ristorante/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Birra](../contentStructure/birra/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Birrificio](../contentStructure/birrificio/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)

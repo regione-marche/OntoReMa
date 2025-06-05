@@ -3,6 +3,7 @@
 ## General Information
 - **Type**: Text
 ## Asset Types
+- **[Birrificio](../contentStructure/birrificio/README.md)**
 - **[Agriturismo](../contentStructure/agriturismo/README.md)**
 - **[Alloggio RM](../contentStructure/alloggio-rm/README.md)**
 - **[Birra](../contentStructure/birra/README.md)**

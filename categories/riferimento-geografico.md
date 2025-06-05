@@ -6,7 +6,7 @@
 - **ID**: 5697889
 - **Site ID**: 52189
 - **Created**: 19-01-2024 11:37
-- **Last Modified**: 24-02-2025 17:26
+- **Last Modified**: 04-06-2025 13:57
 
 ## Categories
 - **Fuori regione** (`22885686`)
@@ -263,3 +263,4 @@
 - **[Servizio Pubblico](../contentStructure/servizio-pubblico/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Tappa itinerario RM](../contentStructure/tappa-itinerario-rm/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Vini e distillati](../contentStructure/vini-e-distillati/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Birrificio](../contentStructure/birrificio/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
