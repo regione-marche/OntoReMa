@@ -6,7 +6,7 @@ Punto o sotto-itinerario significativo all'interno di un itinerario turistico.
 - **ID**: 8273166
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:54
-- **Last Modified**: 12-05-2025 13:21
+- **Last Modified**: 11-06-2025 12:37
 
 ## Content Structure Fields
 ### 1. Nome della tappa dell'itinerario (`nomeDellaTappaDellItinerarioField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -64,7 +64,7 @@ Punto o sotto-itinerario significativo all'interno di un itinerario turistico.
 - **Data Type**: string
 - **Input Control**: text
 
-### 14. LINK (`linkTappaItinerarioFieldset`) 
+### 14. LINK (`linkTappaItinerarioFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
 #### 14.1. Nome del link (`nomeDelLinkField`) 

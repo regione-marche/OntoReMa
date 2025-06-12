@@ -6,7 +6,7 @@
 - **ID**: 5698589
 - **Site ID**: 52189
 - **Created**: 19-01-2024 11:37
-- **Last Modified**: 24-02-2025 17:34
+- **Last Modified**: 11-06-2025 12:33
 
 ## Categories
 - **Privato** (`5698590`)
@@ -34,3 +34,4 @@
 - **[Vini e distillati](../contentStructure/vini-e-distillati/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Servizio Privato](../contentStructure/servizio-privato/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Servizio Pubblico](../contentStructure/servizio-pubblico/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Birrificio](../contentStructure/birrificio/README.md)** ![Required](https://img.shields.io/badge/*Required-red.svg)

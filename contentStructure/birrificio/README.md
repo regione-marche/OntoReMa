@@ -136,8 +136,9 @@ Struttura dedicata alla produzione, degustazione e vendita di birre.
 ## Categories
 - **[Stagionalità](../../categories/stagionalità.md)** (`10207163`) 
 - **[Tema](../../categories/tema.md)** (`10346791`) ![Required](https://img.shields.io/badge/*Required-red.svg)
-- **[Categoria Birrificio](../../categories/categoria-birrificio.md)** (`24576349`) 
+- **[Categoria Birrificio](../../categories/categoria-birrificio.md)** (`24576349`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **[Riferimento geografico](../../categories/riferimento-geografico.md)** (`5697889`) ![Required](https://img.shields.io/badge/*Required-red.svg)
+- **[Licenza](../../categories/licenza.md)** (`5698589`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 ## Custom fields
 - **[ipa_code_contenuto](../../customFields/ipa-code-contenuto.md)**
 - **[credits](../../customFields/credits.md)**
