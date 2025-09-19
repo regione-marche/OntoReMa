@@ -6,7 +6,7 @@ Elemento enogastronomico rappresentativo del territorio.
 - **ID**: 8272864
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:33
-- **Last Modified**: 12-05-2025 12:17
+- **Last Modified**: 10-09-2025 08:29
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -21,7 +21,7 @@ Elemento enogastronomico rappresentativo del territorio.
 - **Input Control**: text
 
 ### 4. Latitudine (`latitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
-- **Data Type**: integer
+- **Data Type**: double
 
 ### 5. Longitudine (`longitudineField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
 - **Data Type**: double

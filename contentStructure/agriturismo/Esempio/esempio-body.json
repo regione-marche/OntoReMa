@@ -364,7 +364,7 @@
     },
     {
       "contentFieldValue": {
-        "data": "12345",
+        "data": "123.45",
         "document": null,
         "geo": null,
         "image": null,
@@ -499,7 +499,7 @@
       "name": "parentId"
     }
   ],
-  "datePublished": "2025-05-12T16:20:43Z",
+  "datePublished": "2025-09-04T08:52:11Z",
   "description": "[OntoReMa] Forma di turismo collegata in origine alla permanenza per un determinato periodo di tempo in aziende agricole.",
   "description_i18n": null,
   "externalReferenceCode": null,

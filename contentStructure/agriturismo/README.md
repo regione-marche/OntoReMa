@@ -6,7 +6,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
 - **ID**: 8272118
 - **Site ID**: 52189
 - **Created**: 17-04-2024 08:31
-- **Last Modified**: 12-05-2025 16:20
+- **Last Modified**: 04-09-2025 08:52
 
 ## Content Structure Fields
 ### 1. Denominazione (`denominazioneField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -119,7 +119,7 @@ Forma di turismo collegata in origine alla permanenza per un determinato periodo
   - **[Ristorante](../../contentStructure/ristorante/README.md)**
 
 ### 25. Latitudine (`latitudineField`) 
-- **Data Type**: integer
+- **Data Type**: double
 
 ### 26. Longitudine (`longitudineField`) 
 - **Data Type**: double
