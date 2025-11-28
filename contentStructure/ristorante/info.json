@@ -489,7 +489,7 @@
               "value": "opzione58193155"
             }
           ],
-          "repeatable": true,
+          "repeatable": false,
           "required": false,
           "showLabel": true,
           "inputControl": "text",
@@ -497,7 +497,7 @@
         }
       ],
       "options": [],
-      "repeatable": false,
+      "repeatable": true,
       "required": false,
       "showLabel": true,
       "inputControl": null,
@@ -560,14 +560,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "Test",
-    "givenName": "Test",
-    "id": 20125,
-    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1758420001772",
-    "name": "Test Test"
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:48:19Z",
-  "dateModified": "2025-05-08T15:39:17Z",
+  "dateModified": "2025-10-01T13:57:06Z",
   "description": "[OntoReMa] Struttura ristorativa che offre piatti e bevande al pubblico.",
   "id": 8272952,
   "name": "Ristorante",
