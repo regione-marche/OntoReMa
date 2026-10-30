@@ -1040,7 +1040,7 @@
         }
       ],
       "options": [],
-      "repeatable": false,
+      "repeatable": true,
       "required": false,
       "showLabel": true,
       "inputControl": null,
@@ -1359,14 +1359,14 @@
   "creator": {
     "additionalName": "",
     "contentType": "UserAccount",
-    "familyName": "Test",
-    "givenName": "Test",
-    "id": 20125,
-    "image": "/image/user_portrait?img_id=452097\u0026img_id_token=l3nYYYpc%2FYI52pNIYfLNqGHdHPY%3D\u0026t=1793242801401",
-    "name": "Test Test"
+    "familyName": "TESEI",
+    "givenName": "PAOLO",
+    "id": 4832628,
+    "image": null,
+    "name": "PAOLO TESEI"
   },
   "dateCreated": "2024-04-17T10:00:16Z",
-  "dateModified": "2025-05-09T14:22:59Z",
+  "dateModified": "2026-10-29T11:24:34Z",
   "description": "[OntoReMa] Occasione particolare organizzata in una determinata destinazione per promuovere cultura, intrattenimento o tradizione.",
   "id": 8272644,
   "name": "Evento RM",

@@ -6,7 +6,7 @@ Occasione particolare organizzata in una determinata destinazione per promuovere
 - **ID**: 8272644
 - **Site ID**: 52189
 - **Created**: 17-04-2024 10:00
-- **Last Modified**: 09-05-2025 14:22
+- **Last Modified**: 29-10-2026 11:24
 
 ## Content Structure Fields
 ### 1. Titolo (`titoloField`) ![Required](https://img.shields.io/badge/*Required-red.svg)
@@ -233,7 +233,7 @@ Occasione particolare organizzata in una determinata destinazione per promuovere
 - **Data Type**: string
 - **Input Control**: text
 
-### 43. Sponsor (`sponsorEventoFieldset`) 
+### 43. Sponsor (`sponsorEventoFieldset`) ![Repeatable](https://img.shields.io/badge/🔄Repeatable-blue.svg)
 - **Data Type**: 
 #### 📁 Nested Fields
 #### 43.1. Nome dello sponsor (`nomeDelloSponsorField`) 
